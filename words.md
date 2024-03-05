@@ -8844,8 +8844,8 @@
 8844	undue	a. 过分的,过度的
 8845	undulate	v.波动, 起伏, 成波浪形。adj.波浪形的, 起伏的
 8846	unduly	adv.过分地，不适当地
-8847	uneasy	a. 不自在的
-8848	unemloyment	n.失业
+8847	uneasy          	a. 不自在的
+8848	unemloyment          	n.失业
 8849	unemployment	n.失业, 失业人数。
 8850	uneven	adj.不平坦的, 不平均的, 不均匀的, 奇数的。
 8851	unexpected	a. 想不到的，意外的，未预料到
@@ -9391,3 +9391,1260 @@
 
 5	abasement	n.身份低微；屈尊；降低
 8	abet	vt.教唆, 煽动, 帮助, 支持。
+9	abeyance	n.缓办，中止
+20	abortive	adj.无效果的，失败的
+25	abrasion	n.磨损
+26	abreast	adv.并肩，并列
+27	abridge	vt. (书等)删节
+29	abrogate	v.取消，废除
+39	absorption	n.吸收；专注
+49	accede	v.同意
+59	accessory	n. 同谋者;附件
+77	accrue	v.产生，发生
+78	accrued	adj.增值的，应计的
+85	accusation	n.控告
+101	acre	n. 英亩；田地；地产
+102	acrobat	n. 特技演员，杂技演员
+103	acrobatics	n.杂技
+116	acute	a. 厉害的;敏锐的;(疾病等)急性的
+127	adequate	a. 充分的;可胜任的
+129	adhere	vi. 粘着;坚持;忠于
+130	adhesive	n.粘合剂
+131	adjacent	a. 邻接的,邻近的
+153	adorn	v.装饰，佩带
+155	adrenalin	n.[生化]肾上腺素。
+165	adverbial	adj.副词的
+166	adversary	adj.敌手，对手
+176	advocate	n. 倡导者;辩护人;vt. 提倡,支持
+177	aerial	a. 空气的,空中的 n. (无线电)天线
+178	aerodynamics	n.空气动力学, 气体力学。
+180	aerosol	n.浮质(气体中的悬浮微粒,如烟,雾等), [化]气溶胶, 气雾剂, 烟雾剂。
+181	aesthetic	adj.美学的, 审美的, 有审美感的。
+186	affiliate	v. 使隶属于;使加入
+191	afflict	vt.使痛苦, 折磨。
+195	afloat	adj.航行中的
+196	aforesaid	adj.上述的
+209	aggravate	vt. 使恶化;使加剧;使气恼
+211	aggregate	n. 共计,合计
+216	agitate	v. 摇动(液体)；使焦虑不安；困扰；鼓动
+219	agonize	v.使痛苦
+231	ailment	n.疾病
+237	airing	n.晾干, 兜风。
+244	aisle	n. 通道
+245	ajar	adv.半开的
+254	ale	n.淡啤酒
+256	alga	n.藻类, 海藻。
+265	alkali	n.[化]碱。adj.碱性的。
+267	allegation	n.主张，断言, 辩解。
+268	allege	vt.宣称, 断言。
+281	alloy	n. 合金
+282	allude	vi.暗指, 影射, 间接提到。
+283	alluvial	adj.冲积的, 淤积的。
+285	almond	n.[植]杏树, 杏仁, 杏仁壮物。
+293	alpine	adj.高山的, 阿尔卑斯山的。
+304	amalgamate	v.使与汞混合, 合并。
+310	ambient	a.周围的，包围着的
+315	ambivalent	adj.矛盾的, 好恶相克的。
+319	amends	n.赔偿
+323	amicable	adj.友好的，和睦的
+328	ammunition	n. 弹药
+332	amphibian	adj.两栖类的, 水陆两用的。n.两栖动物, 水陆两用飞机, 水陆两用的平底车辆。
+333	ample	a. 充足的;宽敞的
+327	ammonia	n.[化]氨, 氨水。
+337	amputate	vt.切除(手臂,腿等)。
+340	analogous	adj.类似的, 相似的, 可比拟的。
+352	anecdote	n. 轶事,趣闻
+363	annex	n.附录，附件
+373	annuity	n.年金, 养老金, 年金享受权。
+378	antagonism	n. 反对,不喜欢
+381	antecedent	a./n. 先行的;祖先
+383	anthem	n.圣歌, 赞美诗。
+387	anticipate	vt. 预料；期望；预先考虑；抢先；提前使用
+390	antiquated	adj.陈旧的。
+407	aphorism	n.格言, 警语, 谚语。
+408	apiece	adv.每个, 每人, 各。
+412	apparatus	n. 仪器,设备
+420	appendix	n. 附录,阑尾
+432	appraisal	n.评价, 估价(尤指估价财产,以便征税), 鉴定。
+440	apprentice	n./vt. 学徒;使当学徒
+441	apprize	v.通知
+450	apt	a. 聪明的;合适的;易于的
+452	aquarium	n.养鱼池, 玻璃缸, 水族馆。
+453	aquatic	adj.水的, 水上的, 水生的, 水栖的。
+457	arable	adj.可耕的, 适于耕种的。
+458	arbitrary	a. 任性的,专断的
+459	arbitrate	v.仲裁
+462	arboreal	adj.树的, 乔木的, 树栖的。
+465	archaeologist	n.考古学家
+471	arctic	a./n. 北极的,北极
+472	ardent	a. 热情的,热心的
+473	arduous	a. 艰巨的,艰苦的
+475	arena	n. 竞技场,比赛场所
+479	aristocracy	n.贵族阶层
+485	armour	n. 盔甲,装甲部队
+488	aroma	n.芳香, 香气, 香味。
+494	arrear	n.欠款
+503	artery	n.动脉, 要道。
+504	arthritis	n.关节炎。
+506	articulate	adj.有关节的, 发音清晰的。vt.用关节连接, 接合, 清晰明白地说。
+515	ascertain	vt. 查明,探查
+517	ASEAN	n.(缩)东盟
+545	assimilate	v.吸收。
+553	assorted	a. 各式各样的
+558	assure	vt. 断言;使确信;保(人寿)险
+560	asterisk	n.星号。
+561	asthma	n.[医]哮喘。
+564	astound	v.使惊讶
+568	astronomer	n.天文学家
+571	asylum	n.庇护, 收容所, 救济院, 精神病院。
+572	asymmetric	adj.不均匀的, 不对称的。
+594	attic	n.阁楼
+596	attorney	n. 律师
+605	audible	adj.听得见的。
+614	aural	a. 听觉的，听力的
+615	auspice	n.赞助，主办
+632	auxiliary	a. 辅助的,协助的
+633	avail	v. 有益于,有用;n. 用处,利益
+636	avalanche	n.雪崩。v.雪崩。
+641	avert	v.转移。
+642	aviation	n. 航空,航空学
+650	awe	n. 敬畏，惊惧vt. 使敬畏，使惊惧
+660	axle	n.(轮)轴，车轴，心棒
+659	axis	n. (pl. axes)轴,轴心
+668	backbone	n.脊梁骨
+670	backdate	v.回溯
+697	ballot	n.选举票, 投票, 票数。vi.投票
+715	banquet	n./vt. 宴会,设宴
+718	barber	n. 理发员
+719	bare	a. 赤裸的;光秃秃的;刚刚够的,勉强的; vt. 露出,暴露
+725	barometer	n. 气压计,晴雨表
+726	baron	n.男爵；贵族；巨商
+728	barrel	n. 圆桶,一桶的量,枪管 vt. 把...装桶
+729	barren	a. 贫瘠的;不结果实的;无益的;无兴趣的
+732	barter	v./n. 货物交换,易货贸易
+738	basin	n. 盆，脸盆；内海，盆地
+747	batter	vt. 连续猛击;炮击;打烂
+751	bazaar	n.集市，廉价商店
+754	bead	n.有孔小珠；露珠
+782	behalf	n. 利益;方面;支持
+791	belly	n. 腹部,腹腔
+802	benevolence	n.慈悲，捐助
+804	bent	n. 爱好,癖好
+805	benzene	n.[化]苯。
+807	berth	n.停泊处, 卧铺(口语)职业。v.使停泊
+808	beset	v.困扰。
+811	bespectacled	adj.带眼镜的。
+820	better-off	adj.经济情况较好的
+824	bewilder	vt. 迷惑,为难
+840	biodegradable	adj.生物所能分解的。
+841	biographer	n.传记记者
+853	bitter	a. 有苦味的;辛酸的;怀恨的;n. 苦啤酒
+856	bitumen	n.沥青。
+860	blacksmith	n.铁匠，锻工
+867	bleach	n. 漂白剂;v. 漂白
+868	bleak	adj.寒冷的, 阴冷的, 荒凉的, 凄凉的, 黯淡的。
+876	bloc	n.为某种共同目的而采取一致行动的政治组织, 集团。
+878	blockage	n.封锁
+885	blot	n. 墨水渍;污点;缺点;vi. 涂污;(用吸水纸)吸干墨水;遮暗
+889	blunder	v. 瞎闯,犯愚蠢的错误;n. 因疏忽所犯的错误
+890	blunt	a. 钝的;生硬的;直率的;vt. 使钝,把…弄迟钝
+894	boarding	n.伙食
+910	bona fide	adj.真诚的，无欺的
+928	booth	n. 有篷的售货摊,隔开的小间
+930	bore	v. 钻孔;厌烦;n. 孔;口径;惹人厌烦的人
+945	bough	n.树枝
+951	bourgeois	a.资产阶级的；平庸的
+953	boutique	n.专卖流行衣服的小商店。
+963	boycott	vt./n. 联合抵制
+964	brace	n. 用以夹住或支撑的东西;拉条;撑臂;背带;v. 支住;奋起振作
+966	brag	v.吹嘘，夸口
+972	brandy	n. 白兰地酒
+973	brash	adj.仓促的, 无礼的, 性急的, 傲慢的。n.胃灼热, 骤雨, 碎片
+974	brass	n. 黄铜，铜器
+995	brew	v.酿造, 酝酿。
+996	brewery	n.酿酒厂。
+1003	bridle	n.笼子；束缚vt.抑制
+1013	brim	n. 边缘，帽沿
+1015	brink	n. 边缘(通常指处于某种糟糕的局势中)
+1016	brisk	a. 轻快的;兴隆的;寒冷而清新的
+1017	bristle	n.短而硬的毛；鬃毛
+1020	brittle	a. 易碎的,脆弱的
+1025	brochure	n. 有插图的小册子
+1028	bronchitis	n.[医]支气管炎。
+1029	bronze	n./v. 青铜,青铜色,青铜器
+1030	brood	n. 同窝幼鸟;一个家庭的孩子;vi. 孵幼雏;沉思
+1059	bulb	n. 鳞茎,球茎,球状物
+1060	bulge	n.凸出部分。v.凸出, 膨胀
+1062	bulky	adj.庞大的，笨重的
+1066	bullion	n.金块，金条
+1068	bully	n.欺凌弱小者。vt.威吓, 威逼。
+1069	bump	v./n. 撞击;颠簸地行驶;凹凸不平;ad. 猛烈地
+1074	bungalow	n.(带走廊的)平房。
+1075	bunk	n.(轮船, 火车等)铺位。
+1076	buoyant	adj.有浮力的, 轻快的。
+1078	burdensome	adj.沉重的
+1079	bureau	n. 署，局，司，处
+1080	bureaucracy	n. 官僚
+1082	burgeon	n.嫩芽。v.萌芽
+1083	burglar	n. (入室行窃的)盗贼
+1087	burner	n.灯头，煤气头
+1089	burrow	n.洞穴。v.挖地洞
+1090	bursar	n.(大学的)会计, (苏格兰大学)得奖学金的学生。
+1098	bust	n.半身像, 胸像, (妇女的)胸部。
+1113	bygone	n.已往的，过时的
+1114	bypass	n. 迂回的旁道;旁路;vt. 加设旁道;回避;躲开
+1118	cabbage	n. 洋白菜，卷心菜
+1119	cabin	n. 船舱,机舱,小木屋
+1120	cabinet	n. 柜橱,内阁
+1121	cable	n. 缆,索,电缆 v. 拍电报
+1126	calamity	n.灾难, 不幸事件。
+1127	calcium	n.[化]钙(元素符号Ca)。
+1131	calculus	n.微积分；结石
+1134	calibrate	v.校准。
+1142	campaign	n. 战役,运动 vi. 参加运动
+1148	canal	n. 运河,河渠,动植物体内的管道
+1149	canary	n.金丝雀
+1153	candid	adj.坦白的，直率的
+1157	cane	n. 茎,手杖,甘蔗
+1158	canned	adj.罐装的
+1160	canoe	n. 独木舟，小游艇
+1164	canvass	v.游说
+1162	canteen	n. 食堂,小卖部,餐具箱,水壶
+1161	canon	n.规范，准则
+1170	capillary	n.毛细管。adj.毛状的, 毛细作用的
+1177	capitulate	vi.有条件投降, 认输, 屈服, 让步, 停止抵抗。
+1178	capsule	n.(植物)蒴果, 胶囊, 瓶帽, 太空舱。
+1184	caravan	n.车队，大蓬车
+1185	carbohydrate	n.[化]碳水化合物, 醣类。
+1189	cardinal	a. 主要的,基本的;n. 深红色;基数
+1196	carnivore	n.食肉动物。n.(动物或植物)食肉类,食肉动物,食虫植物
+1197	carol	n.颂歌
+1198	carousel	n.喧闹的酒会。
+1199	carp	n.鲤鱼。vi.吹毛求疵。
+1200	carpenter	n. 木工,木匠
+1202	carpet	n. 地毯
+1208	cartilage	n.[解剖]软骨。
+1212	cartridge	n.弹药筒，子弹；软片
+1218	cassette	n. 磁带盒,照相软片盒
+1223	casualty	n. 伤亡人员
+1227	catalyst	n. 催化剂;造成变化的人或事
+1228	cataract	n.大瀑布, 奔流, 白内障。
+1251	celery	n.芹菜
+1253	cellar	n. 地窖,酒窖
+1255	cellulose	n.纤维素。
+1256	cement	n. 水泥,结合剂 vt. 黏结,胶合
+1257	cemetery	n. 公墓,墓地
+1258	censor	n./vt. 审查,审查员;删改
+1260	census	n.人口普查。
+1262	centenary	n.一百年。adj.一百年的。
+1270	ceramic	adj.陶器的。n.陶瓷制品
+1280	cervix	n.[解]颈部, 子宫颈。
+1312	charter	n./v. 宪章;特许状;租赁;vt. 特许,发执照
+1314	chasm	n.深坑, 裂口。
+1315	chaste	adj.贞洁的, (思想, 言论, 尤其是性的节操)有道德的, 朴素的。
+1326	cheeky	adj.胖乎乎的
+1333	cheque	n.支票
+1340	chic	n.别致的款式(尤指妇女的服饰)。adj.别致的
+1349	chill	n./a./v. 寒冷,扫兴的,(使)感冒
+1351	chime	n.一套发谐音的钟(尤指教堂内的), 和谐。vi.鸣, 打, 和谐。vt.敲出和谐的声音, 打钟报时
+1357	chisel	n.凿子。v.砍凿
+1364	choral	adj.合唱队的。
+1365	chord	n.弦, 和音, 情绪。n.[解]腱
+1366	chore	n.家务杂事。
+1372	chromosome	n.[生物]染色体。
+1367	chorus	n./vt. 合唱;齐声说
+1372	chromosome	n.[生物]染色体。
+1373	chronic	adj.慢性的, 延续很长的。
+1400	clam	n.蛤。
+1401	clamor	n.喧闹, 叫嚷, 大声的要求。v.喧嚷, 大声的要求
+1402	clamp	n./v. 螺丝钳;用钳夹;取缔
+1403	clan	n.部落, 氏族, 宗族, 党派。
+1409	clasp	n./v. 扣子;紧握;拥抱
+1417	clatter	n.得得声，卡嗒声
+1418	clause	n. 条款;从句
+1425	clench	v.咬紧，握紧，决定
+1432	cliff	n. 悬崖；峭壁
+1449	closet	n. 小储藏室
+1461	clutch	v. 抓住,攫住;n. 抓,攫,控制;离合器
+1465	coarse	a. 粗的,粗糙的;粗俗的
+1466	coast	n. 海岸，海滨
+1469	coax	v.哄, 耐心使...。
+1470	cocaine	n.古柯碱,可卡因。
+1478	coerce	vt.强制, 强迫。
+1481	cog	n.[机]嵌齿, 小船。vt.上齿轮, 欺骗
+1510	colonnade	n.柱廊。
+1511	colony	n. 殖民地；侨民；聚居区；(动植物的)群体
+1516	colossal	adj.巨大的, 庞大的。
+1519	comb	n. 梳子v. 梳(理)
+1524	combustion	n.燃烧。
+1538	commend	vt. 称赞;推荐;委托保管
+1550	commodity	n. 日用品,商品
+1558	commune	n.公社
+1565	commute	v.交换, 抵偿, 减刑, <电工>整流。
+1566	commuter	n.通勤者, 经常往返者。
+1578	compel	vt. 强迫,迫使
+1580	compensate	v. 赔偿,补偿
+1589	compile	vt. 编辑,编写
+1628	conceal	vt. 隐藏,隐蔽
+1629	concede	vt. (不情愿地)承认,承认…为真(或正确); 承认失败;让于;vi. 让步,认输
+1630	conceit	n.自负，自高自大
+1631	conceited	adj.自负的
+1632	conceivable	adj.可能的, 想得到的, 可想像的。
+1633	conceive	v. 想出(主意);怀孕
+1651	concoct	vt.调制, 调合, 编造。
+1663	condolence	n.哀悼, 吊唁。
+1669	cone	n.锥体，锥形
+1691	congested	adj.拥挤的。
+1698	congruent	adj.适合的。
+1735	consonant	n.辅音,辅音字母,子音;adj. 一致的,调和的,辅音的
+1788	contradict	vt. 反驳,否认;同…矛盾
+1798	convene	v.召集, 集合。
+1803	converge	v.聚合, 集中于一点。vt.会聚
+1804	conversant	adj.精通的，有交情的
+1812	convict	n.罪犯
+1825	cope	v. (with)竞争，对抗；(with)对付，妥善处理
+1855	cosmetic	n.化妆品。adj.化妆用的。
+1857	cosmic	a. 宇宙的
+1860	cosset	n.亲手饲养的宠物, 宠儿。vt.宠爱, 珍爱, 溺爱。
+1906	crab	n. 螃蟹，蟹肉
+1909	cradle	n. 摇篮;策源地;支船架;vt. 把…放在摇篮里
+1913	cram	v.填满。
+1914	cramp	n.抽筋, 腹部绞痛, 月经痛。adj.狭窄的, 难解的。vt.使抽筋, 以铁箍扣紧。
+1917	crate	n.一箱，篓，筐
+1918	crater	n.弹坑。
+1919	crave	v.渴望，恳求
+1935	creek	n.小川，小湾
+1942	crimson	adj. &n.深红色(的)
+1958	crouch	vi./n. 蹲伏
+1966	cruise	v. 巡航;以节省燃料的速度前进;n. 乘船巡游
+1980	cue	n.暗示, 提示, 球杆。
+1981	cuff	n.袖口, 裤子翻边, 护腕, 手铐。vt.给...上袖口(或翻边), 用手铐铐
+1982	cuisine	n.厨房烹调法, 烹饪, 烹调风格。
+2007	curtain	n. 窗帘，门帘；幕(布)；结束vt遮掩
+2006	curtail	vt. 截短,削减
+2021	cyanide	n.[化]氰化物。
+2033	dam	n./vt. 水坝,筑坝,抑制,阻拦
+2049	dart	n. 标,镖;vt. 投掷;vi. 急冲
+2076	dearth	n.缺乏。
+2085	decay	vi./n. 腐烂;衰微
+2106	declining	adj.下降的，衰落的
+2114	decrepit	adj.衰老的。
+2134	defiance	n. 挑战,挑衅;违抗;蔑视
+2138	deficit	n. 空额,赤字
+2139	defile	v.染污。n.隘路
+2145	deflate	v.收缩，紧缩
+2146	deflect	v. 偏斜
+2148	deform	vt.损坏…的形状
+2152	deft	adj.敏捷熟练的, 灵巧的。
+2159	delcredere	n.保付
+2166	deliberately	ad.审慎地，故意地
+2173	delinquency	n. 过失,为非作歹,失职
+2174	delinquent	adj.拖欠的
+2175	delirium	n.(暂时的)精神狂乱, 精神错乱, 说谵语状态, 狂语, 精神极度兴奋。
+2179	delta	n.三角州, 德耳塔(希腊字母的第四个字)。
+2180	delude	vt.迷惑, 蛊惑。
+2181	deluge	n.洪水, 豪雨。v.使泛滥, 淹, 浸, 压倒。
+2182	delusion	n.错觉
+2183	delusive	adj.令人产生错觉的
+2189	demography	n.人口统计学。
+2190	demolish	vt. 拆毁;废除;驳倒
+2195	demurrage	n.滞期费
+2201	denote	vt. 是…的符号,指示,表示
+2202	denounce	vt. 谴责,斥责
+2215	dependant	n.受赡养者；侍从
+2218	depict	vt. 描绘,描写
+2220	deplete	vt. 耗尽,用尽
+2222	deplore	v.表示悲痛。
+2232	deputy	n. 代表,代理人
+2233	derelict	adj.被抛弃了的。n.遗弃物
+2236	derrick	n.钻塔，井架
+2251	desolate	a. 荒芜的,无人居住的,孤寂的; vt. 使荒芜,使荒凉
+2254	despatch	v.n.派遣。
+2273	deter	v.阻止。
+2274	detergent	n.清洁剂, 去垢剂。
+2275	deteriorate	v. 恶化,败坏
+2279	detest	vt.厌恶, 憎恨。
+2280	detour	v.绕道，绕开
+2281	detract	v.降低
+2282	detriment	n.损害
+2292	deviate	vi. 偏离,背离
+2296	devise	vt. 设计,想出
+2301	dew	n. 露水
+2305	dial	n. 表面,钟面,拨号盘 vt. 打电话
+2308	diameter	n. 直径
+2310	diaphragm	n.[解] 横隔膜, 控光装置, 照相机镜头上的光圈, (电话等)振动膜。
+2311	diarrhea	n.痢疾,腹泻。
+2317	diction	n.措辞
+2320	diesel	n.柴油发动机，内燃机
+2330	diffuse	v.散播, 传播, 漫射, 扩散, (使)慢慢混合。adj.散开的, 弥漫的。
+2336	dignify	vt.使尊荣, 增威严, 使高贵, 故做显贵。
+2338	dike	n.堤
+2339	dilapidated	adj.毁坏的, 要塌似的, 荒废的。
+2343	dilute	vt. 使变淡,稀释;a. 稀释的
+2349	din	n.喧嚣。v.絮絮不休地说, 喧闹。
+2357	diplomacy	n.外交
+2381	disarm	vt.解除武装, 回复平常的编制, 缓和, 消除(敌意,疑虑)。vi.放下武器
+2385	disburse	v.支付
+2387	disc	n. 圆盘,圆面,磁盘,椎间盘
+2413	disdain	vt./n. 蔑视,轻视
+2415	disentangle	vi.解脱, 解开纠结, 松开, 解决(纠纷)。vt.解开, 松开。
+2418	disguise	vt./n. 假扮;隐蔽;掩饰
+2424	disillusion	n.觉醒vt.使觉醒
+2426	disinfectant	n.消毒剂
+2431	dismal	adj.阴郁的，沉闷的
+2439	dispel	v.驱散
+2440	dispense	v.分配，施予
+2453	dispute	v./n. 争论,争执,质疑
+2454	disregard	vt./n. 不理,漠视
+2460	dissimilar	adj.不同的
+2461	dissipate	v. 消散,消失;浪费,挥霍
+2486	disuse	v. &n.废止
+2496	divert	vt. 使转向,使改道(或绕道);转移,转移…的注意力;使娱乐,使消遣
+2506	doctrine	n. 教条,教义
+2512	dogged	adj.顽固的, 顽强的。
+2520	dome	n. 圆屋顶
+2532	dorsal	adj.背的, 脊的。
+2559	drastic	a. 严厉的,极端的;激烈的,迅猛的
+2567	dreary	a. 沉闷的,阴沉的
+2569	drench	vt. 使淋透,使湿透
+2572	drift	n. 漂流,漂流物,大概意思,趋势;v. 漂流,流浪
+2578	droop	v.下垂
+2583	drowse	n.困，瞌睡。vi.打瞌睡。vt.使瞌睡
+2585	drudgery	n.苦差事, 苦工。
+2600	dumb	a. 哑的,暂不说话的,愚笨的
+2599	duly	ad. 适当地,按时地
+2598	dull	a. 阴暗的,迟钝的,沉闷的,钝的 v. 变钝
+2626	dysentery	n.[医] 痢疾。
+2634	earmark	n.标记，特征
+2651	eccentric	n./a. 古怪(的),偏执(的);不同心(的)
+2660	economize	v.节省
+2663	ecstasy	n.狂喜
+2674	eel	n.鳝鱼
+2686	ego	n.自我, 利已主义, 自负。
+2694	eject	v. 喷射,排出;驱逐
+2696	eke	vt.补充, 增加。
+2699	elapse	vi. (时间)流逝
+2727	elicit	vt.得出, 引出, 抽出, 引起。
+2731	elite	n.<法>[集合名词]精华, 精锐, 中坚分子。
+2732	ellipsis	n.省略
+2733	elliptical	a.椭圆的；省略的
+2734	eloquence	n.雄辩；口才，修辞
+2752	embroider	v.绣
+2760	eminent	a. 著名的,卓越的
+2780	enact	vt.制定法律, 颁布, 扮演。
+2781	enchant	vt.迷住；用魔法迷惑
+2788	encroach	vi.(逐步或暗中)侵占, 蚕食, 超出通常(或正常)界线。
+2789	encyclopaedia	n.百科全书
+2792	endanger	vt.危及，危害
+2797	endorse	vt. 背书,签署(姓名);赞同
+2799	endow	vt. 捐款,资助;赋予天赋
+2835	enrol	vt.登记, 入学。vi.参军, 注册。
+2840	ensue	vi.跟着发生, 继起。vt.(基督教《圣经》用语)追求。
+2843	entangle	vt.使缠上, 纠缠, 卷入, 连累, 使混乱。
+2842	entail	vt. 使必需
+2839	ensemble	n.<法>全体, [音]合唱曲, 全体演出者。
+2863	enumerate	v.列举
+2864	envelop	v.包，围绕
+2869	envisage	v.正视。
+2872	enzyme	n.[生化]酶。
+2873	ephemeral	adj.朝生暮死的, 短暂的, 短命的。
+2876	epoch	n. 新纪元,新时代
+2883	equilibrium	n.平衡，均衡；均衡论
+2891	era	n. 时代，年代，阶段，纪元
+2892	eradicate	v.根除
+2896	erect	vt. 建立,使竖立;a. 直立的,竖直的
+2898	erode	vt.侵蚀, 腐蚀, 使变化。vi.受腐蚀, 逐渐消蚀掉。
+2899	erosion	n. 腐蚀,侵蚀;削弱,丧失
+2901	errand	n. 差使,差事
+2902	erratic	adj.无确定路线, 不稳定的, 奇怪的。n.古怪的人, 漂泊无定的人。
+2910	escort	n. 护卫者;护航舰;vt. 护送,护卫
+2922	esteem	n./vt. 尊重,珍重
+2927	eternal	a. 永久的,不朽的;不停的
+2960	evoke	vt.唤起, 引起, 博得。
+2964	exacerbate	vt.恶化, 增剧, 激怒, 使加剧, 使烦恼。
+2970	exalt	v.抬高，发扬
+3002	excrement	n.排泄物, 大便。
+3003	excursion	n. 远足,短途旅行
+3008	exemplify	vt. 举例说明,作为…的例证
+3009	exempt	vt./a. 免除,被豁免的
+3080	expulsion	n.逐出, 开除。
+3081	exquisite	a. 优美的,精巧的
+3094	extol	v.赞美。
+3095	extort	v.敲诈, 逼取, 强取, 勒索。
+3104	exuberant	adj.繁茂的, 丰富的, 非凡的, (语言等)华而不实的。
+3100	extravagance	n.奢侈，浪费
+3109	eyelid	n.眼睑
+3111	fable	n. 寓言
+3112	fabric	n. 织物;构造,结构
+3115	fabulous	adj.寓言中的, 寓言般的, 神话般的, 传统上的, 惊人的, 难以置信的。
+3117	facet	n.(多面体的)面, (宝石等的)刻面, 小平面, 方面, 琢面。vt.在...上刻画
+3134	fairy	a. 幻想中的；虚构的；优雅的n. 仙女；精灵
+3144	falter	vt.支吾地说, 结巴地讲出。vi.支吾, 蹒跚踉跄, 摇摆, (声音)颤抖。n.颤抖, 支吾, 踌躇
+3168	fascism	n.法西斯
+3180	fathom	v.领会，推测
+3181	fatigue	n./vt. 疲劳,(金属)疲劳,杂役
+3183	fatuous	adj.愚昧的, 昏庸的, 发呆的, 愚笨的, 自满的。
+3187	fauna	n.动物群, 动物区系, 动物志。
+3217	femur	n.[解]大腿骨, 腿节, [动](昆虫的)腿节, 股节。
+3222	ferrous	a.铁的；亚铁的
+3223	ferry	n./v. 渡口,渡船,摆渡
+3228	fester	n.脓疮。vi.溃烂, 化脓。vt.使烦恼, 使溃烂
+3232	fetter	n.[常用复]脚镣, 羁绊, 束缚。vt.束缚, 加脚镣。
+3233	fetus	n.胎儿。
+3234	feud	n.纠纷，封地
+3235	feudal	a. 封建的；封地的；领地的
+3242	fickle	adj.(在感情等方面)变幻无常的, 浮躁的, 薄情的。
+3245	fiddle	n.提琴
+3246	fidelity	n.忠实, 诚实, 忠诚, 保真度, (收音机, 录音设备等的)逼真度, 保真度, 重现精度。
+3254	fig	n.无花果
+3257	figurative	adj.比喻的，修饰的
+3259	filament	n.细丝, 灯丝。
+3266	filth	n. 污秽,淫猥
+3279	finicky	adj.过分注意的, 过分讲究的, 过分周到的。
+3298	fission	n.裂开；分裂生殖
+3307	flabby	adj.优柔寡断的性格(或人), 软弱的, 没气力的, 不稳的, (肌肉等)不结实的, 松弛的。
+3312	flank	n./vi. 胁,侧翼;包抄…的侧翼
+3313	flannel	n.法兰绒；法兰绒衣服
+3317	flask	n. 细颈瓶,扁形酒瓶
+3321	flaunt	n.招展, 招摇, 炫耀, 飘扬。v.挥动, 夸耀, 炫耀, 飘扬。
+3326	fleece	n.羊毛
+3339	flirt	vt.忽然弹出, 挥动。vi.调情, 摇晃的移动, 玩弄, 摇晃地摆动, 摆动, 轻率地对待。n.卖弄风情的人, 调情的人。
+3354	fluff	n.软毛, 柔毛, 绒毛, 错误, 无价值的东西。vi.起毛, 变松, 出错。vt.使起毛, 抖松, 念错(台词)。
+3356	fluorescent	adj.荧光的, 莹光的。
+3358	flute	n.长笛，笛子
+3366	fodder	n.饲料
+3367	foe	n.敌人，宿敌
+3370	foible	n.弱点, (性格上的)缺点, 自负的地方, 怪癖, 癖好, (刀剑)自中部至尖端的部分。
+3371	foil	n.箔, 金属薄片, [建]叶形片, 烘托, 衬托。vt.衬托, 阻止, 挡开, 挫败, 贴箔于。
+3401	foreman	n.领班
+3403	forensic	adj.法院的, 适于法庭的, 公开辩论的。n.辩论术。
+3411	forfeit	n.(因犯罪.过失.违约等而)丧失的东西, 没收物, 罚款。vt.没收, 丧失。adj.丧失了的
+3424	formidable	a. 可怕的,难以对付的
+3429	fort	n. 堡垒,要塞
+3433	fortify	vt.设防于, 增强(体力,结构等)使坚强, 增加, (酒)的酒精含量。vi.筑防御工事。
+3434	fortitude	n.坚毅
+3445	foster	vt. 养育；收养；怀抱；鼓励a. 收养的n. 养育者
+3446	foul	a. 恶臭的;邪恶的;暴风雨的;n. (体育)犯规;v. 弄脏,玷污;(使)缠结,犯规
+3454	fowl	n.家禽；禽肉
+3462	fragrance	n. 香味,香气
+3463	fragrant	a. 香的；芬芳的
+3464	frail	a. 虚弱的,脆弱的
+3465	frame	n. 框架；体格；骨架；组织；机构v. 设计；制定
+3489	fret	v./n. 烦恼,侵蚀
+3500	fringe	n. 边缘；(窗帘)缘饰；额前垂发vt. 饰…的边
+3506	frost	n. 严寒,霜;v. 结霜;使(玻璃)具有光泽的表面;在(糕饼上)撒糖粒
+3531	funnel	n.漏斗, 烟窗。
+3538	furor	n.激怒, 狂热, (诗情的)激情。
+3539	furrow	n.犁沟
+3543	fuse	n. 导火线,信管,引信,保险丝;v. 熔,熔化,烧断电路
+3545	fuss	n. 大惊,小怪;v. 忙乱,使烦躁
+3546	fussy	adj.爱大惊小怪的
+3552	gale	n. 大风;一阵喧闹
+3561	gaol	n.监狱
+3563	gape	v.打呵欠。n.呵欠
+3570	garment	n. (一件)衣服(长袍、外套)
+3578	gaudy	adj.华而不实的。
+3579	gauge	n. 标准尺寸,(铁道)轨矩;(雨量)器;(电线)直径;vt. 测量;估计;评价(人物)
+3605	genuine	a. 真正的,名副其实的;真诚的
+3615	ghastly	adj.苍白的, 死人般的, 可怕的, 惊人的。adv.可怖地, 惨白地。
+3621	gimmick	n.暗机关。vt.使暗机关。
+3624	gist	n.要点, 要旨, 依据, [法律]诉讼主因。
+3628	glacier	n.冰河。
+3630	glamour	n.[亦作glamor] 魔力, 魅力。v.迷惑。
+3632	gland	n.[解剖]腺, [机械]密封管。
+3636	gleam	n./vi. 微光,闪光,短暂而微弱的闪现
+3637	glide	vi./n. 滑动,滑翔
+3638	glimmer	v.闪烁。n.闪光
+3646	gloom	n.黑暗，忧郁
+3658	glycerin	n.甘油, 丙三醇。
+3659	gnaw	vt.啃，咬断vi.啮
+3660	GNP	n.(缩)国民总收入
+3677	gorge	n.咽喉，峡谷，山口
+3685	gown	n. 长袍,长外衣
+3700	granary	n.谷仓。
+3708	granite	a.花岗岩，花岗石
+3710	granular	adj.由小粒而成的, 粒状的
+3717	grasshopper	n.蚱蜢，蝗虫，蚂蚱
+3750	grin	v./n. 露齿而笑,咧嘴一笑
+3751	grind	vt. 磨,磨碎,碾碎;(down)折磨,压迫 vi. 摩擦得吱吱作响 n. 苦差事,苦活儿
+3749	grim	a. 严酷的;讨厌的;严厉的
+3747	grieve	v. (使)悲痛,(使)伤心
+3746	grief	n. 悲伤，悲痛；悲伤的事，悲痛的缘由
+3757	groove	n.槽vt.开槽于
+3758	grope	v. 暗中摸索
+3769	grudge	vt. 吝惜,不愿给;n. 恶意,怨恨,忌妒
+3771	grunt	vi.作呼噜声；咕哝
+3781	guild	n.(中世纪的)行会, 同业公会, 协会, 行业协会。
+3785	gulf	n. 海湾
+3791	gush	v.涌出。
+3793	gutter	n.沟，边沟；檐槽
+3796	gymnast	n.体操运动员
+3802	haggard	adj.消瘦的，憔悴的
+3801	habitual	a.习惯性的，惯常的
+3802	haggard	adj.消瘦的，憔悴的
+3804	hail	n./v. (下)冰雹;(冰雹般)一阵,落下
+3808	hairpin	n.发卡
+3812	halibut	n.大比目鱼。
+3814	hallmark	n.标志
+3816	halve	vt.对分；平摊
+3817	ham	n. 火腿
+3820	hamper	vt. 阻碍,妨碍,牵制
+3824	handcuff	n.手拷。v.上手拷
+3826	handicap	n. 给予优者的不利条件以使竞赛机会相等,障碍,残废;vt. 妨碍
+3827	handicapped	adj.有残疾的
+3836	hanger	n.衣架
+3837	haphazard	a./ad. 杂乱的(地),任意的(地)
+3843	harangue	n.尤指指责性的, 长篇大论, 夸张的话。vt.向...夸大地讲话, (作)长篇、大声、常带斥责的讲话。
+3863	harsh	a. 粗糙的;严厉的
+3864	harvest	n. 收获，收成；成果，后果v. 收获，收割
+3865	haste	n. 匆忙，急速；草率v. 赶快；匆忙
+3869	hatch	v. 孵出;策划
+3879	havoc	n.大破坏, 浩劫。vt.严重破坏。
+3901	hearth	n.壁炉地面；炉边
+3912	hectic	adj.脸上发红, 发热的, 兴奋的, 狂热的, 肺病的。n.脸红, 患肺结核。
+3914	hedgehog	n.刺猬
+3929	hemisphere	n. 半球,(地球的)半球
+3935	herald	ad.传令官；通报者
+3940	herculean	adj.力大无比的, 巨大的。
+3945	hereditary	adj.世袭的, 遗传的。
+3996	hive	n.蜂房, 蜂箱, 闹市。v.(使)入蜂箱, 群居。
+4000	hoist	vt. 升起,扯起,向上推;n. 起重机
+4008	holocaust	n.大毁灭, 大屠杀。
+4016	homicide	n.杀人, 杀人者。
+4016	homicide	n.杀人, 杀人者。
+4054	hound	n. 猎狗;卑鄙的人 vt. 用猎狗追,追逐
+4078	humdrum	adj.单调的。
+4092	hurdle	n.篱笆, 栏, 障碍, 跨栏, 活动篱笆。v.用篱笆围住, 跳过(栏栅), 克服(障碍)。
+4093	hurl	vt./n. 猛掷,猛投;大声叫骂
+4100	husky	adj.谷的, 像谷的, (声音)沙哑的, 嘶哑的。
+4164	immaterial	adj.无形的，不重要的
+4168	immense	a. 广大的,巨大的
+4173	imminent	a. 迫近的,紧迫的
+4176	immune	adj.免疫的。
+4189	impetuous	adj.冲动的, 猛烈的, 激烈的。
+4191	implant	v.灌输。
+4216	impromptu	n.即席演出, 即兴曲。adj.即席的。adv.即席地, 未经准备地
+4209	impost	n.进口税，关税
+4230	inapt	adj.不确切的。
+4263	incorporated	adj.有限的
+4318	inept	adj.不适当的, 无能的, 不称职的
+4319	inert	adj.无活动的, 惰性的, 迟钝的
+4320	inertia	n. 不活动，惰性；惯性
+4324	inexorable	adj.无情的
+4338	infest	v.大批滋生。
+4333	inference	n. 推论，推理，推断；结论
+4347	inflict	vt. 使遭受,强加
+4351	influx	n.流入。
+4357	infringe	v. 违反,触犯,侵害
+4359	ingenious	a. 设计独特的;别致的,巧妙的;灵巧的
+4360	ingenuity	n.机灵；设计新颖
+4362	ingot	n.[冶]锭铁, 工业纯铁。
+4380	inlet	n. 水湾，小湾；进口，入口
+4383	innards	n.<口>内脏。
+4445	intact	adj.完整无缺的, 尚未被人碰过的, (女子)保持童贞的, (家畜)未经阉割的。
+4476	interim	adj.中间的, 临时的, 间歇的。n.中间时期, 过渡时期, 暂定。
+4503	intricate	adj.复杂的, 错综的, 难以理解的。
+4504	intrigue	n.阴谋, 诡计。vi.密谋, 私通。vt.激起...的兴趣, 用诡计取得
+4505	intrinsic	adj.(指价值、性质)固有的, 内在的, 本质的。
+4509	intrude	vi. 闯入，侵入vt. 把(思想等)强加于人；强挤入
+4510	intuition	n.直觉, 直觉的知识。
+4542	iodine	n.碘, 碘酒。5aIEdi:n;
+4546	ironic	adj.说反话的, 讽刺的。
+4555	irrigate	vt. 灌溉，修水利vi. 进行灌溉
+4579	jam	v. 压紧,夹住;发生故障;塞进;干扰;n. 阻塞物;窘境
+4591	jeer	n.嘲笑, 讥讽, 戏弄。v.嘲弄, 戏弄。
+4612	jot	v.匆匆记下
+4628	junction	n. 交叉点,接合点
+4647	kerosene	n.煤油
+4683	knot	n. 绳结;结合;树节;海里;小群人;v. 打结
+4721	lapse	n. 小错,记错;(时间)流逝
+4734	lateral	a. 侧面的,旁边的
+4735	lathe	n.车床vt.用车床加工
+4746	lavish	adj.非常大方的, 过分丰富的, 浪费的。vt.浪费, 滥用, 慷慨给予。
+4749	lawn	n. 草地,草坪
+4810	lest	conj. 惟恐，免得
+4812	lethal	adj.致命的。n.致死因子。
+4816	levy	v./n. 征收,征税
+4817	lewd	adj.淫荡的, 猥亵的, 下流的。
+4824	liberal	a. 慷慨的,大方的,胸怀宽大的;n. 自由主义者
+4819	lexicography	n.词典编纂。
+4822	liaison	n.联络, (语音)连音。
+4835	lieutenant	n.陆军中尉；副职官员
+4852	limb	n. 肢,臂,翼,大树枝
+4853	lime	n.石灰
+4858	limousine	n.豪华轿车
+4859	limp	a. 柔软的,软弱的;vt./n. 跛行,蹒跚
+4864	linger	vi. 逗留,徘徊;动作迟缓;苟延残喘
+4867	lining	n.(衣服里的)衬里
+4869	lint	n.（旧时作）绷带用软麻布。
+4874	liqueur	n.利口酒。
+4899	loath	adj.不情愿的, 勉强的。
+4900	lobby	n. 门廊,门厅;院外活动集团;v. 对(议员等)游说活动
+4909	locomotive	a. 运动的,移动的 n. 火车头
+4910	locust	n.蝗虫；洋槐，刺槐
+4911	lodge	v. 临时住宿，寄宿，寄存，容纳n. 传达室，小旅馆
+4913	lofty	a. 高耸的;崇高的;高傲的
+4928	loom	vi. 隐隐呈现,赫然耸现;n. 织机,织造(术)
+4954	lubricate	vt. 使润滑,使顺利
+4956	lucid	adj.明晰的。
+4959	lucrative	adj.有利的。
+4960	ludicrous	adj.可笑的, 滑稽的, 愚蠢的。
+4965	luminous	a.发光的；光明的
+4972	lure	v.引诱。
+4973	lurk	n.潜伏, 埋伏。vi.潜藏, 潜伏, 埋伏。
+4977	macaque	n.短尾猿。
+5003	maim	vt.使残废, 使不能工作。
+5010	maize	n. 玉米
+5017	make-shift	adj.临时的n.权宜之计
+5021	malaise	n.不舒服
+5029	malleable	adj.有延展性的, 可锻的。
+5030	malnutrition	n.营养失调, 营养不良。
+5031	malpractice	n.玩忽职守。
+5035	manacle	n.手铐, 脚镣, 束缚。vt.给...上手铐, 束缚
+5041	mandatory	adj.命令的, 强制的, 托管的。
+5042	maneuver	v.机动。n.机动。
+5043	mangrove	n.[植]红树林。
+5046	mania	n.[医]颠狂, 狂躁, 癖好, 狂热。
+5047	maniac	adj.发狂的, 癫狂的, 疯狂的。n.[医]燥狂(症)者, 疯子, 一种高速电子数字计。
+5059	mansion	n. 大厦,官邸
+5060	mantle	n.斗蓬, 覆盖物, 壁炉架。v.披风, 覆盖。
+5065	manure	n.肥料。v.施肥于。
+5078	maritime	adj.海上的, 海事的, 海运的, 海员的。
+5088	marrow	n.髓, 骨髓, 精华, 活力, <苏格兰>配偶。
+5100	masculine	a. 男性的;男子气概的
+5103	masquerade	n.化妆舞会。v.化装。
+5118	maternal	adj.母亲的, 似母亲的, 母性的。
+5125	matrimony	n.结婚。
+5136	meadow	n. 草地
+5154	mediate	v.仲裁, 调停, 作为引起...的媒介, 居中调停。
+5164	meek	a. 温顺的,谦逊的
+5167	melancholy	n. 忧郁,悲哀;a. 忧郁的,令人伤感的
+5182	menace	n. 威胁,威吓;具有危险性的人(或物);vt. 威胁,威吓
+5194	mercury	n. 水银，汞
+5199	meringue	蛋白与糖的混合物。
+5200	merit	n. 价值,优点,功绩;vt. 应收,值得
+5208	metabolism	n.新陈代谢, 变形。
+5212	metaphor	n.[修辞]隐喻, 暗喻, 比喻说话。
+5242	mien	n.风度。
+5250	mildew	n.霉, 霉菌, (植物的)霉病。vi.发霉, 生霉。vt.使发霉。
+5289	mire	n.泥潭。v.陷入。
+5289	mire	n.泥潭。v.陷入。
+5297	misconceive	v.误解。
+5299	miser	n.守财奴，吝啬鬼
+5345	modify	vt. 修改;修饰
+5362	monarchy	n.君主政体, 君主政治, 君主国。
+5402	moss	n. 苔，藓，地衣
+5406	moth	n.蛾
+5409	motif	n.主题, 主旨, 动机, 图形。
+5439	mucous	adj.黏液的, 黏液似的。
+5443	muffle	v.裹住，捂住
+5454	mumble	v.咕哝，嘟囔
+5455	mumps	n.腮腺炎
+5456	mundane	adj.世界的, 世俗的, 平凡的。
+5460	murmur	n./v. 低沉连续的声音;诉怨
+5472	mutation	n.变化, 转变, 元音变化, (生物物种的)突变。
+5496	narcotic	n.麻醉药, 致幻毒品, 镇静剂。adj.麻醉的, 催眠的。
+5497	narrate	v.叙述
+5502	nasal	adj.鼻的, 鼻音的, 护鼻的。n.鼻音, 鼻音字。
+5569	nibble	n.半位元组, 细咬, 轻咬, 啃。v.一点一点地咬, 细咬, 吹毛求疵。
+5584	nitrate	n.[化]硝酸盐, 硝酸钾。
+5614	nostalgia	n.思家病, 乡愁, 向往过去, 怀旧之情
+5615	nostril	n.鼻孔
+5619	notary	n.公证人
+5621	notch	n.槽口, 凹口。vt.刻凹痕, 用刻痕计算, 开槽, 切口, 得分。n.<美语>山间小路, 刻痕, 峡谷
+5674	oatmeal	n.(燕)麦片, (燕)麦粥。
+5688	obliterate	adj.删去，抹掉
+5692	obscene	adj.淫秽的, 猥亵的。
+5713	occident	n.西方,欧美
+5725	octagon	n.八边形, 八角形。
+5730	odour	n. 气味,臭气
+5754	ominous	a. 不祥的,不吉利的
+5755	omission	n.省略
+5756	omit	vt. 疏忽,忘记;遗漏,省略
+5770	opal	n.蛋白石
+5771	opaque	a. 不透光的,不透明的;难理解的
+5782	opium	n.鸦片；麻醉剂
+5792	optic	adj.眼的, 视觉的, 光学上的。
+5813	ore	n. 矿石
+5820	orient	n. 东方，亚洲v. 使朝东，为…定位，使适应
+5822	orientate	v.向东, 朝向。
+5829	ornament	n. 装饰;装饰物
+5831	orphan	n. 孤儿
+5832	orthodox	adj.正统的, 传统的, 习惯的, 保守的, 东正教的。
+5834	oscillate	v.振荡。
+5841	ounce	n. 盎司，英两
+5844	oust	vt.剥夺, 取代, 驱逐。
+5904	overrule	vt.驳回, 否决, 支配, 制服。
+5905	overrun	n.泛滥成灾, 超出限度。vt.蹂躏, 超过, 泛滥。vi.泛滥, 蔓延
+5909	overt	adj.明显的, 公然的。
+5920	owl	n. 猫头鹰
+5928	oyster	n.牡蛎；沉默寡言的人
+5962	pane	n.窗格玻璃
+5976	parachute	n. 降落伞
+5977	parade	vt./vi. 阅兵整队;列队行进,游行;夸耀;炫示
+5979	paradox	n.似非而是的论点, 自相矛盾的话。
+5981	parakeet	n.[鸟]长尾小鹦鹉。
+5982	parallel	a. 平行的,相当的 n. 类似的人或事,比较 vt. 与…相似
+5983	paralyse	vt. 使麻痹;使瘫痪
+5987	paranoia	n.[心]妄想狂, 偏执狂。
+5988	paraphernalia	n.随身用具。
+5991	parcel	n. 包裹，邮包，部分v. 打包，捆扎，分配
+5995	parish	n.教区
+5998	parliament	n. 国会,议会
+5999	parlor	n.客厅,休息室,<美>店
+6000	parody	n.模仿滑稽作品, 拙劣的模仿。vt.拙劣模仿
+6012	partisan	n.游击队。
+6031	pastry	n.面粉糕饼, 馅饼皮。
+6032	pasture	n./v. 牧场,放牧
+6035	patent	a. 明显的,获得专利的;n. 专利,专利 权,专利品;vt. 取得…专利
+6037	paternity	n.父权, 父子关系。
+6040	pathological	adj.病理的, 病态的。
+6041	pathos	n.痛苦, 感伤, 悲怅, 哀婉。
+6044	patio	n.天井, 院子。
+6048	patrol	vt./vi. 巡逻,巡查
+6056	pawn	v.典当,抵押,以...担保 n.小卒,被人利用的人
+6077	pedestal	n.基架, 底座, 基础。vt.加座, 搁在台上, 支持
+6073	peck	vt.&vi.啄，啄起
+6071	peasantry	n.农民(总称)
+6092	penicillin	n.青霉素，盘尼西林
+6089	pendulum	n.钟摆, 摇锤。
+6090	penetrate	v. 穿过;透过;看穿,洞察;秘密潜入
+6101	perceive	vt. 察觉,发觉;理解
+6107	percussion	打击乐器。
+6108	perennial	adj.四季不断的, 终年的, 长期的, 永久的, (植物)多年生的。
+6117	peril	n. (严重的)危险;危险的事物
+6118	perimeter	n. 周边,周长,周界
+6135	peroxide	n.[化]过氧化物, 过氧化氢。v.以过氧化氢漂白
+6137	perpetual	a. 永久的,永恒的
+6136	perpendicular	a. 垂直的,成直角的;直立的; n. 垂直线
+6141	persecute	vt. (尤指因宗教或政治信仰不同)迫害;烦扰
+6139	perplex	vt. 困惑,迷惑
+6154	perspire	v.出汗, 流汗, 分泌, 渗出。
+6158	pertain	vi. 附属;有关
+6159	pertinence	n.有关性,相关性,针对性
+6160	pertinent	a. 贴切的,中肯的;相关的
+6168	pessimism	n.悲观, 悲观主义。
+6175	petal	n.花瓣。
+6176	petition	n. 祈求,请求;请愿,请求书v. (向…)请愿,正式请求
+6180	petunia	n.[植]矮牵牛花。
+6181	pharaoh	n.法老王（古埃及君主称号）, 暴君。
+6191	phobia	n.恐怖病, 恐怖症。
+6192	phoenix	n.凤凰, 长生鸟, 完人, 完美之物。
+6194	phonetic	adj.语音的, 语音学的, 表示语音的。
+6196	phony	adj.假冒的。n.假冒者
+6214	pickle	n.腌制食品，泡菜
+6228	piggyback	adj.骑在背肩上的。adv.在背上, 在肩上
+6229	pigment	n. 颜料,色素
+6230	pilchard	n.沙丁鱼。
+6232	pilferage	v.偷窃
+6233	pilgrim	n. 香客,朝圣者
+6239	pimple	n.[医]丘疹, 面泡, 疙瘩。
+6245	pinnacle	n.小尖塔, 山顶, 顶点。vt.造小尖塔, 把...放在极高处。
+6250	pious	a.虔诚的；虔奉宗教的
+6253	piracy	n.海盗行为, 侵犯版权, 非法翻印。盗版。
+6255	pistol	n. 手枪
+6262	pivot	n.枢轴, 支点, (讨论的)中心点, 重点。adj.枢轴的。vi.在枢轴上转动。vt.装枢轴于
+6263	placard	n.布告。v.张贴。
+6265	placid	adj.平静的。
+6266	plagiarize	v.剽窃, 抄袭。
+6265	placid	adj.平静的。
+6273	planetarium	n.行星仪, 天文馆。
+6274	plank	n.厚木板, 支架, (政党的)政纲条款。vt.铺板, 立刻付款。vi.睡在板上
+6275	plankton	n.浮游生物。
+6277	plantation	n. 种植园
+6278	plasma	n.[解]血浆, 乳浆,[物]等离子体,等离子区。
+6279	plaster	n./vt. 膏药;(涂)灰泥
+6285	platinum	n.白金
+6286	platitude	n.陈词滥调。
+6287	platypus	n.[动]鸭嘴兽。
+6288	plausible	adj.似是而非的。
+6301	plenary	adj.完全的,绝对的 n.全体会议,全会
+6304	plethora	n.过剩, 过多, 多血症。
+6305	pliable	adj.易曲折的, 柔软的, 圆滑的, 柔韧的。
+6306	plight	n. 困境,苦境
+6308	plough	n./v. 犁,犁形器具;犁地
+6309	ploy	n.策略, 趣味, 工作。
+6310	pluck	vt.采，摘；拉下 n.拉
+6311	plug	n./v. 塞子,栓,插头,通电
+6312	plumb	n. 铅锤,测锤;vt. 探测,查明
+6313	plumber	n. (装修水管的)管子工
+6314	plume	n.羽毛，羽饰
+6315	plummet	n.铅锤, 重荷。vi.垂直落下。
+6316	plump	vt.丰满的；鼓起的
+6317	plunder	vt./vi. 抢劫,掠夺
+6318	plunge	v./n. 投入,插入;跳水
+6319	plural	a. 复数的n. 复数
+6310	pluck	vt.采，摘；拉下 n.拉
+6322	pneumatic	a.空气的；气动的
+6322	pneumatic	a.空气的；气动的
+6323	pneumonia	n. 肺炎
+6331	poise	n.平衡, 均衡, 姿势, 镇静, 砝码。vt.使平衡, 使悬着, 保持...姿势。vi.平衡, 悬着, 准备好, 犹豫
+6334	poke	v./n. 拨;戳
+6342	poliomyelitis	n.小儿麻痹症, 急性骨髓灰白质炎。
+6351	pollinate	vt.对...授粉。
+6355	polymer	n.聚合物，多聚物
+6356	pompous	adj.华而不实的。
+6357	pond	n. 池塘
+6358	ponder	vt./vi. 深思,考虑
+6359	ponderous	adj.沉重的, 笨重的, 冗长的, 沉闷的, (指问题等)呆板的。
+6371	porch	n. 门廊,走廊
+6372	pore	n.毛孔，气孔，细孔
+6374	porous	adj.多孔渗水的。
+6375	porpoise	n.[动]海豚, 小鲸。
+6376	porridge	n.粥，麦片粥
+6379	porter	n. 守门人，门房，行李搬运工，服务员
+6380	portfolio	n.部长职务。
+6384	Portugal	n.葡萄牙
+6401	posterity	n.子孙，后代
+6402	postgraduate	n.研究所学生, 研究生。adj.毕业后的。
+6403	posthumous	adj.死后的, 身后的, 作者死后出版的, 遗腹的。
+6405	postmortem	adj.死后的, 死后发生的。n.尸体检查, 验尸。
+6409	postscript	n.附言, 后记。
+6418	potluck	n.家常便饭。
+6421	poultry	n. 家禽,家禽肉
+6435	pragmatic	adj.国事的, 团体事务的, 实际的, 注重实效的。
+6436	prairie	n.大草原，牧场
+6445	precedence	n. 在前,优先
+6446	precedent	n. 先例
+6447	preceding	a. 在前的,在先的
+6448	precinct	n.区域, 围地, 范围, 界限, 选区。
+6450	precipice	n.悬崖。
+6451	precipitate	n.沉淀物。vt.猛抛, 使陷入, 促成, 使沉淀。vi.猛地落下。adj.突如其来的, 陡然下降(或下落)的, 贸然轻率的
+6455	predecessor	n. 前任
+6460	predominance	n.优越，杰出
+6463	preface	n./v. 序言;为…加序
+6470	pregnancy	n.怀孕
+6475	prelude	n. 序言,序幕
+6477	premier	n. 首相，总理
+6480	premium	n.保险费;额外费用
+6499	preset	vt.预先装置
+6500	preside	v. (at，over)主持
+6506	prestige	n. 威信,声望;(由于成功、财富等而产生)显赫
+6507	prestigious	adj.享有声望的, 声望很高的。
+6509	presume	v. 假定，假设，认为，揣测，滥用，擅自行动
+6512	pretense	n.借口
+6513	pretentious	a. 自负的,自命不凡的
+6545	prism	n.棱柱(体)；棱镜
+6557	probe	n./v. 医学探针;新闻调查;探测
+6568	procure	vt. (努力)取得;获得
+6577	profane	adj.亵渎的。v.亵渎
+6587	proforma	adj.形式的,预计的
+6588	profound	a. 深的,极深的;渊博的;深奥的
+6599	projection	n.射出，投射
+6601	proletarian	adj. &n.无产阶级
+6602	prolific	adj.多产的, 丰富的, 大量繁殖的。
+6605	prominence	n.显着，突出
+6614	prone	a. 俯伏的;有…倾向
+6620	propagate	vt./vi. 繁殖,增殖,传播,宣传
+6628	prophecy	n.预言, 预言能力。
+6630	prophet	n. 预言家；先知；提倡者
+6631	proportion	n. 比率,比例,大小,容积
+6639	propulsion	n.推进, 推进力。
+6640	prosaic	adj.散文的, 散文体的, 平凡的。
+6642	prosecute	vt. 起诉,告发;实行,从事
+6647	prospectus	n.内容说明书, 样张。
+6650	prostitute	n.妓女。
+6651	prostrate	adj.降伏的, 沮丧的, 衰竭的, 俯卧的。vt.弄倒, 使屈服
+6658	protestant	n.清教徒，新教徒
+6661	protract	v.延长。
+6663	protrude	v.突出。
+6672	provisional	a. 临时的,暂时性的
+6673	provocation	n.刺激，煽动
+6675	proximity	n.接近, 亲近
+6677	prudence	n.谨慎
+6679	pry	v.探查
+6680	pseudonym	n.假名, 笔名
+6681	psychiatry	n.精神病学, 精神病治疗法。
+6692	puff	n. 一阵，一股(气味等)；喘息；吹嘘v. 喘息，鼓吹
+6695	pulp	n.(水果的)果肉, 纸浆。vt.使化成纸浆, 除去...果肉, 。vi.变成纸浆
+6699	punch	n. 冲压机，冲床；穿孔机v. 冲压，穿孔
+6703	puncture	n.小孔。v.刺破
+6704	pungent	adj.(指气味、味道)刺激性的, 辛辣的, 尖锐的, 苦痛的, 严厉的。
+6707	pupil	n. 瞳孔,瞳仁
+6729	pyramid	n. 金字塔
+6733	quaint	adj.离奇有趣的, 奇怪的, 做得很精巧的。
+6739	quandary	n.困惑, 窘境, 进退两难。
+6743	quarantine	n.检疫, 隔离, (政治或商业上的)封锁, 检疫期间。vt.检疫, 使在政治或商业上孤立。
+6749	quartz	n. 石英
+6751	quay	n.码头
+6753	queer	a. 奇怪的,不平常的;可疑的;眩晕的,不舒服的
+6754	quench	vt. 止渴;扑灭火焰
+6766	quilt	n. 被子
+6767	quirk	n.急转, 遁词, 怪癖。
+6772	quota	n. 配额,限额(进口及移民人数)
+6779	rack	n. 行李架
+6790	radish	n.小萝卜
+6791	radium	n.镭
+6793	raft	n.筏, 救生艇, 橡皮船, 大量。vi.乘筏。vt.筏运, 制成筏
+6807	rake	n. 耙子，耙机v. 耙；搜索，探索
+6808	rally	v./n. 集合
+6809	ramble	vi. 漫步,闲逛;漫谈;蔓延
+6810	ramification	n.分枝, 分叉, 衍生物, 支流。
+6811	ramify	v.(使)分枝, (使)分叉, (使)成网状。
+6812	rampant	adj.猖獗的, 蔓生的, 猛烈的, 狂暴的, 跛拱的。
+6818	ransom	n.敲诈, 勒索。vt.赎回, 勒索赎金。
+6824	rascal	n.流氓，恶棍，无赖
+6825	rash	a. 轻率的，鲁莽的n. 皮疹
+6829	ratification	n.批准，认可
+6832	ration	n.定量,配给量,正常量,合理的量 vt.限量供应
+6833	rational	a. 有推理能力的,合理的
+6835	raucous	adj.沙哑的。
+6859	reap	vt./vi. 收割,收获;获得,得到
+6860	reappraisal	n.重新估计, 重新评价。
+6865	reassure	vt. 使放心,使消除疑虑
+6866	rebate	n.回扣，折扣,退税
+6880	recession	n. 后退,撤回;(工商业)衰退,(价格)暴跌
+6884	recital	n.朗诵, 背诵, 叙述, 独奏会, 独唱会。
+6897	recompense	v. &n.回报，赔偿
+6898	reconcile	vt. 使和解;使复交;调解,调停
+6899	reconnaissance	n.探索，勘查
+6900	reconsider	v.重新考虑, 重新审议。
+6916	redeem	vt. 买回,赎回;补偿,补救
+6920	reduction	n. 减小，减少，缩小
+6921	redundancy	n.冗余。
+6923	reed	n. 芦苇，苇丛；芦笛，牧笛
+6924	reef	n.礁，礁石，暗礁
+6939	refrain	vi. 抑制
+6954	regime	n. 政体,政权,政治制度
+6977	reimburse	vt. 偿还,付还
+6979	rein	n. 缰绳，统治，支配v. 驾驭，控制，统治
+6980	reinforce	vt. 加强;加固
+7010	reluctance	n.不愿，勉强
+7018	remedy	n. 补救办法,纠正办法;药品,治疗法 vt. 补救,纠正;治疗,医治
+7023	reminiscent	adj.使想起的,像...的
+7024	remission	n.免除。
+7025	remit	v.汇款，汇出
+7028	remorse	n.懊悔, 自责, 同情, 怜悯。
+7033	remuneration	n.酬劳,赔偿,酬金
+7034	renaissance	n.文艺复兴(时期)；新生，复兴
+7035	render	vt. 提供,报答;表演,演奏;翻译
+7040	renovate	vt.革新, 刷新, 修复。
+7049	repeal	vt.撤销；放弃n.撤销
+7053	repent	vi./vt. 悔悟,后悔
+7054	repertoire	n.(准备好演出的)节目, 保留剧目, (计算机的)指令表, 指令系统, <美>(某个人的)全部技能。
+7059	replenish	v.补充
+7070	reptile	n. 爬行动物;爬虫
+7081	rescind	adj.退还，取消,撤销
+7085	resemblance	n. 相似，相似性[点，物
+7098	residue	n.残余, 渣滓, 滤渣, 残数, 剩余物。
+7110	resonant	adj.引起共鸣的。
+7144	retention	保持力。
+7145	reticent	adj.沉默寡言的。
+7160	reverent	adj.尊敬的, 虔诚的。
+7175	rhetoric	adj.花言巧语的。
+7176	rheumatic	adj.风湿的。
+7193	rift	n.裂缝, 裂口, 断裂, 长狭谷, 不和。
+7194	rig	n.索具装备, 钻探设备, 钻探平台, 钻塔。v.装上索具, 配备, 装配。
+7199	rigor	n.严格，严肃
+7201	rim	n. 边;边缘,轮辋
+7203	rinse	vt.涮，嗽；冲洗
+7205	riotous	adj.骚乱的，喧扰的,狂暴的
+7206	rip	v./n. 撕裂,撕开;扯破
+7207	ripe	a. 熟的，成熟的；(for)时机成熟的
+7208	ripen	vt.使熟 vi.成熟
+7209	ripple	n. 涟漪,波纹;vt./vi. (使)泛起层层细浪
+7231	rod	n. 杆，棒
+7234	roller	n.滚柱，滚筒，滚轴
+7247	rot	v./n. 腐烂
+7255	roundabout	a. 迂回的，转弯抹角的n. 环状交叉路口
+7256	rouse	vt./vi. 唤醒,唤起;激励;激起
+7265	rubric	n.[印]红字, 红色印刷, 题目。
+7267	ruffle	v.滋扰。
+7279	rupture	v.破裂, 裂开, 断绝(关系等), 割裂。n.破裂, 决裂, 敌对, 割裂。
+7280	rural	a. 农村的
+7282	Russia	n.俄罗斯，俄语
+7305	sake	n. 缘故;目的
+7313	saline	adj.盐的, 苦涩的, 由碱金属(或含镁之盐类)组成的。n.盐湖, 盐田, 装盐所。
+7319	salvage	n.抢救财货, 获救的财货, 救难的奖金, 海上救助, 抢救, 打捞。vt.海上救助, 抢救, 打捞, 营救。
+7323	sanction	n.批准, 同意, 支持, 制裁, 认可。v.批准, 同意, 支持, 鼓励, 认可。
+7335	satire	n. 讽刺，讽刺文学，讽刺作品
+7340	saturate	v.使饱和, 浸透, 使充满。
+7343	Saturn	n.农神；土星
+7384	scoff	vt.&vi.嘲笑，嘲弄
+7385	scold	vt./vi. 责骂,申斥
+7386	scoop	n.铲子。v.掘, 挖。
+7397	scout	n. 侦察员,侦察机,侦察舰
+7398	scramble	vi. (快速地)爬，攀登；互相争夺，争先
+7399	scrap	n. 碎片,碎屑;少许,少量
+7409	scrub	n.&vt.擦洗，擦净
+7410	scrupulous	adj.小心谨慎的, 细心的。
+7414	scum	n.浮渣, 浮垢, 糟粕, 泡沫, 糖渣, 铁渣。vt.将浮渣去除掉。vi.产生泡沫, 被浮渣覆盖
+7437	secretion	n.分泌, 分泌物(液)。
+7451	seep	v.渗出, 渗漏。
+7465	semblance	n.外表, 伪装。
+7466	semester	n.学期。
+7483	sentiment	n. 情操,思想感情;情绪
+7484	sentimental	adj.多愁善感的
+7489	septic	adj.腐败的, 败血病的, 脓毒性的。n.腐烂物
+7491	serene	adj.宁静的,安详的
+7492	serenity	n.安详,宁静,平静,沉着
+7496	sermon	n.布道，讲道，说教
+7546	shatter	vt./vi. 粉碎,毁损
+7568	shipbuilding	n.造船(业)，造船学
+7604	shrewd	a. 敏锐的,精明的;准确的
+7608	shrine	n.神殿，神龛，圣祠
+7614	shun	v.躲避，躲开
+7627	sieve	n. 细筛,过滤网
+7645	silt	n.淤泥, 残渣, 煤粉, 泥沙。v.(使)淤塞, 充塞。
+7665	singular	a. 非凡的;卓越的
+7715	sleet	n.雨加雪
+7716	sleeve	n. 袖子
+7717	slender	a. 细长的,苗条的,纤弱的;微小的,微薄的
+7729	slot	n.缝, 狭槽, 位置, 水沟, 细长的孔, 硬币投币口, 狭通道, 足迹。vt.开槽于, 跟踪。
+7733	sluggish	adj.行动迟缓的。
+7734	sluice	n.水闸, 泄水。v.开闸放水, 流出, 冲洗, 奔泻。
+7735	slum	n. 陋巷,平民窟
+7736	slumber	n.睡眠；沉睡状态
+7737	slump	n.暴跌，不景气,(个人的,球队的)低潮状态
+7759	snap	v. 啪地移动；(使)突然断开，断开(成两截)
+7770	snout	n.猪嘴。
+7777	soak	v. 浸泡;淋湿
+7794	sodium	n.钠
+7806	solemn	a. 严肃的;庄严的,隆重的
+7807	solicit	v.恳求。
+7808	solicitor	n.律师
+7834	soot	n.油烟，煤烟
+7835	soothe	v.安慰，使镇定
+7858	space	n. 间隔；空地，余地；空间v. 留间隔，隔开
+7863	spade	n. 铁锹，铲子
+7906	spike	n.穗, 长钉, 钉鞋, 女高跟鞋, 道钉。v.用大钉钉, 用长而尖之物刺, 阻止, 穿刺。
+7907	spill	vt./vi. (使)溢出,(使)溅出
+7926	sporadic	adj.零星的。
+7934	sprawl	n.四肢伸开的躺卧姿势, 蔓生。v.四肢伸开地坐(或卧), 爬行, 蔓生, 蔓延。
+7946	squeal	v.长声尖叫, 告密, 抱怨, 激烈抗议。n.长而尖的声音。
+7958	stagger	v./n. 摇晃;蹒跚;vt. 使吃惊;使错开,使交错
+7967	stale	a. 食品不新鲜的;陈旧的,过度劳累而表现不佳的;陈腐的
+7968	stalk	n. 茎，梗vt. 悄悄地跟踪vi. 高视阔步地走
+7979	staple	n. 订书钉,U形钉;主食;主要产品;vt. 用订书钉订;a. 主要的;基本的;标准的
+8015	stem	n. 茎;vi. (～from)起源于
+8016	stencil	n.复写纸，蜡纸
+8022	stern	a. 严厉的,严格的;n. 船尾
+8023	stevedore	n.码头工人
+8024	stew	vt.炖vi.炖着n.炖肉
+8030	stiff	a. 坚硬的;费劲的;不易弯的
+8031	stigma	n.污名, (植物)柱头, [动物] 气门, 耻辱。
+8037	sting	n./v. 刺;刺痛
+8038	stink	adj.臭的
+8039	stipulate	v. 规定,约定
+8049	stool	n. 凳子；(pl.)大便
+8050	stoop	vt./vi. 弯腰,俯身;屈从,堕落,沦为
+8060	stow	v.装载，理舱
+8070	strap	n. 带;皮带;vt. 用带束住;捆扎
+8075	stray	vi.迷路a.迷路的
+8076	streak	n.纹理，条纹 vt.裸奔,飞驰
+8086	strew	vt.散播, 点缀, 撒满。
+8089	stride	v./n. 大踏步走
+8090	strife	n. 争吵；冲突，斗争；竞争
+8091	strike	n./vi. 罢工vt. 打，击；攻击；给…深刻印象
+8092	striking	a. 引人注目的,显著的
+8098	stroll	n./v. 漫步；散步；游荡
+8109	studious	adj.勤学的, 认真的, 慎重的, 热心的。
+8113	stuffy	a.不透气的，闷热的
+8121	subdivide	vt.把…再分
+8126	subliminal	adj.下意识的, 潜在意识的。
+8142	substance	n. 物质；实质，本质；主旨；财产，资产
+8163	succumb	vi.屈服, 屈从, 死。
+8184	sulphide	n[化].硫化物。
+8206	superintend	v.主管, 指挥, 管理, 监督。
+8211	supersede	vt. 代替
+8233	surcharge	n. 额外费用,过高的要价
+8240	surmise	v. &n.猜想，推测
+8241	surmount	vt.战胜, 超越, 克服, 在...顶上。
+8294	symmetric	adj.对称的，匀称的
+8299	symphony	n. 交响乐，交响曲
+8300	symposium	n. 讨论会，专题报告会；专题论文集
+8316	tacit	adj.默许的。
+8317	tack	n.平头打vt.钉住
+8319	tact	n.机敏，圆滑，得体
+8320	tactful	adj.机智的，老练的
+8337	tan	n./a. (皮肤因日晒而成)棕褐色(的)vt. 晒黑
+8338	tangible	adj.切实的。
+8395	tempt	v. 诱惑，引诱；吸引，使感兴趣
+8420	terrain	n.地形。
+8421	terrestrial	adj.陆地。
+8431	terse	adj.简洁的, 扼要的。
+8436	tetrad	n.四个, 四个一组, [生]四分染色体。
+8448	thaw	n.解冻。
+8487	thinner	n.稀释剂。
+8494	thorn	n. 刺，荆棘
+8503	thrash	vt.痛打，鞭打vi.打
+8520	thrust	n. 猛推;冲锋,突击;推力
+8521	thumb	n. 大拇指
+8527	thyroid	n.甲状腺, 甲状软骨。
+8528	tibia	n.[解] 胫骨, [昆]胫节, 从前的一种笛。
+8577	toll	n. (道路、桥梁等的)通行税;损坏,死伤人数;钟声;v. (缓慢而有规律地)鸣(钟), 敲(钟)
+8586	tonic	adj.激励的, 滋补的。n.滋补剂, 滋补品。
+8603	tornado	n.旋风, 龙卷风, 大雷雨, 具有巨大破坏性的人(或事物)。[军] (狂风) 英国、德国、意大利三国合作研制的双座双发超音速变后掠翼战斗机。
+8618	tow	vt. (用绳、链等)拖(车、船等)n. 拖，牵引
+8644	trait	n.显著的特点, 特性。
+8699	tremor	n.震动, 颤动。vi.震颤, 战栗。
+8702	trespass	n.过失, 罪过, 侵入。v.侵入。
+8707	tributary	adj.进贡的, 附庸的, 从属的, 辅助的, 支流的。n.进贡国, 附庸国, 支流
+8708	tribute	n. 贡品；颂词，称赞，(表示敬意的)礼物
+8712	trifle	n. 琐事,小事,无价值的东西;vi. (with)嘲笑,轻视
+8714	trim	a. 整洁的,整齐的
+8728	trot	vi.&n.(马)小跑，慢跑
+8731	troupe	n.剧团。
+8738	trumpet	n. 喇叭,喇叭声
+8745	tub	n. 木盆，澡盆
+8748	tuck	n. 缝褶 v. 打褶裥
+8751	tuition	n. 教学,学费
+8753	tumble	vi. 跌倒,摔下,滚下;翻滚;不由自主地卷入;(价格等)暴跌;n. 跌倒,摔倒
+8754	tumour	n.[医]瘤, 肿瘤, 肿块。
+8755	tumult	n.骚动，暴动，吵闹
+8756	tuna	n.金枪鱼
+8759	turbine	n. 汽轮机，涡轮机
+8760	turbot	n.大比目鱼, 大菱鲆。
+8761	turbulent	a. 狂暴的,骚乱的;汹涌的
+8765	turmoil	n.骚动, 混乱。
+8773	tweezers	n.镊子, 小钳。
+8779	twig	n.细枝
+8790	tyrannical	adj.残暴的。
+8794	ubiquitous	adj.到处存在的, (同时)普遍存在的。
+8796	ulcer	n.溃疡
+8800	ultimo	adj.上月的
+8799	ultimatum	n.最后通谍。
+8812	uncap	v.打开
+8863	unilateral          	adj.单方面, 单边的, 片面的, 单系, [植]单侧的, [语]单边音。
+8905	untold	adj.未说过的,未透露的,数不清的。
+8906	unusable	adj.无法使用的
+8931	uranium	n.铀
+8933	urbane	adj.彬彬有礼的, 文雅的。
+8946	utensil	n.器皿，用具
+8951	utter	v. 说，发出(声音)a. 彻底的，完全的
+8954	vacancy	n.空缺，空位
+8957	vaccinate	vt.给…种牛痘
+8994	vehement	adj.激烈的, 猛烈的, (情感)热烈的。
+9007	venture	n. 风险投资,(商业等的)风险项目 vi. 冒险, 大胆行事 vt. 敢于,大胆表示;拿…冒险,冒…的险
+9024	vest	n. 背心，马甲；汗衫，内衣
+9025	veteran	n. 老手，老兵
+9026	veterinary	n.兽医。adj.医牲畜的, 兽医的。
+9027	veto	n. 否决,禁止,否决权 vt. 否决,禁止
+9028	vex	vt. 使烦恼,使苦恼
+9044	vigilant	adj.警惕着的, 警醒的。
+9061	virile	adj.男性的, 男的, 有男子气概的, 精力充沛的。
+9068	viscous	a.粘滞的，粘性的
+9098	vomit	n.呕吐, 呕吐物, 催吐剂。vi.呕吐, 大量喷出。vt.吐出, 呕吐
+9099	vortex	n.旋涡, 旋风, 涡流, (动乱, 争论等的)中心。
+9103	vouch	v.担保
+9106	vowel	n. 元音，元音字母
+9108	vulgar	a. 粗俗的,趣味不高的,通俗的,庸俗的
+9177	wean	vt.使断奶, 使丢弃, 使断念。n.<苏格兰>幼儿, 小儿。
+9186	wedge	n. 楔子;楔形物;vt. 挤进;把…楔住
+9198	weld	v./n. 焊接
+9210	wharf	n.码头，停泊所
+9216	whence	n.来处, 根源。adv.从何处, 从哪里。conj.拒此。pron.何处
+9230	whirl	vt./vi. 使旋转;眩晕
+9232	whisker	n.髯，连鬓胡子
+9249	wicked	a. 坏的;邪恶的
+9300	womb	n.子宫, 发源地。vt.(如子宫般的)包含, 容纳。
+9310	wording	n. 措辞
+9311	wordy	adj.冗长的，罗嗦的
+9335	wrath	n.暴怒，狂怒，愤慨
+9336	wreath	n. 花环，花圈
+9352	xerox	vt.&vi.用静电复印
+9354	yacht	n. 小帆船,快艇,帆船
+9369	yoke	n. 牛轭;枷锁;纽带
+9378	zeal	n. 热心,热情
+9382	zest	n.风味, 强烈的兴趣, 热情, 热心。vt.给...调味。
+9379	zealous	a.热心的，热情的
