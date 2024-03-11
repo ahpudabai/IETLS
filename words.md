@@ -9549,7 +9549,7 @@
 889	blunder	v. 瞎闯,犯愚蠢的错误;n. 因疏忽所犯的错误
 890	blunt	a. 钝的;生硬的;直率的;vt. 使钝,把…弄迟钝
 894	boarding	n.伙食
-910	bona fide	adj.真诚的，无欺的
+910	bona_fide	adj.真诚的，无欺的
 928	booth	n. 有篷的售货摊,隔开的小间
 930	bore	v. 钻孔;厌烦;n. 孔;口径;惹人厌烦的人
 945	bough	n.树枝
