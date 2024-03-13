@@ -5695,3 +5695,164 @@ dean	/di:n/	n.(大学)院长;主持牧师; (基督教)教长
 deduce	/di'dju:s/	vt.(from)演绎,推断,推论
 deduct	/di'dʌkt/	vt.扣除;演绎(推理)
 deem	/di:m/	v.认为,相信
+deficit	/'defisit/	n.赤字,逆差;亏损,亏空;不足,缺乏
+defy	/di'fai/	v.(公然)违抗,反抗;蔑视
+delicate	/'delikət/	a.纤弱的;精致的;微妙的;灵敏的
+denote	/di'nəut/	vt.表示,意味着
+depart	/di'pɑ:t/	vi.离开,起程  a.过去的,逝世的
+depict	/di'pikt/	v.描绘;描写,描述
+deprive	/di'praiv/	vt.剥夺,夺去,使丧失
+deputy	/'depjuti/	n.代理人,代表 a.副的,代理的
+desert	/'dezət/	n.沙漠,不毛之地 v.抛弃,遗弃;擅离,开小差
+desolate	/'desələt/	a.荒凉的;孤独的 v.使荒芜
+despatch	/di'spætʃ/	n./v.(dispatch)派遣;发送 n.急件;新闻报道
+despise	/di'spaiz/	v.轻视,蔑视
+detain	/di'tein/	v.耽搁;扣押,拘留
+deteriorate	/di'tiəriəreit/	v.(使)恶化,(使)变坏
+deviate	/'di:vieit/	v.(from)背离,偏离
+devise	/dɪ'vaɪz/	vt.设计;发明;图谋;作出(计划);想出(办法)
+dew	/dju:/	n.露水
+dictate	/dik'teit/	v.口授;(使)听写;指令,指示,命令;
+diffuse	/di'fju:s/	v.扩散;传播 a.(文章等)冗长的,漫无边际的
+dignity	/'dignəti/	n.(举止,态度等的)庄严,端庄;尊贵,高贵
+dilemma	/di'lemə/	n.(进退两难的)窘境,困境
+dilute	/dai'lju:t/	vt.稀释，冲淡 a.稀释的，冲淡的
+dim	/dim/	a.暗淡的,模糊的
+disaster	/ˌdi'zɑ:stə/	n.灾难,大祸;彻底的失败
+disc	/disk/	n.(disk)圆盘,圆面,盘状物
+discern	/dɪ'sɜ:n/	v.认出,发现;辨别,识别
+discharge	/dis'tʃɑ:dʒ/	v./n.卸货,排出;发射,放(电);遣散,解雇
+discreet	/dis'kri:t/	a.(言行)谨慎的；慎重的；有判断力的
+discrepancy	/dis'krepənsi/	n.相差;差异;矛盾;
+disguise	/dis'gaiz/	n./v.假装,伪装
+dismay	/dis'mei/	n./v.(使)沮丧;(使)惊慌;(使)失望,(使)绝望
+dismiss	/dɪs'mɪs/	v.免职,解雇,开除,解散
+disperse	/dis'pə:s/	v.(使)分散;(使)散开;疏散
+disposal	/dis'pəuzəl/	n.处理,处置;布置,安排
+dispute	/dis'pju:t/	n.争论,争执 v.争论,辩论;反驳;怀疑;阻止
+disregard	/disri'gɑ:d/	vt.不理会;忽视;漠视 n.忽视;漠视
+dissipate	/'disipeit/	v.驱散;(使云、雾、疑虑等)消散;挥霍
+distill	/dis'til/	vt.蒸馏，用蒸馏法提取；吸取，提炼
+distort	/dis'tɔ:t/	v.弄歪(嘴脸等);扭曲;歪曲(真理、事实等)
+distress	/di'stres/	n.苦恼;危难;不幸 v.使苦恼
+ditch	/ditʃ/	n.沟,沟渠,水沟
+dive	/'di:vei/	v./n.潜水,跳水,俯冲
+diversion	/dai'və:ʃən/	n.转向,转移;牵制;解闷;娱乐
+dividend	/'dɪvɪdend/	n.红利，股息；回报，效益；被除数
+divine	/di'vain/	a.神的，神授的，天赐的；极好的，极美的
+dome	/dəum/	n.圆屋顶
+dorm	/dɔ:m/	n.(dormitory)［美］［口］宿舍
+dove	/dʌv/	n.鸽子
+doze	/dəuz/	v./n.瞌睡;假寐
+drain	/drein/	n.排水沟,阴沟;消耗,负担 v.排去,放干
+drastic	/'dræstik/	a.激烈的,严厉的;(药性等)猛烈的
+dread	/dred/	v./n.恐惧,担心
+drift	/drift/	v./n.漂,漂流(物)
+drill	/drɪl/	v.练习;操练;钻孔 n.操练;练习;钻孔(机)
+drip	/drip/	v.滴下,漏水 n.滴,水滴,点滴
+drought	/draut/	n.旱灾,干旱
+dubious	/'dju:bjəs/	a.怀疑的，无把握的；有问题的，靠不住的
+dull	/dʌl/	a.单调的;迟钝的,愚笨的;不锋利的
+dumb	/dʌm/	a.哑的,无言的
+dwell	/dwel/	v.住,居留
+dye	/dai/	n.染料 v.染,染色
+earnest	/'ə:nist/	a.热心的,诚挚的 n.热心;真挚;定金;认真
+ebb	/eb/	vi.衰退，减退 n.处于低潮，处于衰退状态
+eccentric	/ik'sentrik/	a.古怪的，怪癖的，异乎寻常的n.古怪的人
+ecology	/i:'kɔlədʒi/	n.生态学
+ego	/'i:gəu/	n.自我，自负，利已主义；(心理学)自我意识
+elaborate	/i'læbərət/	v./a.精心制作(的);详细阐述(的)
+elapse	/i'læps/	vi．(时间)溜走；(光阴)逝去
+elect	/i'lekt/	v.选举,推选;选择,作出选择
+eligible	/'elidʒəbl/	a.符合条件的;(尤指婚姻等)合适(意)的
+eliminate	/i'limineit/	vt.除去;淘汰;排(删,消)除;削减(人员)
+eloquent	/'eləkwənt/	a.雄辩的,有说服力的;善辩的,口才流利的
+embassy	/'embəsi/	n.大使馆;大使及其随员
+embrace	/im'breis/	v.拥抱;包含;包围;环绕;采用;接受
+eminent	/'eminənt/	a.显赫的;杰出的;有名的;优良的
+empirical	/ɪm'pɪrɪkl/	a.凭经验(或观察)的,经验主义的
+endeavor	/in'devə/	v./n.(endeavour)努力,尽力,力图
+endow	/in'dau/	vt.资助，捐赠；(with)给予，赋予
+enroll	/in'rəul/	v.(enrol)招收;登记;入学;参军;成为会员
+entail	/in'teil/	vt.使承担;需要;把(疾病等)遗传给;限定
+entitle	/in'taitl/	v.给以权利(或资格);给…称号(题名);授权
+envisage	/in'vizidʒ/	v.想象，设想，展望，正视
+epidemic	/ˌepi'demik/	a.流行性的;传染的 n.流行病;传播
+equator	/i'kweitə/	n.赤道
+era	/'iərə/	n.时代,年代,阶段,纪元
+erect	/i'rekt/	v.树立,建立,使竖立 a.直立的,垂直的
+erosion	/i'rəuʒən/	n.腐蚀,磨损;削弱,减少
+erroneous	/i'rəuniəs/	a.错误的,不正确的
+escalate	/'eskəleit/	v.(使)逐步增长(或发展)，(使)逐步升级
+escort	/'eskɔ:t/	vt.护送(卫)；陪同 n.警卫，护送者；仪仗兵
+estate	/ɪ'steɪt/	n.房地产;不动产;所有权;地位;生活状况
+esteem	/i'sti:m/	n.尊敬，尊重 vt.尊重，敬重；把…看作
+ethnic	/'eθnik/	a.种族的；人种学的
+evacuate	/i'vækjueit/	vt.撤离，疏散，排泄，剥夺
+evade	/i'veid/	vt.逃避，回避；避开，躲避
+excerpt	/ek'sə:pt/	n./vt.摘录;引用
+excess	/ik'ses/	a.过量的,额外的 n.过量;过剩;超额;无节制
+exclaim	/ik'skleim/	v.呼喊,惊叫,大声说
+exclude	/iks'klu:d/	v.拒绝,把…排除在外,排斥
+excursion	/ɪk'skɜ:ʃn/	n.短途旅行,游览;离题;[物理]偏移,漂移
+exempt	/ig'zempt/	a.免除的 v.免除 n.免税者;被免除义务者
+exert	/ig'zə:t/	v.尽(力),施加(压力等),努力
+exhibit	/ig'zibit/	v.展出,陈列 n.展览品,陈列品
+exotic	/ˌig'zɔtik/	a.奇异的;异国情调的;外(国)来的
+exploit	/'eksplɔit/	v.开拓;开发;剥削 n.功绩[勋];业绩
+exquisite	/'ekskwizit/	a.优美的，高雅的，精致的；剧烈的，异常的
+extravagant	/ik'strævəgənt/	a.奢侈的;过分的;(言行等)放肆的
+fable	/'feibl/	n.寓言
+fabric	/'fæbrik/	n.织物;织品;结构;构造;建筑物
+fabricate	/'fæbrikeit/	v.捏造,编造(谎言,借口等);建造,制造
+fabulous	/'fæbjuləs/	a.极好的；极为巨大的；寓言中的，传说中的
+facility	/fə'sɪləti/	n.灵巧,熟练;(pl.)设备,设施,便利条件
+faculty	/'fækəlti/	n.才能;学院,系;(学院或系的)全体教学人员
+faint	/'feint/	a.微弱的;不明显的;暗淡的 n./v.昏倒;昏晕
+fame	/feim/	n.名声;名望;传说 vt使出名;传扬…的名
+famine	/'fæmin/	n.饥荒,饥馑
+fatal	/'feitl/	a.致命的,毁灭性的
+fatigue	/fə'ti:g/	n./v.(使)疲劳
+fax	/fæks/	n./v.传真(机)
+fellow	/'feləu/	n.人,家伙;伙伴,同事 a.同样的,同事的
+fence	/'fens/	n.篱笆;围栏;剑术 v.用篱笆瓦围住;击剑
+ferry	/'feri/	n.摆渡;渡船;渡口v.摆渡;渡运(人,车或物等)
+fertile	/'fɜ:taɪl/	a.肥沃的,富饶的;能繁殖的
+feudal	/'fju:dl/	a.封建的;封地的;领地的
+firm	/'fə:m/	a.坚固的;坚决的,坚定的 n.公司,商号
+flatter	/'flætə/	vt.奉承;使高兴;使满意;胜过
+flaw	/flɔ:/	n.裂缝;缺陷 v.使破裂;使有缺陷
+flee	/fli:/	v.逃走;逃避
+fleet	/fli:t/	n.舰队,船队
+fling	/fliŋ/	v.(用力地)扔,抛,丢
+flock	/flɔk/	n.(一)群,(禽,畜等的)群;大量 v.群集,成群
+foremost	/'fɔ:məust/	a.最先的;最初的; 主要的 ad.首要地
+forge	/fɔ:dʒ/	v.锻造,伪造 n.锻工车间;锻炉
+formidable	/'fɔ:midəbl/	a.强大的;令人敬畏的;可怕的;艰难的
+fossil	/'fɔsəl/	n.化石
+foster	/'fɔstə/	vt.养育;收养;怀抱;鼓励 a.收养的 n.养育者
+foul	/faul/	a.污秽的;邪恶的 v.弄脏;妨害;犯规 n.犯规
+fracture	/'fræktʃə/	n.裂缝(痕);骨折 v.(使)断裂,(使)折断
+fragile	/'frædʒail/	a.易碎的，脆的，易损坏的；虚弱的，脆弱的
+fragrant	/'freigrənt/	a.香的;芬芳的
+freight	/freit/	n.货物,货运,运费
+friction	/'frikʃən/	n.磨擦,摩擦力
+fridge	/fridʒ/	n.(refrigerator的略语)冰箱
+frontier	/'frʌntjə/	n.国境,边境;尖端,新领域
+fume	/fju:m/	n.(浓烈或难闻的）烟，气，汽
+furious	/'fju:riəs/	a.狂怒的,狂暴的,猛烈的
+furnace	/'fə:nis/	n.炉子,熔炉
+furnace	/'fə:nis/	n.炉子,熔炉
+furnish	/'fə:niʃ/	v.供应,提供;装备,布置
+fuse	/fju:z/	n.保险丝,导火线,引信 v.熔化,熔合
+fuss	/fʌs/	n./v.忙乱,大惊小怪
+futile	/'fju:tail/	a.无效的，无用的，无希望的
+gallop	/'gæləp/	v./n.奔驰,飞奔
+gaol	/dʒeil/	n.(jail)监狱；(不加冠词)监禁 vt.使…坐牢
+garment	/'gɑ:mənt/	n.(一件)衣服
+gasp	/gɑ:sp/	n.喘息,气喘 v.喘息;气吁吁地说
+gauge	/geidʒ/	n.标准尺寸;规格;量规,量表 v.测量
+glamor	/'glæmə/	n.(glamour)魅力;魔法 vt.迷惑
+glide	/glaɪd/	n./v.溜,滑行;(时间)消逝
+glimpse	/glimps/	n./v.一瞥,瞥见
+glitter	/'glitə/	n.光辉,灿烂 v.闪闪发光;闪耀
