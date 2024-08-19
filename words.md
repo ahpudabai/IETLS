@@ -10648,3 +10648,16 @@
 9378	zeal	n. 热心,热情
 9382	zest	n.风味, 强烈的兴趣, 热情, 热心。vt.给...调味。
 9379	zealous	a.热心的，热情的
+
+
+
+Spanish: Buenas noches
+French: Bonne nuit
+German: Gute Nacht
+Italian: Buona notte
+Portuguese: Boa noite
+Russian: Спокойной ночи (Spokoynoy nochi)
+Chinese (Simplified): 晚安 (Wǎn'ān)
+Japanese: おやすみ (Oyasumi)
+Arabic: تصبح على خير (Tusbih 'ala khayr)
+Hindi: शुभ रात्रि (Shubh raatri)

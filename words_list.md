@@ -5537,6 +5537,7 @@ avail	/ə'veil/	n.[一般用于否定句或疑问句中]效用,利益
 avert	/ə'və:t/	v.防止，避免 ；转移(目光、注意力等)
 aviation	/ˌeivi'eiʃən/	n.航空，航空学；飞机制造业
 awe	/ɔ:/	n.敬畏，惊惧vt.使敬畏，使惊惧
+
 balcony	/'bælkəni/	n.阳台；(电影院等的)楼厅，楼座
 bald	/bɔ:ld/	a.秃的,秃头的
 ballot	/'bælət/	n.(不记名)投票；投票总数；投票权 vi.投票
@@ -5565,7 +5566,7 @@ breach	/bri:tʃ/	n.违反，不履行；破裂 vt.冲破，攻破
 breadth	/bredθ/	n.宽度,幅
 breed	/bri:d/	v.(使)繁殖,生殖;产生;教养,抚养 n.品种
 brim	/brim/	n.边缘,帽沿
-brisk	/brisk/	a.轻快的;生气勃勃的;兴隆的
+brisk	/brisk/	a.轻快的;生气勃勃的;兴隆的 
 brittle	/'britl/	a.易碎的；脆弱的；冷淡的；(声音)尖利的
 brochure	/'brəuʃə(r)/	n.小册子
 bronze	/brɔnz/	n.青铜；青铜色，古铜色；青铜制品，铜牌
@@ -5856,3 +5857,443 @@ glamor	/'glæmə/	n.(glamour)魅力;魔法 vt.迷惑
 glide	/glaɪd/	n./v.溜,滑行;(时间)消逝
 glimpse	/glimps/	n./v.一瞥,瞥见
 glitter	/'glitə/	n.光辉,灿烂 v.闪闪发光;闪耀
+gorgeous	/'gɔ:dʒəs/	a.华丽的；灿烂的；美丽的；宜人的；棒的
+gown	/gaun/	n.长袍，特殊场合穿的长服
+gracious	/'greiʃəs/	a.亲切的,客气的;宽厚的,仁慈的
+grain	/grein/	n.谷物,谷类;颗粒,细粒
+gramme	/græm/	n.(gram)克
+graze	/greiz/	vi.吃青草 vt.放牧;擦伤;掠过 .n.擦伤(处)
+grief	/gri:f/	n.悲伤，悲痛；悲伤的事，悲痛的缘由
+grim	/grim/	a.严酷的，令人害怕的；不愉快的，讨厌的
+grin	/grin/	n./vi.露齿而笑，咧嘴一笑
+grind	/graind/	v.磨(碎),碾(碎)
+groan	/grəun/	v./n.呻吟
+gross	/grəus/	a.总的,毛(重)的;粗鲁的,粗俗的 n.总额
+gulf	/gʌlf/	n.海湾
+gut	/gʌt/	n.[pl.]胆量；内脏a.本能的vt.取出内脏
+harassment	/'hærəsmənt/	n.骚扰，扰乱；烦恼，烦乱
+harsh	/hɑ:ʃ/	a.粗糙的；(声音)刺耳的；苛刻的，严酷的
+hasty	/'heɪsti/	a.匆忙的,仓促的;草率的
+hazard	/'hæzəd/	n.危险,冒险,危害 v.冒险,拼命
+hedge	/hedʒ/	n.篱笆,树篱,障碍物 v.用树篱围住
+hemisphere	/'hemiˌsfiə/	n.半球
+herd	/hə:d/	n.群,兽群,牛群 v.放牧,群集
+hinge	/hɪndʒ/	n.合页,铰链 vi.依…而定
+hitherto	/ˌhiðə'tu:/	ad.到目前为止,迄今
+homogeneous	/ˌhɒmə'dʒi:niəs/	a.同种类的，同性质的，有相同特征的
+hop	/hɔp/	v.人单足跳;跳上(车等) n.蹦跳;短程飞行
+hostage	/'hɔstidʒ/	n.人质
+hostess	/'həustis/	n.女主人,女主持人
+hound	/haund/	n.猎狗；卑鄙的人 vt.用猎狗追，追逐
+huddle	/'hʌdl/	n./v.拥挤;聚集v.(因寒冷、害怕而)缩成一团
+hum	/hʌm/	v.哼曲子；发嗡嗡声；忙碌n.嗡嗡声，嘈杂声
+humble	/'hʌmbl/	a.谦卑的,恭顺的;地位低下的 v.降低,贬低
+hurl	/hə:l/	vt.猛投，力掷；大声叫骂
+hypocrisy	/hi'pɔkrisi/	n.伪善，虚伪
+hypothesis	/hai'pɔθisis/	n.假说,假设,前提
+hysterical	/his'terikəl/	a.情绪异常激动的,歇斯底里的
+ideology	/ˌaidi'ɔlədʒi/	n.意识形态，(政治或社会的)思想意识
+idle	/'aidl/	a.空闲的,闲置的;懒散的 v.空费,虚度
+ignite	/ig'nait/	v.点火,引燃
+illuminate	/i'lju:mineit/	vt.照亮，照明；用灯光装饰；说明，阐释
+immerse	/i'mə:s/	v.使沉浸在;使浸没
+immune	/i'mju:n/	a.免疫的,有免疫力的;有受影响的;豁免的
+imperative	/ɪm'perətɪv/	n.命令;需要;规则;祈使语气a.强制的;紧急的
+impetus	/'ɪmpɪtəs/	n.推动(力),促进
+immense	/i'mens/	a.广大的,巨大的;[口]极好的
+incentive	/in'sentiv/	n.刺激;动力;鼓励;诱因;动机
+indifferent	/in'difərənt/	a.冷漠的,不关心的,不积极的
+indignant	/in'dignənt/	a.愤慨的,愤慨不平的
+indispensable	/ˌindis'pensəbl/	a.(to,for)必不可少的,必需的
+induce	/in'dju:s/	v.引诱,劝使;引起,导致;感应
+indulge	/in'dʌldʒ/	v.放任，纵容，沉溺；使(自己)纵情享受
+inertia	/i'nə:ʃiə/	n.不活动,惰性;惯性
+ingenious	/in'dʒi:njəs/	a.机敏的;有独创性的;精致的;精巧制成的
+ingredient	/in'gri:diənt/	n.(混合物的)组成部分，配料；成份，要素
+inlet	/'ɪnlet/	n.水湾,小湾;进口,入口
+inn	/in/	n.小旅馆,客栈
+insulate	/'insjuleit/	vt.隔离,孤立;使绝缘,使绝热
+intact	/in'tækt/	a.完整无缺的,未经触动的,未受损伤的
+intensity	/in'tensəti/	n.强烈,剧烈;强度
+interfere	/ˌintə'fiə/	v.(in)干涉,干预;(with)妨碍,打扰
+interim	/'intərim/	a.中间的,暂时的,临时的 n.过渡时期,暂定
+intervene	/ˌintə'vi:n/	v.(in)干涉,干预;插入,介入
+intricate	/'intrikət/	a.复杂的,错综的,难以理解的
+intrigue	/in'tri:g/	n.阴谋v.密谋,私通;激起…的兴趣;诡计取得
+intrinsic	/in'trinsik/	a.(指价值、性质)固有的，本质的，内在的
+intrude	/in'tru:d/	vi.闯入,侵入vt.把(思想等)强加于人;强挤入
+intuition	/ˌintju:'iʃən/	n.直觉，直观；凭直觉而知的事物
+irritate	/'iriteit/	vt.激怒,恼火,使急躁
+jury	/'dʒuəri/	n.陪审团;全体评审员
+juvenile	/'dʒu:vənail/	n.青少年,少年读物 a.青少年的, 幼稚的
+knit	/nit/	v.编织,编结;接合,粘合
+lad	/læd/	n.男孩,小伙子
+lag	/læg/	v./n.落后,滞后 vt.用隔热材料覆盖(锅炉等)
+lamb	/læm/	n.羔羊,小羊;羔羊肉
+lapse	/læps/	n.失误,流逝,丧失,下降 v.失效,偏离,流逝
+latent	/'leitənt/	a.潜在的,潜伏的,不易察觉的
+lavatory	/'lævətəri/	n.厕所,盥洗室
+leaflet	/'li:flit/	n.小叶,嫩叶;传单,活页
+lean	/li:n/	v.倾斜,屈身;倚,靠,依赖 a.瘦的,无脂肪的
+lease	/li:s/	vt.出租,租用 n.租借,租期,租赁物
+leather	/'leðə/	n.皮革,皮革制品
+levy	/'levi/	n.征收,征税,征兵 v.征收,征集,征用
+librarian	/lai'brεəriən/	n.图书管理员
+lid	/lid/	n.盖
+likewise	/'laikwaiz/	ad.同样地,照样地;又,也,而且
+limb	/lim/	n.肢,翼,大树枝
+limp	/limp/	a.柔软的,易曲的 v./n.蹒跚,跛行
+linger	/'liŋgə/	v.逗留,徘徊,拖延,留恋,浪费光阴,苟延残喘
+litre	/'li:tə/	n.(liter)升；公升(容量单位)
+lobby	/'lɔbi/	n.门廊,门厅,(会议)休息厅
+locomotive	/'ləukəˌməutiv/	n.机车,火车头 a.运动的,移动的,运载的
+lodge	/lɔdʒ/	v.临时住宿,寄宿,寄存,容纳n.传达室,小旅馆
+lofty	/'lɔfti/	a.崇高的，高尚的；高傲的；极高的
+loom	/lu:m/	n.织布机,织机 v.隐现,(危险、忧虑等)迫近
+lounge	/laundʒ/	n.休息室,起居室,客厅
+lubricate	/'lubrikeit/	v.润滑,加润滑油,行贿,收买
+lumber	/'lʌmbə/	n.木材,木料
+lump	/lʌmp/	n.团,块 v.(使)成团,(使)成块
+lure	/luə(r)/	n.吸引力,魅力,诱惑物 vt.引诱，吸引
+madame	/mɑ:'dɑ:m/	n.(madam)夫人，太太，女士
+magnificent	/mæg'nifisənt/	a.华丽的,高尚的,宏伟的
+magnify	/'mægnifai/	vt.放大,扩大,夸大,夸张
+magnitude	/'mægnitju:d/	n.大小,数量;巨大,广大
+majesty	/'mædʒisti/	n.雄伟,壮丽,庄严,威严;最高权威,王权
+malignant	/mə'lignənt/	a.恶性的，致命的；恶意的，恶毒的
+maneuver	/mə'nu:və/	n.(manoeuvre)机动;运用,操作; v.机动
+masculine	/'mæskjulin/	a.男性的，似男性的；［语法］阳性的
+medieval	/ˌmedi'i:vəl/	a.中世纪的,中古(时代)的,老式的,原始的
+merit	/'merit/	n.优点,价值,功绩 v.值得,应得
+metaphor	/'metəfə/	n.隐喻，暗喻
+metropolitan	/ˌmetrə'pɔlitən/	a.首都的,主要都市的,大城市
+mingle	/'miŋgl/	v.(使)混合
+minister	/'ministə/	n.部长,大臣
+minor	/'maɪnə(r)/	a.较小的,较小的 n.兼修学科 v.(in)兼修
+mischief	/'mistʃif/	n.损害,伤害,危害;恶作剧,胡闹;灾祸
+missionary	/'miʃənəri/	a.教会的，传教(士)的 n.传教士
+mist	/mist/	n.薄雾,霭
+mistress	/'mistris/	n.女主人;主妇;情妇,情人
+moan	/məun/	n.呻吟声,悲叹声 v.呻吟,抱怨,悲叹
+mob	/mɔb/	n.乌合之众(尤指暴力者) vi.围攻，聚众闹事
+moderate	/'mɔdərət/	a.有节制的,中等的,适度的,温和的,稳健的
+moisture	/'mɔistʃə/	n.潮湿,湿气,湿度
+molecule	/'mɔlikjul/	n.分子
+momentum	/məu'mentəm/	n.动力,要素
+monarch	/'mɔnək/	n.帝王，君主，最高统治者
+monument	/'mɔnjumənt/	n.纪念碑,纪念馆,遗迹,不朽的业绩
+mortgage	/'mɔ:gidʒ/	n./v.抵押(借款)
+mould	/məuld/	n.(mold)模子，铸型 v.浇铸，造型，塑造
+mug	/mʌg/	n.(有柄的)大茶杯
+narrative	/'nærətiv/	a.叙述性的 n.叙述
+naval	/'neivəl/	n.海军的,军舰的
+nickel	/'nikəl/	n.镍;镍币;五美分
+niece	/ni:s/	n.侄女,甥女
+nitrogen	/'naitrədʒən/	n.[化]氮
+notable	/'nəutəbl/	n.值得注意的,显著的,著名的
+notorious	/nəu'tɔ:riəs/	a.臭名昭著的,声名狼藉的
+nuisance	/'nju:səns/	n.讨厌的人(或东西);麻烦事
+numb	/nʌm/	a.麻木的,失去感觉的 v.使麻木
+obscure	/əb'skjuə(r)/	a.暗的,朦胧的;模糊的,晦涩的
+obsolete	/'ɔbsəli:t/	a.已废弃的,过时的
+opaque	/əu'peik/	a.不透明(光)的;难理解的,晦涩的
+optimistic	/ˌɔpti'mistik/	a.乐观主义的
+optimum	/'ɔptiməm/	a.最适宜的 n.最适宜(条件)
+orbit	/'ɔ:bit/	n.轨道 v.(使)沿轨道行
+orchestra	/'ɔ:kistrə/	n.管弦乐队
+ore	/ɔ:/	n.矿石,矿砂
+orient	/'ɔ:riənt/	n.东方,亚洲 v.使朝东,为…定位,使适应
+ornament	/'ɔ:nəmənt/	v.装饰,美化 n.装饰,装饰物
+orphan	/'ɔ:fən/	n.孤儿
+orthodox	/'ɔ:θədɒks/	a.传统的,正统的,习惯的,保守的,东正教的
+outlet	/'autlet/	n.出路,出口;销路,市场;发泄方法;电源插座
+outskirts	/'autskə:ts/	n.郊区
+outward	/'autwəd/	a.外面的,公开的,向外的ad.向外,在外n.外表
+pact	/pækt/	n.合同,条约,公约,协定
+pad	/pæd/	n.垫,衬垫;便笺簿 v.加上衬垫
+pail	/peil/	n.桶, 提桶; 一桶的量
+palace	/'pælis/	n.宫,宫殿
+pale	/peil/	a.苍白的,灰白的;浅的,暗淡的
+pamphlet	/'pæmflit/	n.小册子
+panorama	/ˌpænə'rɑ:mə/	n.全景,全景画,全景摄影,全景照片[装置]
+pant	/pænt/	n.喘气 v.喘,气喘吁吁地说
+parachute	/'pærəˌʃu:t/	n.降落伞 v.跳伞
+paradigm	/'pærədim/	n.典范; 范例; 示例
+paradox	/'pærədɒks/	n.似非而是的话,自相矛盾的话,反论
+parliament	/'pɑ:ləmənt/	n.国会,议会
+pasture	/'pɑ:stʃə/	n.牧草地,牧场
+patent	/'pætnt/	a.专利的,特许的n.专利(权、品)v.批准专利
+patron	/'peitrən/	n.赞助人；资助人；老顾客，老主顾
+pea	/pi:/	n.豌豆
+pear	/pεə/	n.梨子,梨树
+peculiar	/pi'kju:ljə/	a.古怪的,异常的;特殊的,特有的
+peep	/pi:p/	v.偷看,窥视
+penalty	/'penəlti/	n.处罚,刑罚,惩罚,罚金
+pendulum	/'pendjuləm/	n.摆,钟摆
+pepper	/'pepə/	n.胡椒粉,胡椒;辣椒
+perceive	/pə'si:v/	v.察觉,感知;理解,领悟
+perfume	/pə'fju:m/	n.香味,芳香;香料 v.使发香,洒香水于
+perish	/'periʃ/	v.丧生;凋谢;毁灭,消亡
+permeate	/'pə:mieit/	v.弥漫，遍布，散布；渗入，渗透
+perpetual	/pə'petʃuəl/	a.永久的,永恒的,长期的
+perplex	/pə'pleks/	v.使困惑,使费解,使复杂化
+pessimistic	/ˌpesi'mistik/	a.悲观(主义)的
+petition	/pi'tiʃən/	n.请愿书,申请书 v.(向…)请愿,正式请求
+pilgrim	/'pilgrim/	n.(在国外)旅游者;朝圣者,最初的移民
+pillar	/'pilə/	n.柱,台柱,栋梁
+pinch	/pintʃ/	v.捏,掐,拧;收缩;紧急关头;匮乏;压力
+pine	/pain/	n.松树
+pioneer	/ˌpaiə'niə/	n.先驱,倡导者,开拓者
+pistol	/'pistl/	n.手枪
+piston	/'pistən/	n.活塞
+plague	/pleig/	n.瘟疫,灾害,麻烦,苦恼 vt.折磨,使苦恼
+plaster	/'plɑ:stə/	n.灰泥;熟石膏;膏药
+plausible	/'plɔ:zəble/	a.似是而非的,似乎合理的,似乎可信的
+plight	/plait/	n.情况,状态,困境,盟誓(婚姻) v.保证,约定
+plot	/plɔt/	n.秘密计划;情节 v.标绘,绘制;密谋,策划
+plough	/plau/	n.(plow)犁,耕地,犁过的地 v.犁,费力地前进
+plumber	/'plʌmə/	n.(装修水管的)管子工
+plunge	/plʌndʒ/	v.(into)(使)投入,(使)插进,陷入;猛冲
+porcelain	/'pɔ:səlin/	n.瓷器 a.精制的,瓷器的
+porch	/pɔ:tʃ/	n.门廊,入口处
+porter	/'pɔ:tə/	n.守门人,门房,行李搬运工,服务员
+postage	/'pəustidʒ/	n.邮费,邮资
+poultry	/'pəultri/	n.家禽
+preclude	/pri'klu:d/	v.排除,阻止,妨碍
+predecessor	/'pri:disesə/	n.前辈，前任
+preface	/'prefis/	n.序言,引言,前言 v.作序,写前言
+premium	/'pri:miəm/	n.额外费用,奖金,奖赏,保险费
+preposition	/ˌprepə'ziʃən/	n.介词
+prescribe	/pris'kraib/	v.指示,规定;处(方),开(药)
+prestige	/pre'sti:ʒ/	n.声望,威望,威信
+presumably	/pri'zju:-məbli/	ad.推测起来,大概
+pretext	/'pri:tekst/	n.借口,托词
+prick	/prik/	n./v.刺伤,刺痛,刺孔
+proclaim	/prəu'kleim/	v.宣告,声明
+procession	/prəu'seʃən/	n.队伍,行列
+probe	/prəub/	n.探针,探测器 v.(以探针等)探查,穿刺,查究
+prominent	/'prɔminənt/	a.突起的,凸出的;突出的,杰出的
+prone	/prəun/	a.倾向于,俯伏的,倾斜的,陡的
+pronoun	/'prəunaun/	n.代词
+prophet	/'prɔfit/	n.预言家；先知；提倡者
+prosecute	/'prɔsikju:t/	vt.实行，从事 v.起诉，告发 vi.作检察官
+prosper	/'prɔspə/	v.成功,兴隆,昌盛,使成功,使昌隆,繁荣
+provision	/prəu'viʒən/	n.供应,(一批)供应品;预备;条款;(pl.)给养
+psychiatry	/psai'kaiətri/	n.精神病学，精神病疗法
+pub	/pʌb/	n.(英国)小酒店；小旅馆
+puff	/pʌf/	n.一阵,一股(气味等);喘息;吹嘘v.喘息,鼓吹
+punch	/pʌntʃ/	n.冲压机,冲床;穿孔机 v.冲压,穿孔
+punctual	/'pʌŋktjuəl/	a.严守时刻的,准时的,正点的
+pyramid	/'pirəmid/	n.金字塔
+quartz	/kwɔ:ts/	n.石英
+queer	/kwiə/	a.奇怪的,古怪的
+quench	/kwentʃ/	v.熄灭,扑灭,压制,抑制,止渴
+reap	/ri:p/	v.收割,收获
+reckless	/'reklis/	a.不注意的,大意的,卤莽的,不顾后果的
+reed	/ri:d/	n.芦苇,苇丛;芦笛,牧笛
+rehearsal	/ri'hə:səl/	n.排练,排演,演习,预演,试演
+rein	/rein/	n.缰绳,统治,支配 v.驾驭,控制,统治
+relay	/'ri:lei/	v.中继,转播,接力 n.接替人员,替班
+reluctant	/ri'lʌktənt/	a.不愿的,勉强的
+remedy	/'remidi/	n.药品;治疗措施 v.治疗,医治;纠正,补救
+remnant	/'remnənt/	n.剩余(物),零料,遗迹[风] a.剩余的,残留的
+renaissance	/ri'neisns/	n.[the R-]文艺复兴(时期)；新生，复兴
+renovate	/'renəuveit/	v.更新,修复
+repertoire	/'repətwɑ:/	n.节目,全部剧目,保留剧目,全部技能
+reptile	/'reptail/	n.爬行动物
+resemblance	/ri'zembləns/	n.相似,相似性[点,物]
+restrain	/ri'strein/	v.(from)抑制,制止
+retrospect	/'retrəuspekt/	v./n.回顾，回想，追溯[反]foresee
+revolt	/ri'vəult/	v./n.反抗,起义
+rib	/rib/	n.肋骨,肋状物
+rigorous	/'rigərəs/	a.严格的,严厉的,严酷的,严密的,严谨的
+rim	/rim/	n.(圆物的)边,边缘;(眼镜)框
+rod	/rɒd/	n.杆,棒
+ruthless	/'ru:θlis/	a.残酷的,无情的
+sake	/seik/	n.缘故,理由
+scandal	/'skændəl/	n.丑闻,诽谤,耻辱,流言蜚语,反感,公愤
+scramble	/'skræmbl/	vi.(快速地)爬，攀登；互相争夺，争先
+scrap	/skræp/	n.碎片;废料 v.废弃,报废
+segregate	/'segrigit/	vt.使···分开，隔离（病患等）
+senate	/'senit/	n.参议院,上院
+senator	/'senətə/	n.参议员
+sensation	/sen'seiʃən/	n.感觉,知觉;激动,轰动,轰动一时的事情
+sew	/səu/	v.缝,缝纫
+shady	/'ʃeidi/	a.成荫的,多荫的;可疑的,靠不住的
+shaft	/ʃɑ:ft/	n.轴;杆状物
+shatter	/'ʃætə/	n.碎片；粉碎　v.粉碎；使疲惫；使震骇
+shepherd	/'ʃepəd/	n.牧民,牧羊人
+shove	/ʃʌv/	vt.乱推；乱塞vi.用力推，挤n.猛推
+shrewd	/ʃru:d/	a.机灵的,敏锐的;精明的
+shrug	/ʃrʌg/	vt./n.耸肩(表示冷淡、怀疑、无奈、不满等)
+shutter	/'ʃʌtə/	n.百叶窗；(照相机)快门；关闭装置
+shuttle	/'ʃʌtl/	n.往返汽车/列车/飞机；穿梭 v.往返穿梭
+sip	/sip/	v.小口地喝，抿，呷n.一小口的量
+skim	/skim/	vt.撇去(液体表面)之漂浮物 vi.轻轻掠过
+slack	/slæk/	a.懈怠的,松驰的;萧条的 n.淡季;(pl.)便裤
+slam	/slæm/	v.(门、窗等)砰地关上 n.猛然关闭的声音
+slender	/'slendə/	a.修长的,细长的,苗条的;微小的,微薄的
+slit	/slit/	v.切开,截开,纵割 n.细长裂缝,狭长切口
+smog	/smɒg/	n.烟雾
+snap	/snæp/	v.啪地移动；(使）突然断开，断开（成两截)
+snatch	/snætʃ/	n./v.攫取,抢夺
+soak	/səuk/	v.浸泡,浸湿,浸透
+sock	/sɔk/	n.(pl.)短袜
+solemn	/'sɔləm/	a.庄严的,隆重的;严肃的
+sole	/səul/	a.单独的,唯一的 n.脚垫,鞋底
+solidarity	/ˌsɔli'dæriti/	n.团结；休戚相关
+sophisticated	/sə'fistikeitid/	a.尖端的,复杂的,先进的;老练的,老于世故的
+sophomore	/'sɔfəmɔ:/	(中学、大学)二年级学生
+sore	/sɔ:/	a.疼痛的;痛心的 n.痛处,疮口
+sovereign	/'sɔvərin/	a.独立的，有主权的 n.君主，国王，统治者
+spacious	/'speiʃəs/	adj.广阔的，宽敞的
+spectacle	/'spektəkl/	n.(pl.)眼镜;场面,景象;奇观,壮观
+spectator	/spek'teitə/	n.观众,旁观者
+spectacular	/spek'tækjulə/	a.壮观的,引人注目的 n.壮观的演出
+speculate	/'spekjuleit/	vi.思索；推测vt.投机；思索，推测
+sphere	/sfiə/	n.球,球体;范围,领域
+spiral	/'spaiərəl/	a.螺旋形的 n.螺旋，螺线 v.螺旋上升；盘旋
+spite	/spait/	n.恶意;怨恨
+splash	/splæʃ/	v.溅,泼 n.溅,飞溅声
+splendid	/'splendid/	a.壮丽的,辉煌的;极好的
+sponge	/spʌndʒ/	n.海绵
+spouse	/spaus/	n.配偶(指夫或妻)
+sprinkle	/'spriŋkl/	n.洒,喷,淋
+spur	/spə:/	n.靴刺,马刺;刺激,刺激物 v.刺激,激励
+stadium	/'steidiəm/	n.体育场
+stagger	/'stægə/	vi.摇晃着移动;蹒跚 n.摇晃不稳的动作;蹒跚
+stale	/steil/	n.变质的,不新鲜的;陈旧的,陈腐的
+stalk	/stɔ:k/	n.茎，梗vt.悄悄地跟踪vi.高视阔步地走
+stall	/stɔ:l/	n.货摊;畜栏,厩 v.(使)停转,(使)停止
+staple	/'steipl/	n.主要产品；名产；纤维；主要成分，主食
+stationery	/'steiʃənəri/	n.文具
+statute	/'stætju:t/	n.成文法，法令，法规；章程，规则，条例
+steep	/sti:p/	a.陡峭，险峻的；急剧升降的vt.浸泡,沉浸
+stem	/stem/	n.茎，干 vt.堵(挡)住 vi.起源于，由…造成
+stereotype	/'steriəutaip/	n.陈规，模式化 vt.使定型，使模式化
+stern	/stə:n/	a.严厉的;坚决的,坚定的 n.船尾,舟尾
+steward	/'stju:əd/	n.乘务员，服务员；看管人；膳食管理员
+stiff	/stɪf/	a.硬的,僵直的;拘谨的;呆板的;艰难的
+stimulate	/'stimjuleit/	v.刺激,使兴奋;激励,鼓舞
+storey	/'stɔ:ri/	n.(story)楼,层
+strain	/streɪn/	v.拉紧;紧张;扭伤;竭尽全力 n.拉紧;负担
+strap	/stræp/	n.皮带v.用带扣住，束牢；用绷带包扎
+strenuous	/'strenjuəs/	a.费力的，艰辛的；奋发的，努力的
+stride	/straid/	vi.大踏步走；跨越 n.一大步(pl.)长足进步
+strife	/straif/	n.争吵；冲突，斗争；竞争
+striking	/'straikiŋ/	a.显著的；惹人注目的，容貌出众的
+stumble	/'stʌmbl/	n.跌倒，绊倒 vi.绊(摔)倒；结结巴巴说
+stun	/stʌn/	vt.使…失去知觉；使目瞪口呆，使吃惊
+sturdy	/'stə:di/	a.坚定的，不屈不挠的；强健的，结实的
+subordinate	/sə'bɔ:dinət/	a.(to)次要的,从属的;下级的
+subsidy	/'sʌbsidi/	n.补助金；津贴费
+substitute	/'sʌbstitju:t/	n.代替者；替身；代用品 v.(for)代替,替换
+suburb	/'sʌbə:b/	n.市郊,郊区
+succession	/sək'seʃən/	n.连续,系列;继任,继承
+sulfur	/'sʌlfə/	n.(sulphur)硫
+superb	/sju'pə:b/	a.极好的,杰出的；华丽的；
+superficial	/ˌsu:pə'fɪʃl/	a.表面的;肤浅的,浅薄的
+superfluous	/sju'pə:fluəs/	a.多余的，过剩的，
+superstition	/ˌsju:pə'stiʃən/	n.迷信，迷信的观念习俗
+surgeon	/'sə:dʒən/	n.外科医生
+surplus	/'sə:plʌs/	n.过剩,剩余；余款,余额 a.过剩的,剩余的
+susceptible	/sə'septəbl/	a.易受影响的;易受感动的;易受感染的
+swan	/swɔn/	n.天鹅 vi.闲荡，游荡
+sway	/swei/	vi.摇动；倾斜 vt.使摇动 n.摇动；影响力
+symmetry	/'simitri/	n.对称(性);匀称,整齐
+symphony	/'simfəni/	n.交响乐,交响曲
+symposium	/sim'pəuziəm/	n.讨论会,专题报告会;专题论文集
+tactic	/'tæktik/	n.(tactics)策略,战术
+tan	/tæn/	n./a.(皮肤因日晒而成)棕褐色(的) vt.晒黑
+tangle	/'tæŋgl/	n.纠缠；缠结；混乱 v.(使)缠绕；变乱
+tar	/tɑ:/	n.柏油，焦油 vt.涂或浇柏油/焦油于
+tariff	/'tærif/	n.关税,税率;(旅馆,饭店等)价目表,收费表
+tease	/ti:z/	v.戏弄,取笑;挑逗 n.(爱)戏弄他人者;戏弄
+tedious	/'ti:diəs/	a.乏味的,单调的,冗长的
+tempt	/tempt/	v.诱惑,引诱;吸引,使感兴趣
+tempo	/'tempəu/	n.节奏,行进速度;(音乐的)速度
+tempt	/tempt/	v.诱惑,引诱;吸引,使感兴趣
+tenant	/'tenənt/	n.承租人;房客;佃户 vt.租借，承租
+tentative	/'tentətiv/	a.试探性的，暂时的；犹豫不决的
+territory	/'teritəri/	n.领土;版图;领域,范围
+testify	/'testifai/	v.作证，证明；(to)表明，说明
+testimony	/'testiməni/	n.证据,证词;表明,说明
+thermal	/'θɜ:ml/	a.热的,热力的；(小规模的)上升气流
+thick	/θik/	a.厚的，粗的，稠的，浓的  ad.厚，浓，密
+thigh	/θai/	n.大腿；股骨
+thorn	/θɔ:n/	n.刺,荆棘
+tide	/taid/	n.潮,潮汐;潮流,趋势
+timber	/'timbə/	n.木材,木料
+timid	/'timid/	a.胆怯的,怯懦的
+tin	/tin/	n.罐头；锡 a.锡制的 vt.镀锡于
+tobacco	/tə'bækəu/	n.烟草,烟叶
+toll	/təul/	n.(道路、桥等的)通行费；牺牲；死伤人数
+toss	/tɔs/	vt.向上掷/扔；摇摆，颠簸 n.投，扔；摇动
+tow	/təu/	vt.(用绳、链等)拖(车、船等) n.拖,牵引
+track	/træk/	n.跑道,小路;轨迹,轮迹 v.跟踪,追踪
+tractor	/'træktə/	n.拖拉机,牵引车
+trademark	/'treidmɑ:k/	n.商标；特征 vt.注册的…商标
+traitor	/'treitə/	n.叛徒,卖国贼
+treason	/'tri:zən/	n.谋反,通敌,叛国
+treasure	/'treʒə(r)/	n.财宝,财富;珍品 v.珍爱,珍惜
+trial	/'traiəl/	n.讯问，审讯；试验；试用；尝试
+trifle	/'traifl/	n.少量；小事,琐事 v.玩弄；嬉耍；忽视
+triple	/'tripl/	n.三倍数 a.三倍的;三部分构成的v.使成三倍
+triumph	/'traiəmf/	n.胜利,成功 v.得胜,战胜
+trivial	/'triviəl/	a.琐碎的;无足轻重的
+tropic	/'trɔpik/	n.回归线；[the T-s]热带地区
+trumpet	/'trʌmpit/	n.喇叭,小号
+tub	/tʌb/	n.木盆,澡盆
+tug	/tʌg/	v.用力拖(或拉)；苦干 n.拖；苦干；拖船
+tumble	/'tʌmbl/	v.(使)摔倒;打滚,翻腾 n.摔跤,跌倒
+turbulent	/'tə:bjulənt/	a.狂暴的,无秩序的
+ultraviolet	/ˌʌltrə'vaiələt/	a./n.紫外线(的)
+undermine	/ˌʌndə'main/	v.暗中破坏,逐渐削弱;侵蚀…的基础
+utter	/'ʌtə/	v.说,发出(声音) a.彻底的,完全的
+vague	/veig/	a.不明确的,含糊的,暧昧的
+vanish	/'væniʃ/	vi.突然不见;消失
+vanity	/'vænəti/	n.虚荣心,浮华
+veil	/veil/	n.面纱,遮蔽物 v.用面纱掩盖,掩饰
+vein	/veɪn/	n.血管;静脉;叶脉;纹理;情绪 vt.使成脉络
+velvet	/'velvit/	n.丝绒,天鹅绒 a.丝绒制的,柔软的
+ventilate	/'ventileit/	vt.使通风;给…装通风设备
+verdict	/'və:dikt/	n.(陪审团的)裁决,判决；判断；定论
+verge	/və:dʒ/	n.边,边缘 v.濒临
+versatile	/'və:sətail/	a.通用的;多才多艺的,多方面的
+verse	/və:s/	n.韵文,诗;诗节,诗句
+vessel	/'vesəl/	n.容器,器皿;船,舰;管,血管
+vest	/vest/	n.背心,马甲;汗衫,内衣
+veto	/'vi:təu/	n./v.否决
+vice	/vais/	n.邪恶;恶习;(pl.)台钳,老虎钳
+vicinity	/vɪ'sɪnɪtɪ/	n.邻近,附近
+vigorous	/'vigərəs/	a.朝气蓬勃的,精力旺盛的
+vinegar	/'vinigə/	n.醋
+violent	/'vaiələnt/	a.猛烈的,激烈的;暴力引起的,强暴的
+violet	/'vaiələt/	n.紫罗兰,紫色 a.紫色的
+virtue	/'və:tju:/	n.德行,美德;贞操;优点;功效,效力
+visa	/'vi:zə/	n.(护照等的)签证;维萨信用卡 vt.签证
+vocal	/'vəukl/	a.声音的;有声的;歌唱的 n.元音;声乐作品
+vowel	/'vauəl/	n.元音,元音字母
+voyage	/'vɔiidʒ/	n.航海;航行;旅行
+vulgar	/'vʌlgə/	a.粗俗的，庸俗的，本土的，通俗的，普通的
+waist	/weist/	n.腰,腰部
+wagon	/'wægən/	n.运货马车,运货车;敞蓬车厢
+wardrobe	/'wɔ:drəub/	n.衣柜,衣厨;衣服;行头;剧装
+warfare	/'wɔ:fεə/	n.战争(状态);斗争;冲突
+waterproof	/'wɔ:təpru:f/	a.防水的,耐水的
+watt	/wɔt/	n.瓦,瓦特
+weary	/'wiəri/	a.疲倦的;令人厌烦的 v.使疲倦,使厌倦
+weigh	/wei/	v.称…重量,称;重达;考虑,权衡
+weld	/weld/	v.焊接 n.焊接,焊缝
+whatsoever	/ˌhwɔtsəu'evə/	ad.(用于否定句中以加强语气)任何
+whereas	/hwεə'æz/	conj.而,却,反之
+whip	/hwip/	n.鞭子;车夫 v.鞭打,抽打;突然移动
+whirl	/hwə:l/	v.(使)旋转,打转 n.旋转;-连串快速的活动
+wicked	/'wikid/	a.坏的;邪恶的;不道德的;恶劣的;淘气的
+worship	/'wə:ʃip/	n.礼拜,礼拜仪式;崇拜 v.崇拜,敬仰;做礼拜
+wreath	/ri:θ/	n.花环,花圈
+wrench	/rentʃ/	v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受
+wretched	/'retʃid/	a.可怜的;悲惨的;肮脏的;恶劣的
+yield	/ji:ld/	v.出产,生长;(to)屈服,服从 n.产量,收获
+zeal	/zi:l/	n.热心，热忱，热情
+zigzag	/'zigzæg/	n./a.之字形(的) v.使曲折,曲折盘旋
