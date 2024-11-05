@@ -6163,3 +6163,1007 @@ wretched	/'retʃid/	a.可怜的;悲惨的;肮脏的;恶劣的
 yield	/ji:ld/	v.出产,生长;(to)屈服,服从 n.产量,收获
 zeal	/zi:l/	n.热心，热忱，热情
 zigzag	/'zigzæg/	n./a.之字形(的) v.使曲折,曲折盘旋
+
+1. abide by(=be faithful to ; obey) 忠于；遵守。
+2. be absent from…. 缺席，不在
+3. absence of mind(=being absent-minded) 心不在焉
+4. absorb(=take up the attention of) 吸引…的注意力(被动语态)
+    be absorbed in 全神贯注于…
+    近 be engrossed in ; be lost in ; 
+   be rapt in ;be concentrated on ;
+   be focused on ; be centered on
+5. (be) abundant in(be rich in; 
+    be well supplied with) 富于,富有
+6. access(to) (不可数名词) 
+    能接近,进入,了解
+7. by accident(=by chance, accidentally) 偶然地,意外. 
+   Without accident(=safely) 安全地,
+8. of one’s own accord 自愿地 ,主 动地 (=without being asked; willingly; freely)
+9. in accord with 与…一致
+out of one’s accord with 同….不一致
+10. with one accord 
+    (=with everybody agreeing)一致地
+11. in accordance with 
+    (=in agreement with) 依照,根据
+12. on one’s own account
+    1) 为了某人的缘故, 为了某人自己的利益
+    2) (=at one’s own risk) 自行负责
+    3) (=by oneself)依靠自己
+    on account 赊账; on account of 因为; 
+    on no account 不论什么原因也不;
+    of …account 有…..重要性.
+13. take…into account(=consider) 把...考虑进去
+14. give sb. an account of 说明, 解释 (理由)
+15. account for  解释, 说明. (=give an explanation or reason for) 
+16. on account of (=because of) 由于,因为.
+17. on no account 绝不要,无论如何不要(放句首要倒装) (=in no case, for no reason)
+18. accuse…of 指控,控告(=charge…with; blame sb. for sth. ; blame sth. on sb. ; complain about) 
+19. be accustomed to 
+    (=be in the habit of, be used to)习惯于.
+20. be acquainted with
+    (=to have knowledge of) 了解; 
+    (=to have met socially ) 熟悉
+21. act on 奉行,按照…行动; act as 扮演; act for 代理
+22. adapt oneself to(=adjust oneself to) 使自己适应于
+23. adapt…(for)  改编, 改写(以适应新的需要) (=make sth. Suitable for a new need) 
+24. in addition (=besides) 此外, 又, 加之
+25. in addition to 除…外 (=as well as, besides, other than)
+26. adhere to (=abide by, conform to, 
+    comply with, cling to, insist on, persist in, 
+    observe, opinion, belief ) 
+    粘附; 坚持, 遵循
+27. adjacent(=next to, close to) 
+    毗邻的, 临近的
+28. adjust..(to) (=change slightly) 调节; 适应;
+29. admit of …的可能，留有…的余地.(=be capable of, leave room for) 
+30. in advance (before in time) 预告, 事先.
+31. to advantage 有利的,使优点更加突出地.
+32. have an advantage over 胜过
+    have the advantage of 由于…处于有利条件
+    have the advantage of sb 知道某人所不知道的事
+33. take advantage of 利用.(=make the best of, utilize, make use of, profit from, harness)
+34. agree with 赞同(某人意见) 
+    agree to 同意
+35. in agreement (with) 同意, 一致
+36. ahead of 在…之前, 超过 ; 
+    ahead of time 提前.
+37. in the air 1)不肯定, 不具体. 2)在谣传中.
+38. above all 尤其是, 最重要的. (=especially, most important of all) 
+39. in all 总共, 总计(=counting everyone or everything, altogether) 
+40. after all 毕竟,到底; 
+    (not) at all 一点也不;
+    all at once(=suddenly)突然;
+    once and for all 只此一次; 
+    above all 最重要的; 
+    first of all 首先; 
+    all in all 大体上说;
+    be all in 累极了; 
+    all but 几乎.
+41. allow for 考虑到, 估计到(=take into consideration, take into account) 
+42. amount to 总计, 等于.(=to be equal to) 
+43. answer for (undertake responsibility for, 
+    be liable for, take charge for) 对…负责.
+44. answer to (=conform to) 适合,符合.
+45. be anxious about 为…焦急不安; 或 anxious for
+46. apologize to sb. for sth. 为…向…道歉
+47. appeal to sb. for sth. 为某事向某人呼吁
+    appeal to sb. 对某人有吸引力
+48. apply to sb. for sth. 为…向…申请 ; 
+    apply for 申请;
+    apply to 适用.
+49. apply to 与…有关;适用
+50. approve of 赞成, (=consent to, be in favor of, favor, agree to, consider good, right) 
+    approve vt. 批准
+51. arise from(=be caused by) 由…引起.
+52. arrange for sb.sth. to do sth. 安排…做…
+53. arrive on 到达; 
+    arrive at 到达某地(小地方);得出,作出; 
+    arrive in 到达某地(大地方);
+54. be ashamed of 以… 为羞耻(=feel shame, guilt or sorrow because of sth. done) 
+55. assure sb. of sth.  向…保证, 使…确信. (=try to cause to believe or trust in sth.)
+56. attach(to) 缚, 系 ,结(=to fix, fasten; join) 
+57. make an attempt at doing sth. 试图做…(to do sth.)
+58. attend to 注意,照顾; (=give one’s attention, care and thought)
+    attend on(upon)(=wait upon, serve, look after) 侍候,照料
+59. attitude to toward …对…的态度.看法
+60. attribute…to… 把..归因于.., 认为..是..的结果 (=to believe sth. to be the result of…)
+61. on the average 平均 (=on average, on an average) 
+62. (be) aware of 意识到,知道.(=be conscious of , having knowledge or consciousness)
+63. at the back of (=behind) 在…后面
+64. in the back of 在…后部(里面); 
+    on the back of 在…后部(外面); 
+    be on one’s back(=be ill in bed) 卧病不起.
+65. at one’s back 支持,维护; (=supporting or favoring sb.) 
+    have sb. at one ’s back 有…作后台
+66. turn one’s back on sb. 不理睬(某人),背弃,抛弃 (=turn away from sb. in an impolite way)
+67. behind one’s back 背着某人(说坏话)
+68. be based on upon 基于
+69. on the basis of 根据…, 在…基础上
+70. beat…at 在…运动项目上打赢
+71. begin with 以…开始. 
+    to begin with (=first of all) 首先, 第一
+72. on behalf of 以…名义(=as the representative of)
+73. believe in 相信,依赖,信仰.(=have faith or trust in; consider sth.sb. to be true) 
+74. benefit (from) 受益,得到好处.
+75. for the benefit of 为了…的利益(好处)
+76. for the better 好转
+77. get the better of 打败, 胜过.(=defeat sb.) 
+78. by birth 在出生上,论出身,按血统
+    at birth 在出生时; give birth to 出生
+79. blame sb. for sth. 因…责备某人
+    blame sth. on sb. 把…推在某人身上
+80. in blossom 开花(指树木) 
+    be in blossom 开花(强调状态) 
+    come into blossom 开花(强调动作)
+81. on board 到船上, 在船上, 上火车或飞机
+82. boast of (or about) 吹嘘
+83. out of breath 喘不过气来
+84. in brief 简言之 (=in as few words as possible) 
+85. in bulk 成批地,不散装的
+86. take the floor 起立发言
+87. on business 出差办事.
+88. be busy with sth.于某事
+    be busy doing sth. 忙于做某事
+89. last but one 倒数第二.
+90. but for (=without) 要不是. 表示假设
+91. buy sth. for…money 用多少钱买
+92. be capable of 能够, 有能力
+    be capable of being +过去分词 是能够被…的
+93. in any case(=for love or money, 
+    at any rate, at any price, at any cost , 
+    whatever happens; anyhow)无论如何
+94. in case (=for fear that) 万一;
+95. in case of (=in the event of) 如果发生…万一
+    in the case of 至于…, 就…而言
+96. in no case 在任何情况下都不(放句首倒装句)
+97. be cautious of 谨防
+98. center one’s attention on 把某人的注意力集中在…上 (=focus one’s attention on) 
+99. be certain of 有把握, 一定.(=be sure of) 
+100. for certain of (=for sure ) 肯定地,有把握地
+101. by chance 偶然 (=accidentally, by accident)
+102. for a change 换换环境(花样等)
+103. charge sb. with …控告某人犯有…
+104. in the charge of …由…管
+     in charge of (=responsible for)负责(某事)
+105. take charge of 负责管理(照顾) (=to be or become responsible for)
+106. charge…for 因…索取(费用) , 
+     charge sb. with sth. 控告某人犯有…
+107. round the clock 昼夜不停地(=all day and all night, usually without stopping)
+108. comment on 评论
+109. commit oneself to 使自己承担…
+     commit sb. to prison 把某人送进监狱; 
+     commit one’s idea to writing 把某人的想法写下来; 
+     commit a matter to a committee 把某事交给委员会讨论
+110. in common (和…)有共同之处,共用.
+     be common to sb. 是与某人所共有的
+111. keep company with  和…要好. (=be friendly and go out together) 
+112. compare…with … 把…与…比较
+113. compare…to… 把…比作…
+114. by comparison 比较起来
+115. in comparison with 和…比起来(=in contrast to)
+116. compensate for 
+     (=give sth. to make up for) 补偿, 赔偿
+     compensate sb. for sth. 赔偿,弥补
+117. complain of (or about)抱怨;诉苦;控告;
+     complain about 抱怨某人或事情; 
+     complain to sb. about sth. (or sb.) 向某人抱怨…; 
+     complain (抱怨); 
+     complement (补充); 
+     compliment (恭维)
+118. comply with 遵守, 依从(=act in accordance with a demand, order, rule etc.) 
+119. conceive of 想象,设想 (think of, imagine, consider) 
+120. concentrate on (or upon) 集中,专心
+121. be concerned with (=about) 与…有关
+122. concern oneself about with 关心
+123. in conclusion 最后一点; (=as the last thing)
+     at the conclusion of 当…结束时;
+124. condemn sb. to 判决
+125. on condition that (=if)以…为条件, 假如
+     in that = because 因为;
+     now that = since 既然
+     for all that = although 尽管
+126. in out of condition 健康状况好不好 (=thoroughly healthy or fit not fit) 
+     in good (bad) condition 处于良好(坏)状态
+127. confess(to) 承认, 供认;(=admit a fault, crime, or sth. wrong)
+     confess to a crime 承认罪行.
+128. confide in 对…讲真心话, 依赖 (=to talk freely to sb. about one’s secret)
+129. in confidence 推心置腹地;
+     with confidence 满怀信心地;
+     have confidence in 对…有信心
+130. confidence in sb. sth. 对…的信赖
+131. be confident of 有信心;
+     confidential 机密的
+132. confine…to… 把…限制在某范围内
+133. confirm sb. in 使某人更坚定(信念等)
+134. conform to 符合,遵照,遵守;(=be in agreement with, comply with) 
+     1)obey 服从;2) observe; 
+     3)comply with 照…办; 4)keep to 遵循; 
+     5)abide by 服从;6)stick to 按..做
+135. be confronted with 面对, 面临 (=be brought face to face with) 
+136. congratulate sb. on 祝贺
+137. in connection with 关于 (=with regard to)
+138. be conscious of 觉察,知道 (=be aware of)
+139. consent to 同意 (=give agreement to permission)
+140. in consequence  结果 (=as a result)
+141. in consequence of  由于…的结果 (=as a consequence of)
+142. under consideration 在考虑中
+143. in consideration of   由于(=in return for, on account of, because of )
+144. on no consideration 无论如何也不 (in no case)
+145. take…into consideration  考虑到, 把 …考虑进去 (=take account of, take…into account)
+146. considerate 体贴的, 考虑他人需要的,  (=thoughtful of the needs)
+     considerable 相当大的,值得考虑的
+147. consist of(=be composed of)由组成的.
+     consist in 主要在于
+     consist with 符合,与…一致
+148. be consistent with 与…一致. (=be in agreement with)
+     be consistent in 一贯的 
+149. consult sb. on about sth. 向…征求…方面的意见, 就…向…请教
+150. to one’s heart’s content 尽情地,痛痛快快
+151. be content with 满足于 (=be satisfied with) 
+     be content to do sth. 愿意做某事
+152. contrary to  与…相反 (=in opposition to)
+153. on the contrary 相反
+154. contrast…with 把…与…相对(对照)
+155. in contrast towith 和…形成对比
+     by contrast 对比之下
+156. contribute to 有助于
+157. under control (被)控制住
+     out of control 无法控制
+158. at one’s convenience(=where and 
+     when it suits one) 在方便的时间或地点
+     be convenient to for 对…方便
+159. convince sb. of 使某人确信,( =cause sb. to believe or feel certain; to persuade sb.)
+     try to persuade sb. to do 劝说某人做…
+160. cope with(=deal with, 
+     try to find a solution to)应付, 处理
+161. in the corner(of)在角落里;
+     on(at) the comer of a street 在街道拐弯处;
+     round the comer 拐过弯; 
+     be in a tight corner 陷入困境
+162. correspond (with) 通信 ( =exchange letters regularly)
+163. correspond to 相当于 . 
+     correspond with 符合,一致
+164. at all costs 不惜任何代价 . 
+     at the cost of 以…为代价
+165. a matter of course 理所当然的事
+166. as a matter of course 当然地, 自然地
+167. in (during) the course 在…过程中
+168. in due course  没经过太久, 到一定时候 (=without too much delay) 
+169. on credit 赊购; with credit 以优异成绩; 
+     to one’s credit 使某人感到光荣; 
+     do sb. credit 使…感到光荣
+170. be critical of 爱挑毛病的，批评的
+171. cure sb. of+某种疾病 治好某人的疾病
+172. a danger to 对…的危险; 
+     be in danger(of)处于…危险中; 
+     be out of danger 脱离危险
+173. to date 到目前为止 (=so far, until now)
+174. out of date 过时的；
+     up to date 新式的,时兴的; 
+     date back to 可追溯到; 
+     date from 从某时期开始(有)
+175. deal with (=concern) 论及
+176. be in debt to sb. 欠…的债
+177. on the decline 在衰退中, 在减少中
+     in decline 下降; 
+     on the increase 在增加
+178. to one’s delight 令某人感到高兴
+to one’s regret 遗憾; sorrow 悲痛; 
+relief 安心; distress 苦恼; shame 羞愧; 
+surprise 惊奇; astonishment 惊奇;
+179. delight in 喜欢, 取乐(=take great pleasure in doing sth.)
+180. take (a) delight in 喜欢干…以…为乐
+181. demand sth. of sb. 向某人要求(非物质的)东西. 
+     demand sth. from sb. 向某人要求(物质的)东西
+182. in demand 有需求; on demand 受到要求时
+183. be dependent on 依靠
+184. deprive sb. of sth. 剥夺某人某物
+185. derive…from 起源于 (=obtain…from) (=come from)
+186. despair of (=lose all hope of) 绝望
+187. in despair 绝望
+188. despite  不管, 尽管 (=in spite of)
+189. in detail 详细地
+190. deviate from 偏离, 不按…办
+191. on a diet 吃某种特殊饮食, 节食
+192. differ from…in 与…的区别在于…
+193. in difficulties…有困难,处境困难,
+194. discharge sb. (from)…for 因…解雇, 开除 (=dismiss sb. from a job for) 
+195. fall back (=retreat, turn back) 撤退;
+     in disorder 慌乱地, 狼狈不堪
+196. on display 陈列 (=being shown publicly)
+197. dispose of 处理掉 (=get rid of ,throw away)
+198. beyond dispute 不容争议的,无可争议
+199. in dispute 在争议中
+200. in the distance 在远处. 
+     make out 辩认出
+201. (be) distinct from 与…截然不同 ( = be different from) 
+202. distinguish between 辨别 (=make or recognize differences) 
+203. distinguish…from 把…与…区别开
+204. do away with 除去,废除,取消; (=get rid of; abolish; discard eliminate) 
+     do away with (=kill) 杀掉, 镇压
+205. have…to do with 与…有关系
+206. without doubt  无可置疑地 (=undoubtedly)
+207. in doubt 对…表示疑惑 (=in a condition of uncertainty)
+208. be due to 是由于
+209. come off duty 下班
+210. go on duty 上班
+211. be on duty 值班, 值日, 在上班时
+212. be in duty bound to (do) 有义务(做) (=be required by one’s job or esp. by conscience) 
+213. be eager for 想得到, 盼望
+214. by ear 凭记忆,不看乐谱 (=play music from memory without having seen it printed) 
+215. have an ear for 对..有鉴赏力 (=have keen recognition of sounds esp. in music and language)
+216. a word in one’s ear 私房话, 秘密话
+217. on earth 究竟, 到底, 全然
+218. with ease ( = easily) 容易, 不费力
+219. at (one’s) ease  自在,不拘束 ( = without worry or nervousness)
+220. put sb. at his / her ease (=free sb. from worry or nervousness) 使某人感到无拘束
+221. economize on 节省 (=save sth. instead of being wasteful) 
+222. have an effect on 对…有影响
+223. be in effect (=be in operation) 有效
+224. go into effect 生效. (come into effect; take effect; be brought into effect)
+225. in effect  实际上 (=in fact, really)
+226. give effect to  实行,使…生效 (=carry out)
+227. to no effect 不起作用,没有取得任何效果
+228. (be) of no effect (=useless) 无效
+229. to the effect that 大意是…,主要内容是… (=to sum up, basically, in short, in summary, in essence)
+230. to that effect 是那个意思的…
+231. emerge from 出现, 暴露(问题. 意见等) ( =appear, become known ) 
+232. place(or put, lay) an emphasis on 强调, 把重点放在…上
+233. encourage sb. in 鼓励; 
+     encourage sb. in his/her work 鼓励某人工作; 
+     encourage sb. in his/her idleness 怂恿某人游手好闲
+234. encourage sb. in …with sth. 用…鼓励某人做某事
+235. on end (=continuously) 连续地
+236. (be) at an end (=finished) 结束了
+237. no end of (=very manymuch) 很多,大量
+238. in the end (=finally, eventually) 最终
+239. at one’s wit’s end 无法可想, 智穷计尽 (=not knowing what to do or to say, Drained , Overwhelmed, Burned out, Stretched thin ) 
+240. end up with 以…而结束
+241. come to and end (=finish) 结束
+242. end in 以…为结束
+243. engage in be engaged in 忙于,从事
+244. enter for 报名参加 (=put the name on a list for)
+245. enter into  开始(谈话, 谈判等) (=begin)
+246. enter on upon  开始 (一个时代一种生涯一段任期等) (=begin)
+247. be entitled to 有权…,有资格… (=be given the right to do sth.)
+248. be equal to 等于
+249. be feel equal to (=have enough strength, ability etc.) (某人)能胜任,能应付
+     on equal terms 平等地 (=on and equal footing)
+250. be equipped with 装备有,装有
+251. (be) equivalent to 相等于, 相当于 (=equal in value, amount, meaning) 
+252. in essence 本质上 (=in its/one’s nature) 
+253. at all events 不论怎样, 无论如何 (=in spite of everything, in any case) 
+254. in any event 无论如何, 不管(将来)怎么样 (=whatever happens in the future) 
+255. in the event that(=if) 假如, 如果. 
+     in the event 结果, 实际情况是(常与 but 连用)
+256. in the event of 万一,即使发生..时 (=in case of)
+257. except 除…以外; 
+     besides 除…以外还有..
+258. except (=but) 除了。
+259. except for (=apart from) 除…以外
+260. (an) exception to …的例外
+261. with the exception of 除去., 除以外 (=except, apart from) 
+262. in excess of (=more than) 超过
+263. exchange…for 以…交换
+264. exclusive of 不包括 (not taking into account ,without)
+265. in excuse of 作为…的借口
+266. exert…on… 对…施加…
+267. exert oneself to do sth. 努力,使劲
+268. come into existence 开始存在;  (=begin to exist)
+    come into use 开始使用; 
+    come into effect 开始运转; 
+    come into fashion 开始时新; 
+    come into action 开始行动; 
+    come into power 开始执政; 
+    come into sight 进入视野;
+    come into blossom 开花;
+269. (be) in existence 存在
+come into existence 出现
+270. expect…of 在…期望…
+271. at the expense of 在损害…情况下,以…为牺牲
+272. expose…to… 使暴露于…, 使…受(危险,风险)
+273. be exposed to… 面临…, 受到….
+274. beyond expression  无法形容, 说不出的 (=in a manner that cannot be expressed) 
+275. give expression to 表达, 表现
+     find expression in 表现
+276. to …extent 在…程度上
+277. in the extreme (= extremely) 极其
+278. look sb. in the eye 正视, 打量(某人)
+279. close (shut) one’s eyes to 不理会,视而不见
+280. in one’s mind’s eye 在心目中, 在想象中
+281. in the twinkling of an eye 一眨眼,转眼间
+282. keep an eye on 照看,监视 (=keep a watch on)
+283. in the eyes of in one’s eyes 在某人看来, 在某人眼里 ( = in the judgment of ) 
+284. on the face of it 表面看来 (=judging by what one can see) 
+285. in the face of 面对着(困难等情况)
+286. in one’s face 当着某人的面; 
+     face to faced 面对面; 
+     face up to 大胆面向
+287. fail in (=be unsuccessful in) 失败
+288. in good faith 真诚地 (=honestly, sincerely) 
+289. keep faith with 对…守信用
+290. lose faith in 对…失去信心
+291. on faith 毫无怀疑地, 依赖地
+292. faithful to (=loyal to) 对…忠诚
+293. fall into the habit (of) 养成…习惯
+294. fall short of 没达到, 低于 (=fail to reach a desired result, standard, etc.) 
+295. familiar with 熟悉,了解
+296. have a fancy for (没有道理地)喜欢, 想要 ( =like sth. without the help of reason)
+297. take a fancy to  喜欢 (=become fond of)
+298. by far 远, 非常 (与比较级或最高级连用)
+299. far from 远远不是
+300. far from 非但不…(而且)
+301. in fashion 时兴,流行 (=stylish, most modern)
+302. after the fashion (of) 依照…
+303. find fault with 找毛病，对…吹毛求疵 (=complain about; criticize)
+304. at fault (=in the wrong, blamable)有错
+305. in favour of 赞成
+306. be in favour with 受宠, 受偏爱;
+     out of favour with 失宠, 不受宠
+307. in one’s favour(=to one’s advantage) 对…有利
+308. (be) favourable to 有利的 (=advantageous)
+309. fear for 为…担心 (=be afraid for the safety of sb. or sth.) 
+310. for fear of  以防, 由于怕 (=in case of; because of anxiety about)
+311. in fear of (=afraid for the safety of) 担心
+312. feed (sb.) on sth. 靠吃…, 用…喂养
+313. be fed up with 厌烦, 腻了 (=be unhappy, tired about sth. dull)
+314. feel like (=have a desire for) 想要
+315. fill in 填写
+316. fill out ( =fill in )填写
+317. set the world on fire 有突出成就 (=set the flames on fire) (=do sth. remarkable)
+318. play with fire 干冒险事 (=take great risks)
+319. set sth. on fire 使..着火,放火 (=set fire to sth.)
+320. at first sight 乍一看,一见 (=when first seen)
+321. for the first time 第一次 (作状语)
+322. in the first place 首先, 第一
+323. fit into 刚好放入
+324. fit in with  合适, 相配, 一致 ( = suit , fall into agreement)
+325. (be) fit for  适合 (=right and suitable for)
+326. focus on (=concentrate on) 集中在…
+focus sth. on 把…集中在…上
+327. be fond of 喜欢
+328. (be) in force 有效 , 实施
+329. go into force 开始生效
+330. by force 靠武力, 强行
+331. force…on 把…强加给…
+332. in the form of 以…形式
+333. be fortunate in 幸运,有好运气
+334. free of charge 免费
+335. be freed from 免受, 没有…
+336. in front of 在…前面
+     in the front of 在…前部
+337. furnish…with (=supply) 向…提供
+338. in general  通常 (=in most cases, usually)
+339. catch (or get) a glimpse of 瞥见(强调结果) 
+     take a glance(or look) at 看一 眼(强调动作)
+340. be good for 对…有好处;对…有作用
+     be good at 擅长于; 
+     be good to 对…好
+341. in good time(=early) 早早地(做完.到达等)
+342. for good (=for ever) 永远地, 长期地
+343. take…for granted 把…认为理所当然的. (=assume to be true)
+344. be grateful to sb. for sth 因…感谢某人
+345. on the ground(s) of  由于… (=because of)
+346. fall to the ground (计划.希望等)失败,落空
+347. on one’s guard(against) 谨防, 警惕
+     (be) on guard 站岗
+348. guard against(=defend, keep safe) 警惕,防止
+     guard…against 警卫…防止
+349. guess at 猜, 估计
+350. by guess 靠猜
+351. be guilty of 犯有…罪或过失
+352. be in the habit of 习惯于
+353. break off (a habit) 改掉(某种习惯)
+354. break sb. of (a habit) 使某人改掉(某习惯)
+355. get (fall) into the habit of 养成了…的习惯
+356. come to a halt (=stop) 停止; 停住
+357. at hand 在手边, 眼前(附近)
+358. by hand 用手工(做)
+359. hand in glove(with) 狼狈为奸, 密切合作
+360. in hand 1)在手边 2)控制住 (=under control)
+361. in the hands of 由…掌握, 控制, 负责
+362. live from hand to mouth 勉强度日,现挣现吃
+363. at the head of 在…的前头
+364. head for (=move towards) 向…方向前进
+365. hear of (=know about) 听人说起, 听说过
+366. at heart (=in reality) 内心里, 实际上
+367. in one’s heart (of hearts) 内心深处,事实上
+368. by heart (=by memory) 熟记, 背(诵)
+369. to one’s heart’s content 尽情地
+370. with all one’s heart 全心全意地,真心实意
+371. hinder…from 阻碍,使..不能做 (=stop…from)
+372. be (go) on holiday 在(去)度假
+     go on holiday = go for a holiday
+373. be (feel) at home 感觉合适，无拘束 ，熟悉 (=to be comfortable; not feel worried) 
+374. be honest in 诚实
+375. in one’s honour (or in honour of) 祝贺,纪念
+376. on one’s honour 以某人的名誉担保
+377. hope for 希望(某事发生),希望有
+378. to one’s horror 令某人感到恐惧的是
+379. in a hurry (=hastily) 匆忙地
+380. be identical with 和完全相同 (=exactly alike)
+381. be identified with 被视为与…等同
+382. in ignorance of 不知道…
+383. be ignorant of 对…不了解,不知道 ( = lacking knowledge) 
+384. (an) impact (on) 对…的强烈影响
+385. impose…on 把…强加给
+386. impress…on 给…留下印象
+387. make (leave) an impression on sb. 给…留下印象 (=give sb. an impression )
+388. under the impression that 有..的印象,认为
+389. improve sth.(make sth. better) 把原物改进
+     improve on (=produce or be sth. better than…) 另做一物比原物更好
+390. improve in  有改进, 好些 (=get better)
+391. improvement in 表示原物有改进,好转
+392. include…in 把…列在…里面
+393. inclusive of 把…包括在内
+394. independent of 独立的,不受约束的
+395. indicative of 表明, 说明
+396. be indifferent to 对…漠不关心, 冷淡, 不在乎 (=not interested in)
+397. (be) inferior to 比…差; (=less good in quality or value)
+     superior to 比… 好
+398. inform sb. of sth. 通知, 告诉
+399. be innocent of 无罪的,无辜的
+400. insist on  坚持要 (=order sth. to happen)
+401. instead of  代替，而不是… (=in place of)
+402. instruct…in  教.指导.训练某人… (=teach)
+403. insure…for 把…保险(多少钱); 
+     ensure 使安全; 
+     assure…(of) 使…确信,保证
+404. insure…against 保险…以防
+405. intend…for 打算把…给
+406. (be) intent on 专心致志, 坚决
+407. in the interests of 符合…的利益
+     be interested in 对…感兴趣
+408. interfere in 干涉, interfere with 打搅,干扰
+409. at intervals 每隔一会儿, 每隔一段距离
+410. intervene in 干预
+411. invest in 投资
+412. be involved in 卷入, 参加 (=become connected or concerned) 
+413. by itself  单独地,靠自己 (=alone, without help)
+414. in itself 本身; of itself 自发,自然
+415. be jealous of 妒忌
+416. jump at 抢着接受 (=to be eager to accept)
+417. jump on  叱责 (=scold, tell of)
+418. junior to sb. 年纪较…轻, 职位较…低.
+419. (be) keen on 喜爱, 渴望
+420. keep a close watch on 密切注视 ( =keep a sharp lookout for)
+421. keep…to oneself 不告诉别人 (=keep secret)
+422. to(the best of) one’s knowledge 据…所知
+423. at large(=at liberty, free) 在逃
+     at large 一般来说, 大体上 (=in general)
+     at large 详细地 (=at full length; with details)
+424. lean against (背)靠着…
+425. at least 至少; at most 至多
+426. (not) in the least 一点(也不), 丝毫(也不)
+427. at one’s leisure 在…有空的时候
+428. lend itself/themselves to 适合于(某用途)
+429. at length (=after a long time, at last) 终于
+     at length (=in detail, thoroughly) 详细地
+430. go to any length 想一切办法, 尽一切力量
+431. be liable to 易于..的,应受(罚) (=be subject to)
+432. be liable for 对…应负责任的
+433. lie in 在于
+434. in life 一生中
+435. for life 终身
+436. in the light of 考虑到, 根据 (=considering; taking into account)
+437. throw light on 使…更为清楚, 提供线索, 阐明 ( = make clear, explain)
+438. in line with 符合,一致 (=in agreement with)
+439. long for 渴望,希望得到 (=want very much)
+440. for long 很久,很长时间 
+441. before long (=soon) 不久, 过了不久以后.
+442. in the long run  从长远来说,最后; (=in the end)
+     in the short term (从短期来说)
+443. (be) at a loss 不知所措
+444. major in 主修（某课程）
+445. as a matter of fact 实际上, 事实是
+446. by all means (=at all costs)不惜一切. (=certainly) 当然行;
+     by means of 用…; 
+     by no means 完全不, 决不
+447. on memory of 为纪念…
+448. on the mend  好转, 在康复中 (=in the process of recovering)
+449. mention sth. to sb. 向某人提起某事
+450. at the mercy of  任…摆布, 在…支配下 (=in the power of)
+451. be in a mess 乱七八糟, 处境困难  
+     make a mess of 弄乱, 打乱
+452. bear(or keep)…in mind(=remember) 牢记
+453. bring(or call)to mind(=remember) 使回想起
+454. by mistake (由于粗心,健忘原因而)错误地
+455. at the moment (=now) 此刻,现在
+     for the moment (=for the time being) 暂时
+     just a moment 稍等片刻
+     at the last moment 在最后一刻
+456. in the mood for 有情绪去做..,有心境做.
+457. no more…than 和…一样都不…
+458. for the most part 多半,大多数,一般来说
+459. at (the) most 最多, 至多
+460. make the most of 充分利用
+461. be not much of(=not a good)不是很好 be something of 有点…,像…
+462. name after 用…的名字命名
+463. native to 所产的
+464. by nature 天生的, 生来
+465. in mature 本质上
+466. (be) in the nature of 属…性质
+467. none other that 不是别人,正是…
+468. above normal 高于正常(温度)
+469. for nothing (=free, without payment)
+免费
+470. nothing but 只有, 不过…而已
+471. to say nothing of(=not to mention)
+更不用说…
+472. do sth. at short notice 
+只给很少时间准备
+473. until further notice 在另行通知前
+474. take notice of (=pay attention) 注意
+475. object to (=be opposed to) 反对
+476. objection to (接动名词) 反对
+477. on occasion(=now and then)
+不时地,必要时
+478. by occasion of (=because of) 由于
+479. occupy oneself with (in) 忙于(某事)
+480. it occurs to sb. that… 某人想到…
+481. once and for all =once and forever 永远地
+all at once (=suddenly, now) 立即,马上
+once in a while (=occasionally) 
+偶尔 (just) for once 就这一次
+482. (all) by oneself 独自(没有别人帮助)
+483. operate on sb. 给某人做手术
+operation n. come go into operation
+开始运转
+putbring sth. into operation 
+使…投产,运转
+484. be of the opinion 持有…的看法
+485. in one’s opinion 按某人的看法
+486. be opposed to… 反对…
+487. be opposite to 与…相反的
+488. (be) in order(=acceptable)合适的
+in order 井井有条,处于良好状态; 
+out of order(=in bad condition)
+出毛病,发生故障
+489. made to order 定做的(衣服)
+490. originate infrom(=begin)
+起源于,由..引起
+491. on the outskirts (of) 在城郊
+492. owe…to 把…归于…
+493. on one’s own (=along, without help)
+单独
+494. of one’s own 某人自己的
+495. keep pace with 跟…齐步前进
+496. go to great pains=take pains 
+下功夫,努力
+497. part with (=give up, sell) 舍弃,卖掉
+498. participate in (=take part in)参加
+499. (be) particular about 
+讲究,挑剔(吃,穿)
+500. in particular (=especially) 
+特别是,尤其
+501. (a) passion for 对…的热爱,热情
+502. be patient with 对…耐心
+503. pay for 赔偿, 付款, 报偿, 处罚
+504. pay…for 付…的钱
+505. (be) at peace with 
+与…和睦相处
+in peace (=peacefully)安静,平安
+506. peculiar to… 特有的, 独具的
+507. penalty for 对…的处罚,罚金
+508. perform on the piano
+(=play the piano) 演奏钢琴
+509. persist in 坚持,固执
+510. in person 亲自, 当面
+511. in place (in right or proper place) 
+放在应放的地方
+512. in place of (=instead of) 代替
+513. take(a) pleasure in 喜欢做某事
+514. be on the point of doing sth. 
+(=be about to do sth.) 刚要去做
+515. beside the point 不切正题,无关紧要
+516. come to the point 谈主要问题
+517. there is no point in doing sth.
+没必要做某事
+518. to the point 中肯, 切题
+519. point at (=indicate, direct attention)
+指着
+point out (=indicate, show) 
+指出,指明
+520. popular withamong
+大众所喜爱的,拥戴
+521. in the position of 处在…位置上
+522. in practice 
+实际上(状语);业务熟练(表语)
+523. be(get) out of practice 
+荒疏,不熟练
+524. bring(put)…into practice
+使…成为现实
+525. prefer…to (choose rather, like better) 
+宁要, 更喜欢
+526. prepare for breakfast 准备吃早饭
+     prepare breakfast 作早饭
+527. in the presence of 在…在场的情况下
+528. for the present
+(=for the time being, for now)
+暂且,就现在来说;
+at present 现在,此刻
+529. preside over at 主持(会议,业务等)
+530. prevail over 占优势, 压倒, 战胜
+531. prevent…from 使…不, 防止…做
+532. previous to (=prior to) 在…之前
+533. take pride in(=pride oneself on) 
+以…自豪
+534. pride oneself on upon 以…自豪
+535. in principle 
+(=only in regard to the main idea) 
+原则上
+536. prior to (=before) 在…之前
+537. in private (=privately) 私下, 秘密地
+in public 公开地
+538. proceed from (=arise from, result from) 
+由…发出, 由…引起(产生)
+539. proceed with 
+( =begin and continue sth.) 继续进行
+540. in progress(=in the state of be done)
+进行中
+541. prohibit…from (=forbid) 禁止, 阻止
+542. in proportion to 与…成比例
+543. protect…from 阻止..不受,保护不受
+544. be proud of 为…自豪
+545. provide for 为…做准备
+546. in public 公开地, 当众
+547. on purpose(=by intention, deliberately)
+故意
+548. to the purpose 
+(=useful for one’s purpose)
+得要领的, 中肯的
+549. be qualified in 
+在某种科目或学科上合格
+be qualified for 在某种职业上合格
+550. call…in question 对…表示怀疑
+551. beyond (all) question 
+(=without question) 毫无疑问
+552. out of the question (=impossible)
+不可能的
+553. in question (=under discussion)
+所谈及的;
+554. without question 毫无疑问
+555. be caught in the rain 被雨淋了
+556. at random 
+(=without aim or purpose) 
+随便地, 任意地, 胡乱地
+557. range over (=cove, include) 范围包括
+558. range between 范围在..与..之间不等
+559. at any rate (=at all events)
+无论如何,总之
+560. beyond the reach of 
+无法达到(得到,理解)
+561. out of reach of 无法够到. 
+within reach of (or within one’s reach) 
+够得到 ,能拿到
+562. react to 对…作出反应
+563. react on upon 对…产生影响
+564. react against 作出反抗或反对反应
+565. (be) ready for 准备好做…
+566. in reality (=in fact, really) 事实上
+567. beyond all reason 没有道理的
+568. by reason of (=because of) 由于,因为
+569. it stands to reason that …理所当然
+570. reason with (=argue) 劝说
+571. in the red 亏损,负债,赤字
+    (be) get out of red 不再亏损
+572. refer to…as 把…称做…
+573. refer…to… (=send, take) 送交,呈交
+574. within reference to (=concerning, about)关于
+575. within regard to  有关,关于 (=concerning)
+576. give one’s regards to sb. 向…问候
+577. regardless of 不顾,不考虑 (=without worrying about, despite,) 
+578. inwith relation to 关于, 有关
+579. relevant to 与…有关的
+580. to one’s relief 令…感到放心的是
+581. relieve…of… 解除,解脱;帮助拿,辞退
+582. rely on 依靠, 信赖
+583. remark on(upon) 对…发表评论
+584. remedy for 对…治疗法, 补救, 药物
+585. remind sb. of 提醒某人…,使某人向想起
+586. in good repair(=in good condition) 处于良好状态; 
+     be under repair 在修理中
+587. reply to 答复, 回答
+588. beyond reproach 不受责备的;
+     beyond(all) reason 毫无道理;
+     beyond question 毫无疑问;
+     beyond belief 以相信;
+     beyond hope 绝望
+589. resort to 诉诸于.., 求助于…
+     resort to force 诉诸于武力
+590. inwith respect to (=concerning)
+    有关,关于
+591. respond to 对…反应, 响应, 对(药)有效
+592. in response to(=as an answer to) 回答,反应
+593. be response for 对…负责, 是造成…原因
+594. rest on/upon依靠,寄 托 (=be supported by)
+595. rest with (=be in hand of) 
+     在…手中是…的责任; 由…决定; 依靠
+596. restrain…from(=hold back from)
+     抑制..不..
+597. restrict…to 把..限制于..(=keep within limits) 
+598. result in (=cause) 导致
+599. with the result that 其结果是
+600. in return (for) 作为报答; 以报答(for)
+601. get rid of 摆脱, 去掉, 除去
+602. be in the right 正确的;
+     in the wrong 错误的
+603. be within one’s rights(to do) 有权(做)
+604. give rise to (=lead to) 引起, 导致
+605. at the risk of(=with danger of) 冒...的风险
+606. run(take)risk of (=do sth dangerous) 的风险
+607. rule out (=exclude, eliminate) 排除
+608. in safety 安全地
+609. for the sake of  为了…起见 ( =for the good or advantage of ) 
+610. be for sale 待售
+611. on sale (=offered to be sold) 出售, 上市
+612. be satisfied with 满意
+613. on a large scale 大规模地
+614. on schedule 按时,准时; (=at the planned or exacted time)
+     ahead of schedule 提前; 
+     in advance 预先;
+     behind schedule 晚于规定时间
+615. be schedule for 定在某时(进行)
+616. scrape through(in) 勉强通过
+617. from scratch(=from the beginning) 从头开始
+618. in search of 寻找;
+     in honor of 为了...表示敬意;
+     in memory of 为纪念..;
+     in hopes of 为期待..;
+     in pursuit of 为追求..;
+     in behalf of 为…的利益;
+     in favor of 为赞成…;
+     in support of 为支持…
+619. in season 旺季
+620. in secret 秘密地; in private 私下
+621. senior to 比…年长; 
+     junior to 比…轻;
+     superior to 比…更好;
+     inferior to 比…差
+622. in a sense 在某种意义上
+623. sensitive to 对…敏感; 
+    sensible (of)觉察到的;
+    sensational 耸人听闻的
+624. in sequence 按顺序, 按先后次序
+625. share in (=have a share in) 分摊, 分担
+626. share sth. with 与…分享,分担,分摊,共用
+627. be shocked at by 对…感到震惊
+628. fall short of 达不到
+629. go short of (=be without enough of) 缺乏
+630. for short  为简便,简称 (in a short form)
+631. in short 简称 (=in a few words, in brief)
+632. in short supply 供应不足
+633. be short of  缺乏,不够  (=lacking enough)
+634. be shy of 难为情, 不好意思
+635. at the side of 与…相比
+636. take the side of 站在…一边
+637. catch the sight of 瞥见 (=see for a moment)
+638. at the sight of 一看见…
+639. (be)in sight (=in view, visible)看得见 out of sight 看不见
+640. know sb. by sight 与…只面熟
+641. on the sly (=secretly) 偷偷地
+642. smell of 有…的气味
+643. be sorry about/for 懊悔的,后悔的,难过的
+644. speak ill of 说…的坏话;
+     speak well of 说…的好话
+645. specialize in 专门研究, 专攻
+646. in spite of  尽管 (=despite)
+647. on the pot 在现场, 在出事地点; (=at the place of the action)
+648. take a stand against 采取某种立场反对
+     take a stand for 采取某种立场支持…
+649. stare at 目不转睛地看, 凝视, 盯着
+650. in step 步伐一致; out of step 步伐不齐
+651. stick sth. on 把…贴在…上
+652. stick to 粘着, 坚持 (=cling to, adhere to, abide by)
+653. stick at  继续勤奋地致力于…;  (=continue to work hard at)
+     stick one’s work 坚持工作; 
+     stick at one’s books 勤奋读书
+654. stick to 坚持; (=refuse to leave or change)
+     stick to one’s promise 比喻食言  stuck
+     stick to one’s friend 忠于朋友
+655. in stock 有….货
+656. be strict with 对…严格要求
+657. be go on strike 罢工
+658. subject…to 使受..到  (=cause…to experience)
+     subject (adj.) to 易受到…的
+659. submit…to 提交
+660. substitute…for 以…代替…
+661. suffer from 患…病; 受…苦痛
+662. be suitable for (=fit) 合适…的
+663. in sum 大体上, 总之
+664. supply sb. with sth 向某人提供某物
+665. superior to 优于…, 比…好
+666. in support of 以便支持
+667. be sure of  确信的  (=have no doubt; certain)
+668. for sure certain (certainly, definitely) 肯定地.有把握地说
+669. make sure about 弄清, 弄确实
+670. be surprised at 对..惊奇;
+     take…by surprise 使…惊奇; 
+     to one’s surprise 使某人惊奇
+671. suspect sb. of 疑心某犯有…
+672. be suspicious of  对…有疑心 (=not trusting)
+673. by sympathetic to/towards 对…同情,赞同
+674. sympathize with sb. or sth. 表示同情
+675. be in sympathy with 赞同,同情
+676. taste of 有…味道
+677. in good taste 大方,得体;
+     (反意)in bad taste
+678. to(one’s) taste 合…的口味, 中意
+679. tell…from (=recognize) 辨别.认出
+680. in terms of 按照, 根据, 在…方面  (=with regard to; respectively) 
+681. be on good/bad terms with 关系好(不好)
+682. thank sb. for sth. 因…感谢某人
+683. think of(=have the idea of) 想到;(=consider)考虑; (=remember)想起
+684. on second thoughts 经再三考虑之后
+685. be through with  做好,完成 (=finish with)
+686. at one time 过去一度, 以前曾经
+687. behind the times (思想,看法)落后于时代
+     behind time  迟到, 晚点 (=late)
+688. for the time being 暂时(=temporarily)
+689. in time(for)  及时  (=early or soon enough)
+     on time (=punctually) 准时
+690. at no time 无论何时也不…
+     in on time (=very quickly) 立即,马上
+691. at times  间或, 时常  (=occasionally)
+     at all times  始终, 总是  (=always)
+692. at a time 一次, 每次; 同时
+693. on top of 在…上面
+694. in total  总计  (=all have been added up)
+695. be in touch with 与…有接触, 有联系  
+     be out of touch with 与…没有联系或接触
+696. be true of 适合于…的;
+     be true to 忠于…
+697. to trust …to 把…委托给
+698. place (put, have) trust in 依赖
+699. in truth 事实上, 实在
+700. by turns 轮换地
+701. in turn (=successively; in order) 依次
+702. be typical of 是…的特点
+703. for use 以便使用
+704. be in use (=be used)被使用; 
+     be out of use (=be on longer used) 不再被使用
+705. be used to+名词或动名词 习惯于
+     used to+动词原形 过去常常(做)
+706. be unprepared for 对…无准备的
+707. in vain (=uselessly) 徒劳
+708. be valid for 对…有效的
+709. in the vicinity 在附近; 
+     in close vicinity to 在靠近…的地方; 
+     in the vicinity of 大约
+710. with a view to +动名词 以…为目的 (=in order to do sth.) 
+711. in view (=in sight) 看得见
+712. in view of  考虑到… in the view of 按…的意思 (=considering)
+713. byin virtue of 由于…; 依靠…力量 (=as a result of, by means of)
+714. a warning against 告诫…不要
+     a warning of 警告…存在…
+715. (be) on the watch for 不断监视看有没有..
+     (be) on the watch against 不断监视为防范…
+716. be in the way (=obstructive) 阻碍
+717. (be)under way (=moving forward) 正进行
+718. by way of  经由,取道  (=by going through)
+719. by the way 顺带地(转移话题)  (=in addition)
+720. in no way 无论怎样也不…
+721. in the way 对…方式
+722. in a way 从某种程度上说
+723. as a whole (=in general) 就整体而论
+724. on the whole 大体上说 (=generally, for the most part) 
+725.    against one’s will 违心地违背意愿地
+        at will 随心所欲; 
+        with a will 有决心地
+726. wish for 渴望某物;hope for 想要某物
+728. word for word (=literally) 逐字地
+729.    in a word 总之;
+        in other words 换言之; 
+        have a word with sb.谈一谈; 
+        have words with sb.争吵;
+        have the last word 有决定权 ;
+        keep one’s word 遵守诺言
+730.    work out ideas 出主意;
+        work out the amount of…计算出数量;
+        work out a problem 解决问题;
+        work out a puzzle 解谜
+731. at the thought of 一想到… worry about 担心
+732. at (the) worst 在最糟的情况下
+733. yield to 对…屈服,投降,让步,顺从
+734. be worthy of (=be deserving of) 值得,够得上, 配得上
+

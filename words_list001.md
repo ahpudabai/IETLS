@@ -211,7 +211,7 @@ malignant	/mə'lignənt/	a.恶性的，致命的；恶意的，恶毒的  Benign
 maneuver	/mə'nu:və/	n.(manoeuvre)机动;运用,操作; v.机动   Steer - 驾驶，指引  mobilize 动员
 manifest	/'mænifest/	v.表明,证明,显示 a.明白的,明了的
 masculine	/'mæskjulin/	a.男性的，似男性的；［语法］阳性的
-menace	/'menəs/	vt./n.有危险性的人(或物)；威胁，威吓  Menance - 保证
+menace	/'menəs/	vt./n.有危险性的人(或物)；威胁，威吓  
 mercury	/'mɜ:kjəri/	n.水银,汞
 metaphor	/'metəfə/	n.隐喻，暗喻
 militant	/'mɪlɪtənt/	a.好战的，富于战斗性的 n.斗士   Confrontational - 对抗的
@@ -277,7 +277,7 @@ pyramid	/'pirəmid/	n.金字塔
 prolong	/prə'lɔŋ/	v.拉长,延长,拖延
 radical	/'rædikəl/	a.基本的,重要的;激进的,极端的;根本的  staple  fundamental
 plausible	/'plɔ:zəble/	a.似是而非的,似乎合理的,似乎可信的
-reconcile	/'rekənsail/	v.使和好,调解,使调和;(to,with)使一致
+reconcile	/'rekənsail/	v.使和好,调解,使调和;(to,with)使一致  consist with 符合,与…一致
 repression	/ri'preʃən/	n.压抑，压制，镇压
 reed	/ri:d/	n.芦苇,苇丛;芦笛,牧笛
 reel	/ri:l/	n.卷筒,线轴 v.卷,绕
@@ -291,7 +291,7 @@ resort	/ri'zɔ:t/	v.凭借,求助n.度假胜地,常去之处,手段
 retention	/ri'tenʃən/	n.保留,保持,保持力,记忆力
 rigorous	/'rigərəs/	a.严格的,严厉的,严酷的,严密的,严谨的
 ripe	/raɪp/	a.熟的,成熟的;(for)时机成熟的
-sake	/seik/	n.缘故,理由
+sake	/seik/	n.缘故,理由   for the sake of  为了…起见
 sanction	/'sæŋˌkʃən/	n./v.批准,同意,支持,认可 n.处罚,制裁  Sanctity - 神圣，庄严  Penalty - 惩罚，处罚
 sane	/sein/	a.心智健全的,神志清醒的,明智的,稳健的
 seemingly	/'si:miŋli/	ad.外观上，表面上
@@ -332,18 +332,18 @@ stoop	/stu:p/	v.弯腰,俯身 n.弯腰,曲背  Bend - 弯曲  Lean - 倾斜，�
 subordinate	/sə'bɔ:dinət/	a.(to)次要的,从属的;下级的 Dependent - 依赖的，从属的 Inferior - 较低级的，次要的
 seminar	/'seminɑ:/	n.(大学的)研究班,研讨会
 superfluous	/sju'pə:fluəs/	a.多余的，过剩的，Superficial - 表面的，肤浅的 Excessive - 过多的 Unnecessary - 不必要的 Redundant - 多余的 Extraneous - 无关的，外来的
-speculate	/'spekjuleit/	vi.思索；推测vt.投机；思索，推测
+speculate	/'spekjuleit/	vi.思索；推测vt.投机；思索，推测  hypothesize presume 推测
 striking	/'straikiŋ/	a.显著的；惹人注目的，容貌出众的
 startle	/'stɑ:tl/	v.惊吓,使吃惊
 stride	/straid/	vi.大踏步走；跨越 n.一大步(pl.)长足进步
-strife	/straif/	n.争吵；冲突，斗争；竞争
+strife	/straif/	n.争吵；冲突，斗争；竞争  dispute
 strike	/straik/	n./vi.罢工 vt.打，击；攻击；给…深刻印象
 synthesis	/'sinθisis/	n.(pl.syntheses)综合,合成     ingredient  混合物
 tariff	/'tærif/	n.关税,税率;(旅馆,饭店等)价目表,收费表 Terrific - 极好的 Duty - 关税，职责 Tax - 税 Levy - 征税，征收 Charge - 收费 Customs - 海关（与关税相关的）
 tenant	/'tenənt/	n.承租人;房客;佃户 vt.租借，承租 Lessee - 承租人 Renter - 租客 Occupant - 居住者 Leaseholder - 租赁人 Resident - 居民，居住者
 textile	/'tekstail/	n.纺织品 a.纺织的 Fabric - 面料，织物 Material - 材料 Cloth - 布料 Woven - 编织的 Fiber - 纤维
 threshold	/'θreʃhəuld/	n.门槛;入门,开端
-thrift	/θrift/	a.节约，节俭   refrain
+thrift	/θrift/	a.节约，节俭   refrain 不做某事
 turbulent	/'tə:bjulənt/	a.狂暴的,无秩序的
 turbine	/'tə:bain/	n.汽轮机,涡轮机
 torment	/tɔ:'ment/	n.折磨；令人痛苦的东西(人)vt.折磨；纠缠
@@ -351,11 +351,14 @@ torrent	/'tɔrənt/	n.激流，洪流；爆发，(话语等的)连发
 torture	/'tɔ:tʃə/	v.拷问,拷打;折磨,磨难 n.拷问;折磨,痛苦
 vibrate	/vai'breit/	v.(使)振动,(使)摇摆；受…而感动
 wagon	/'wægən/	n.运货马车,运货车;敞蓬车厢
-wicked	/'wikid/	a.坏的;邪恶的;不道德的;恶劣的;淘气的
+wicked	/'wikid/	a.坏的;邪恶的;不道德的;恶劣的;淘气的 wit vicious
 waist	/weist/	n.腰,腰部 wrist  手腕
-withhold	/'wið'həuld/	vt.使停止;拒给;保留;抑制 vi.忍住  repression 压抑  suppress oppress
+withhold	/'wið'həuld/	vt.使停止;拒给;保留;抑制 vi.忍住  repression 压抑  suppress oppress repress
+at one’s wit’s end 无法可想, 智穷计尽 (=not knowing what to do or to say, Drained , Overwhelmed, Burned out, Stretched thin ) 
 wool	/wul/	n.羊毛,毛线,毛织品
 wrench	/rentʃ/	v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受
+wreath	/ri:θ/	n.花环,花圈
+wretched	/'retʃid/	a.可怜的;悲惨的;肮脏的;恶劣的
 intention	/in'tenʃən/	n.意图,意向,目的
 intense	/in'tens/	a.强烈的,剧烈的;热烈的,热情的
 intrigue	/in'tri:g/	n.阴谋v.密谋,私通;激起…的兴趣;诡计取得
