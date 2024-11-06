@@ -3206,6 +3206,7 @@ orange	/'ɔrindʒ/	n.柑,桔,橙
 orbit	/'ɔ:bit/	n.轨道 v.(使)沿轨道行
 orchard	/'ɔ:tʃəd/	n.果园,果园里的全部果树,<美俚>棒球场
 orchestra	/'ɔ:kistrə/	n.管弦乐队
+orchestrate             精心策划
 order	/'ɔrdɚ/	n.命令;次序;整齐;定货单;等级 v.定制,订购
 orderly	/'ɔ:dəli/	a.整齐的,有秩序的,有条理的 n.勤务兵
 ordinary	/'ɔ:dinəri/	a.普通的,平凡的,平常的;平庸的
@@ -5403,7 +5404,6 @@ avail	/ə'veil/	n.[一般用于否定句或疑问句中]效用,利益
 avert	/ə'və:t/	v.防止，避免 ；转移(目光、注意力等)
 aviation	/ˌeivi'eiʃən/	n.航空，航空学；飞机制造业
 awe	/ɔ:/	n.敬畏，惊惧vt.使敬畏，使惊惧
-
 balcony	/'bælkəni/	n.阳台；(电影院等的)楼厅，楼座
 bald	/bɔ:ld/	a.秃的,秃头的
 ballot	/'bælət/	n.(不记名)投票；投票总数；投票权 vi.投票

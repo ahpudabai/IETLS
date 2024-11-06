@@ -62,7 +62,7 @@ confine	/kən'faɪn/	vt.限制；使不外出，禁闭n.[pl.]界限，范围  Re
 conspicuous	/kən'spikjuəs/	a.显眼的,明显的   Noticeable - 显著的  eminent 显眼的
 contaminate	/kən'tæmɪneɪt/	v.弄污,弄脏,毒害,传染,染污
 contemplate	/'kɔntəmpleit/	vt.盘算，计议；周密考虑；注视，凝视
-contempt	/kən'tempt/	n.轻视，藐视；受辱，丢脸  indifferent  冷漠的
+contempt	/kən'tempt/	n.轻视，藐视；受辱，丢脸  indifferent  冷漠的  despise
 contradict	/ˌkɔntrə'dikt/	v.反驳;同…矛盾,同…抵触  counter  反驳  Refute - 驳斥 Constrict - 压缩，收缩 Contrive - 设法做到
 concede	/kən'si:d/	vt.承认；容许；(比赛结束前)认输；退让
 concise	/kən'sais/	a.简明的,简洁的
@@ -102,6 +102,8 @@ derive	/dɪ'raɪv/	v.取得;导出;引申;来自;源自;出自
 dignity	/'dignəti/	n.(举止,态度等的)庄严,端庄;尊贵,高贵
 desolate	/'desələt/	a.荒凉的;孤独的 v.使荒芜  Deserted - 荒废的，被遗弃的
 detain	/di'tein/	v.耽搁;扣押,拘留
+deviate	/'di:vieit/	v.(from)背离,偏离
+devise	/dɪ'vaɪz/	vt.设计;发明;图谋;作出(计划);想出(办法)
 diffuse	/di'fju:s/	v.扩散;传播 a.(文章等)冗长的,漫无边际的
 discriminate	/dɪ'skrɪmɪneɪt/	v.区别,辨别;(against)有差别地对待,歧视   Prejudice - 偏见，歧视
 disperse	/dis'pə:s/	v.(使)分散;(使)散开;疏散
@@ -156,6 +158,7 @@ huddle	/'hʌdl/	n./v.拥挤;聚集v.(因寒冷、害怕而)缩成一团
 hypocrisy	/hi'pɔkrisi/	n.伪善，虚伪
 idle	/'aidl/	a.空闲的,闲置的;懒散的 v.空费,虚度  vacant
 immense	/i'mens/	a.广大的,巨大的;[口]极好的
+emerge 出现
 impair	/im'pεə/	v.损害,损伤;削弱,减少
 impart	/im'pɑ:t/	vt.传授，给予；告知，通知
 imperative	/ɪm'perətɪv/	n.命令;需要;规则;祈使语气a.强制的;紧急的  Imperial - 帝国的  
@@ -207,7 +210,7 @@ lumber	/'lʌmbə/	n.木材,木料
 magistrate	/'mædʒistreit/	n.地方行政官，地方法官，治安官  Majesty - 陛下，威严 Adjudicator - 裁判员
 magnificent	/mæg'nifisənt/	a.华丽的,高尚的,宏伟的
 majesty	/'mædʒisti/	n.雄伟,壮丽,庄严,威严;最高权威,王权
-malignant	/mə'lignənt/	a.恶性的，致命的；恶意的，恶毒的  Benign - 良性的，和善的  Chronic 慢性的
+malignant	/mə'lignənt/	a.恶性的，致命的；恶意的，恶毒的  Benign - 良性的，和善的  Chronic 慢性的 deteriorate  使恶化
 maneuver	/mə'nu:və/	n.(manoeuvre)机动;运用,操作; v.机动   Steer - 驾驶，指引  mobilize 动员
 manifest	/'mænifest/	v.表明,证明,显示 a.明白的,明了的
 masculine	/'mæskjulin/	a.男性的，似男性的；［语法］阳性的
@@ -225,7 +228,7 @@ nap	/næp/	n.小睡,打盹
 nasty	/'nɑ:stiˌ 'næs-/	a.肮脏的,卑劣的,下流的;令人厌恶的  Vile - 邪恶的，恶劣的 notorious	/nəu'tɔ:riəs/	a.臭名昭著的,声名狼藉的
 notorious	/nəu'tɔ:riəs/	a.臭名昭著的,声名狼藉的
 nuisance	/'nju:səns/	n.讨厌的人(或东西);麻烦事
-obscure	/əb'skjuə(r)/	a.暗的,朦胧的;模糊的,晦涩的
+obscure	/əb'skjuə(r)/	a.暗的,朦胧的;模糊的,晦涩的 orchestrate 精心策划
 omit	/əu'mit/	v.省略,删去;遗漏,忽略  Neglect - 忽视，疏于照顾
 optical	/'ɔptikəl/	a.眼的,视力的;光学的  optional 可选的 illuminative 发光的 optimal   Spectral - 光谱的
 optimistic	/ˌɔpti'mistik/	a.乐观主义的
@@ -267,6 +270,7 @@ premise	/pri'maiz/	n.前提,房屋连地基v.提论,预述,假定
 profound	/prə'faund/	a.深刻的,意义深远的;渊博的,造诣深的
 prominent	/'prɔminənt/	a.突起的,凸出的;突出的,杰出的
 prose	/prəuz/	n.散文 a.散文的
+prosper	/'prɔspə/	v.成功,兴隆,昌盛,使成功,使昌隆,繁荣
 prosecute	/'prɔsikju:t/	vt.实行，从事 v.起诉，告发 vi.作检察官  embark  persecute 迫害   the agency said it would not prosecute landowner or businesses that unintentionally kill, harm, or disturb the bird
 provoke	/prəu'vəuk/	v.挑动;激发;招惹
 prudent	/'pru:dənt/	a.谨慎的,智慧的,稳健的,节俭的
@@ -275,12 +279,13 @@ puff	/pʌf/	n.一阵,一股(气味等);喘息;吹嘘v.喘息,鼓吹
 pupil	/'pjupəl/	n.学生,小学生;瞳孔
 pyramid	/'pirəmid/	n.金字塔
 prolong	/prə'lɔŋ/	v.拉长,延长,拖延
-radical	/'rædikəl/	a.基本的,重要的;激进的,极端的;根本的  staple  fundamental
 plausible	/'plɔ:zəble/	a.似是而非的,似乎合理的,似乎可信的
+radical	/'rædikəl/	a.基本的,重要的;激进的,极端的;根本的  staple  fundamental
 reconcile	/'rekənsail/	v.使和好,调解,使调和;(to,with)使一致  consist with 符合,与…一致
 repression	/ri'preʃən/	n.压抑，压制，镇压
 reed	/ri:d/	n.芦苇,苇丛;芦笛,牧笛
 reel	/ri:l/	n.卷筒,线轴 v.卷,绕
+relay	/'ri:lei/	v.中继,转播,接力 n.接替人员,替班
 refrain	/ˌri:'frein/	v.节制,避免,制止 n.(诗的)叠句  Restrain - 抑制，限制
 rehearsal	/ri'hə:səl/	n.排练,排演,演习,预演,试演  Warm-up - 热身
 reign	/rein/	n./v.统治,支配,盛行 n.统治时期 v.占优势
@@ -344,14 +349,19 @@ tenant	/'tenənt/	n.承租人;房客;佃户 vt.租借，承租 Lessee - 承租�
 textile	/'tekstail/	n.纺织品 a.纺织的 Fabric - 面料，织物 Material - 材料 Cloth - 布料 Woven - 编织的 Fiber - 纤维
 threshold	/'θreʃhəuld/	n.门槛;入门,开端
 thrift	/θrift/	a.节约，节俭   refrain 不做某事
+trivial	/'triviəl/	a.琐碎的;无足轻重的
+trolley	/'trɔli/	n.手推车;(英)无轨电车,(美)有轨电车
 turbulent	/'tə:bjulənt/	a.狂暴的,无秩序的
 turbine	/'tə:bain/	n.汽轮机,涡轮机
 torment	/tɔ:'ment/	n.折磨；令人痛苦的东西(人)vt.折磨；纠缠
 torrent	/'tɔrənt/	n.激流，洪流；爆发，(话语等的)连发
 torture	/'tɔ:tʃə/	v.拷问,拷打;折磨,磨难 n.拷问;折磨,痛苦
 vibrate	/vai'breit/	v.(使)振动,(使)摇摆；受…而感动
+veil	/veil/	n.面纱,遮蔽物 v.用面纱掩盖,掩饰
+ventilate	/'ventileit/	vt.使通风;给…装通风设备
 wagon	/'wægən/	n.运货马车,运货车;敞蓬车厢
 wicked	/'wikid/	a.坏的;邪恶的;不道德的;恶劣的;淘气的 wit vicious
+wheat	/hwi:t/	n.小麦
 waist	/weist/	n.腰,腰部 wrist  手腕
 withhold	/'wið'həuld/	vt.使停止;拒给;保留;抑制 vi.忍住  repression 压抑  suppress oppress repress
 at one’s wit’s end 无法可想, 智穷计尽 (=not knowing what to do or to say, Drained , Overwhelmed, Burned out, Stretched thin ) 
