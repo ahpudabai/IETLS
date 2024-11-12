@@ -1,4 +1,5 @@
 abundant	/ə'bʌndənt/	a.大量(充足)的；(in)丰富(富裕)的
+address     解决，处理，演讲，致辞，称呼
 accessory	/ək'sesəri/	n.附件,附属品;(为全套衣服增加美感的)服饰
 acclaim	/ə'kleim/	v.向…欢呼，公认 n.欢呼，喝彩，称赞
 accommodate	/ə'kɒmədeɪt/	vt.向…提供住处；对...予以照顾性考虑
@@ -29,6 +30,7 @@ blunder	/'blʌndə/	v.(因无知等而)犯大错;踉踉跄跄地走 n.大错
 bowel	/'bauəl/	n.肠；［pl.］内部，深处 Bowl - 碗
 brand	/brænd/	n.商标,标记,牌子 v.使铭记;打火印,打烙印
 bride	/braid/	n.新娘
+breach	/bri:tʃ/	n.违反，不履行；破裂 vt.冲破，攻破
 brook	/bruk/	n.小溪vt.[常用于否定句或疑问句]容忍
 bug	/bʌg/	n.臭虫;小毛病;窃听器 v.窃听
 bulletin	/'bulitin/	n.公报,公告,告示
@@ -87,6 +89,7 @@ crude	/kru:d/	a.天然的,未加工的;未熟的;粗鲁的,粗野的
 cruise	/kru:z/	v.巡航；以节省燃料的速度前进 n.乘船巡游
 cunning	/'kʌniŋ/	a./n.狡猾(的),狡诈(的)   Shrewd - 精明的  Crafty - 狡猾的  Stunning - 惊艳的
 curriculum	/kə'rikjuləm/	n.(pl.curricula)课程,(学校等的)全部课程
+cut back     削减，减少投入活动  undercut 削弱 压低
 discreet	/dis'kri:t/	a.(言行)谨慎的；慎重的；有判断力的
 discrepancy	/dis'krepənsi/	n.相差;差异;矛盾;
 disrupt	/dis'rʌpt/	vt.使混乱，使崩溃，使分裂，使瓦解
@@ -135,6 +138,7 @@ formidable	/'fɔ:midəbl/	a.强大的;令人敬畏的;可怕的;艰难的 grim  
 freight	/freit/	n.货物,货运,运费
 frost	/frɔst/	n.霜,霜冻,严寒
 frustrate	/frʌs'treit/	vt.挫败,阻挠,使灰心
+fatigue	/fə'ti:g/	n./v.(使)疲劳
 furious	/'fju:riəs/	a.狂怒的,狂暴的,猛烈的  
 furnace	/'fə:nis/	n.炉子,熔炉
 famine	/'fæmin/	n.饥荒,饥馑
@@ -142,6 +146,7 @@ foster	/'fɔstə/	vt.养育;收养;怀抱;鼓励 a.收养的 n.养育者
 genuine	/'dʒenjuin/	a.真正的,名副其实的
 ghost	/gəust/	n.鬼魂,幽灵
 grand	/grænd/	a.盛大的,豪华的;重大的,主要的
+gerontologists 老年学家 老年医学专家
 grieve	/gri:v/	v.使悲伤,使伤心
 grim	/grim/	a.严酷的，令人害怕的；不愉快的，讨厌的  Stern - 严厉的  Grin - 露齿而笑 formidable
 grin	/grin/	n./vi.露齿而笑，咧嘴一笑
@@ -216,7 +221,10 @@ manifest	/'mænifest/	v.表明,证明,显示 a.明白的,明了的
 masculine	/'mæskjulin/	a.男性的，似男性的；［语法］阳性的
 menace	/'menəs/	vt./n.有危险性的人(或物)；威胁，威吓  
 mercury	/'mɜ:kjəri/	n.水银,汞
+mediate	v.仲裁, 调停, 作为引起...的媒介, 居中调停。
+mar	v.弄坏, 毁坏, 损害。n.损伤, 毁损, 障碍。n.(Mar) 三月(=March)。
 metaphor	/'metəfə/	n.隐喻，暗喻
+mandatory	adj.命令的, 强制的, 托管的。
 militant	/'mɪlɪtənt/	a.好战的，富于战斗性的 n.斗士   Confrontational - 对抗的
 merchandise	/'mə:tʃəndaiz/	n.商品,货物
 mingle	/'miŋgl/	v.(使)混合
@@ -267,6 +275,7 @@ poultry	/'pəultri/	n.家禽
 predecessor	/'pri:disesə/	n.前辈，前任 Successor - 继任者  Precede - 在…之前
 preliminary	/pri'liminəri/	a.预备的,初步的
 premise	/pri'maiz/	n.前提,房屋连地基v.提论,预述,假定
+physician	n. 医生
 profound	/prə'faund/	a.深刻的,意义深远的;渊博的,造诣深的
 prominent	/'prɔminənt/	a.突起的,凸出的;突出的,杰出的
 prose	/prəuz/	n.散文 a.散文的
@@ -310,6 +319,8 @@ screw	/skru:/	n.螺旋,螺丝(钉) v.拧,拧紧 Bolt fasten twist clamp[夹紧]
 senate	/'senit/	n.参议院,上院 Senator - 参议员 Sentry - 哨兵，警卫 Congress - 国会 Parliament - 议会 Assembly - 集会，立法机构 Council - 委员会 Legislature - 立法机关
 sensation	/sen'seiʃən/	n.感觉,知觉;激动,轰动,轰动一时的事情 Sensational - 轰动的 Feeling - 感觉 Perception - 感知 Emotion - 情绪 Awareness - 意识 Impression - 印象
 shepherd	/'ʃepəd/	n.牧民,牧羊人 Herder 牧人
+subsidize	v.资助, 津贴。
+substantial	/səb'stænʃəl/	a.实质的;相当的;显著的;坚固的;富裕的
 scent	/sent/	n.气味,香味,香水,线索,嗅觉 v.嗅,发觉
 shrewd	/ʃru:d/	a.机灵的,敏锐的;精明的 Astute - 精明的，敏锐的 Clever - 聪明的 Savvy - 有见识的，精明的 Perceptive - 有洞察力的 Insightful - 富有洞察力的
 silk	/silk/	n.丝,绸 Velvet - 天鹅绒 Lustrous - 有光泽的
@@ -364,7 +375,11 @@ wicked	/'wikid/	a.坏的;邪恶的;不道德的;恶劣的;淘气的 wit vicious
 wheat	/hwi:t/	n.小麦
 waist	/weist/	n.腰,腰部 wrist  手腕
 withhold	/'wið'həuld/	vt.使停止;拒给;保留;抑制 vi.忍住  repression 压抑  suppress oppress repress
-at one’s wit’s end 无法可想, 智穷计尽 (=not knowing what to do or to say, Drained , Overwhelmed, Burned out, Stretched thin ) 
+                            at one’s wit’s end 无法可想, 智穷计尽 (=not knowing what to do or to say, 
+                            Drained , 
+                            Overwhelmed 不堪重负 压倒 被淹没, 
+                            Burned out 筋疲力尽, 
+                            Stretched thin  精力分散) 
 wool	/wul/	n.羊毛,毛线,毛织品
 wrench	/rentʃ/	v.猛拧；挣脱；使扭伤 n.扳手；痛苦，难受
 wreath	/ri:θ/	n.花环,花圈
@@ -372,6 +387,7 @@ wretched	/'retʃid/	a.可怜的;悲惨的;肮脏的;恶劣的
 intention	/in'tenʃən/	n.意图,意向,目的
 intense	/in'tens/	a.强烈的,剧烈的;热烈的,热情的
 intrigue	/in'tri:g/	n.阴谋v.密谋,私通;激起…的兴趣;诡计取得
+strong-willed  意志坚定
 
 
 
