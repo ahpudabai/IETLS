@@ -6588,7 +6588,7 @@
 6588	profound	a. 深的,极深的;渊博的;深奥的
 6589	profuse	adj.极其丰富的。
 6590	program	n. 节目，计划，规划，程序v. 编程序
-6591	programer	n.项目，程序制定者
+6591	programmer	n.项目，程序制定者
 6592	programing	n.程序编排
 6593	progress	n. 进步，进展；前进v. 进步，进展；前进
 6594	progressive	a. 进步的，先进的；前进的
