@@ -31,6 +31,7 @@ auxiliary	/ɔ:g'ziljəri/	a.辅助的，支援的 n.辅助者，辅助设备
 avert	/ə'və:t/	v.防止，避免 ；转移(目光、注意力等)  
             advert  注意到  
             adverse  相反
+inadvertently  无意间
 beam	/bi:m/	n.(横)梁,桁条;(光线的)束,柱 v.微笑
 bibliography	/ˌbibli'ɔgrəfi/	n.(有关某一专题的)书目；参考书目
 blackmail	/'blækmeil/	n.讹诈，敲诈，勒索；胁迫，恫吓
@@ -71,7 +72,11 @@ comb	/kəum/	n.梳子 v.梳(理)
 commemorate	/kə'meməreit/	vt.纪念，庆祝
 commend	/kə'mend/	v.称赞，表扬：委托保管；推荐
 commission	/kə'miʃən/	n.委员会;委任,委托(书),代办;佣金,手续费
+composed	adj.镇静的
+composer	n.作曲家；调停人
+composite	a. 合成的,复合的
 compromise	/'kɔmprəmaiz/	n.妥协，折衷vi.妥协vt.危及，放弃(原则等)
+communal	adj.公共的, 公社的。
 compulsory	/kəm'pʌlsəri/	a.必须做的，强制性的，(课程)必修的
 conceive	/kən'si:v/	v.(of)设想,构思,想象;以为;怀胎,怀有
 concession	/kən'seʃən/	n.让步，妥协；特许(权)；  
@@ -618,10 +623,24 @@ integrity 完整 完整性 诚信 廉正 正直
 indignity（屈辱、不尊重）通常指某种行为或事件，这种行为或事件使人感到失去尊严、受到侮辱或低人一等。
 intrigue	/in'tri:g/	n.阴谋v.密谋,私通;激起…的兴趣;诡计取得
 strong-willed  意志坚定
+throughout	/θru:'aut/	prep.遍及，贯穿 ad.到处，自始至终，彻底
+minimalist  极简主义
+chunkier   更大块
+lever	/'li:və/	n.杆,杠杆,手段,途径,工具
+lest	/lest/	conj.惟恐,免得
+reciprocal	a. 相互的,互惠的
+corporation	/ˌkɔ:pə'reɪʃn/	n.市镇自治机关；法人；公司，企业
+fairly	/'fεəli/	ad.公正地,正当地;相当,还算
+rip	/rip/	v.撕,剥,劈,锯,裂开,撕裂 n.裂口,裂缝
+overrule	vt.驳回, 否决, 支配, 制服。
+hail	/heɪl/	v.下雹;欢呼,欢迎 n.雹
+roll out  推出
+compliment	n. 敬意,赞扬;问候;vt. 恭维;称赞
+tailor	定制
+pragmatic	adj.国事的, 团体事务的, 实际的, 注重实效的。
 
-
-
-
+Benefit and emerge from... 是一个合理的搭配结构，表示“从某种情况中受益并走出来”。
+Attuned 是一个形容词，意思是对……敏感的、适应的、协调一致的
 
 
 1. Kick the bucket
