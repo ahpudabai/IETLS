@@ -130,7 +130,8 @@ discreet	/dis'kri:t/	a.(言行)谨慎的；慎重的；有判断力的
 discrepancy	/dis'krepənsi/	n.相差;差异;矛盾; 
             contradiction 矛盾 两个事物有冲突或者不相容
 disrupt	/dis'rʌpt/	vt.使混乱，使崩溃，使分裂，使瓦解
-deem	/di:m/	v.认为,相信  Beam - 光束，横梁
+deem	/di:m/	v.认为,相信  
+        Beam - 光束，横梁
 delegate	/'deligət/	n.代表 vt.委派…为代表;授权;委托  
             Delicate - 精致的，易碎的 
             Assign - 分配，指派
@@ -150,7 +151,7 @@ despise	/di'spaiz/	v.轻视,蔑视
         Contempt - 鄙视，轻视，通常指对某事物或某人的不屑一顾。
         Disdain - 蔑视，认为某事或某人不值得尊重。
         Scorn - 轻蔑，表示对某事或某人不屑一顾。
-dearth	n.缺乏。
+        dearth	n.缺乏。
 deputy	/'depjuti/	n.代理人,代表 a.副的,代理的
 derive	/dɪ'raɪv/	v.取得;导出;引申;来自;源自;出自
 dignity	/'dignəti/	n.(举止,态度等的)庄严,端庄;尊贵,高贵
@@ -239,7 +240,7 @@ hypocrisy	/hi'pɔkrisi/	n.伪善，虚伪
 idle	/'aidl/	a.空闲的,闲置的;懒散的 v.空费,虚度  
         vacant
 immense	/i'mens/	a.广大的,巨大的;[口]极好的
-emerge 出现
+        emerge 出现
 impair	/im'pεə/	v.损害,损伤;削弱,减少
 impart	/im'pɑ:t/	vt.传授，给予；告知，通知
 imperative	/ɪm'perətɪv/	n.命令;需要;规则;祈使语气a.强制的;紧急的  
@@ -301,12 +302,12 @@ lap	/læp/	n.大腿,(跑道的)一圈,一段路程,工作阶段
 lapse	/læps/	n.失误,流逝,丧失,下降 v.失效,偏离,流逝
 layman	/'leimən/	n.外行
 legislation	/ˌledʒis'leiʃən/	n.法律(规)；立法，法律的制定(或通过)
-legitimate	/li'dʒitimət/	a.合法的；合理的，合乎逻辑的 vt.使合法
-liberal	/'libərəl/	a.慷慨的,大方的;富足的;自由的,思想开放的
-lid	/lid/	n.盖  lip 嘴唇
+##legitimate	/li'dʒitimət/	a.合法的；合理的，合乎逻辑的 vt.使合法
+##liberal	/'libərəl/	a.慷慨的,大方的;富足的;自由的,思想开放的
+##lid	/lid/	n.盖  lip 嘴唇
 limb	/lim/	n.肢,翼,大树枝
 limp	/limp/	a.柔软的,易曲的 v./n.蹒跚,跛行
-literacy	/'litərəsi/	n.有文化,有教养,有读写能力
+##literacy	/'litərəsi/	n.有文化,有教养,有读写能力
 locomotive	/'ləukəˌməutiv/	n.机车,火车头 a.运动的,移动的,运载的
 lubricate	/'lubrikeit/	v.润滑,加润滑油,行贿,收买
 lumber	/'lʌmbə/	n.木材,木料
@@ -335,7 +336,7 @@ mingle	/'miŋgl/	v.(使)混合
 mobilize	/'məubilaiz/	v.(mobilise)动员,赋予可动性
 moderate	/'mɔdərət/	a.有节制的,中等的,适度的,温和的,稳健的
 momentum	/məu'mentəm/	n.动力,要素
-mandate                v. 授权
+            mandate                v. 授权
 nap	/næp/	n.小睡,打盹
 nasty	/'nɑ:stiˌ 'næs-/	a.肮脏的,卑劣的,下流的;令人厌恶的  
         Vile - 邪恶的，恶劣的 
@@ -482,8 +483,8 @@ silk	/silk/	n.丝,绸
         Velvet - 天鹅绒 
         Lustrous - 有光泽的
 silly	/'sɪli/	a.傻的,糊涂的,愚蠢的 
-Silty - 淤泥的  
-Sill - 窗台
+        Silty - 淤泥的  
+        Sill - 窗台
 silver	/'silvə/	n.银;银器;银币 v.镀银
 slice	/slais/	n.薄片,切片;一份;部分切(片)
 slide	/slaid/	v.(使)滑动 n.滑坡,滑道;滑,滑动;幻灯片
@@ -506,33 +507,33 @@ snatch	/snætʃ/	n./v.攫取,抢夺
         Snag - 障碍，钩破 
         Seize - 抓住，夺取
 sorrow	/'sɔrəu/	n.悲衰,悲痛 
-Grief - 悲痛 
-Heartache - 心痛 
-Melancholy - 忧郁 
-Despair - 绝望
+        Grief - 悲痛 
+        Heartache - 心痛 
+        Melancholy - 忧郁 
+        Despair - 绝望
 sore	/sɔ:/	a.疼痛的;痛心的 n.痛处,疮口 
-Soar - 翱翔，急升 
-Inflamed - 发炎的
+        Soar - 翱翔，急升 
+        Inflamed - 发炎的
 sophomore	/'sɔfəmɔ:/	(中学、大学)二年级学生 
-Undergraduate - 本科生
+        Undergraduate - 本科生
 sophisticated	/sə'fistikeitid/	a.尖端的,复杂的,先进的;老练的,老于世故的  
-Sophist - 诡辩家  
-Refined - 精致的  
-Worldly - 世俗的，老练的
+        Sophist - 诡辩家  
+        Refined - 精致的  
+        Worldly - 世俗的，老练的
 spectacle	/'spektəkl/	n.(pl.)眼镜;场面,景象;奇观,壮观  
-Spectator - 观众 
-Exhibition - 展览  
-Speculate - 推测，投机
+        Spectator - 观众 
+        Exhibition - 展览  
+        Speculate - 推测，投机
 spectrum	/'spektrəm/	n.谱，光谱，频谱；范围，幅度，系列  
-            Spectral - 光谱的
+        Spectral - 光谱的
 spontaneous	/spɔn'teiniəs/	a.自发的,自然产生的  
-Simultaneous - 同时的 
-Impulsive - 冲动的 
-Instinctive - 本能的
+        Simultaneous - 同时的 
+        Impulsive - 冲动的 
+        Instinctive - 本能的
 sovereign	/'sɔvərin/	a.独立的，有主权的 n.君主，国王，统治者
-stale	/steil/	n.变质的,不新鲜的;陈旧的,陈腐的   
-Spoiled - 变质的  
-Musty - 发霉的
+        stale	/steil/	n.变质的,不新鲜的;陈旧的,陈腐的   
+        Spoiled - 变质的  
+        Musty - 发霉的
 staple	/'steipl/	n.主要产品；名产；纤维；主要成分，主食 
         Fundamental - 基础的 
         Stable - 稳定的 
@@ -541,15 +542,15 @@ stoop	/stu:p/	v.弯腰,俯身 n.弯腰,曲背
         Bend - 弯曲  
         Lean - 倾斜，靠
 subordinate	/sə'bɔ:dinət/	a.(to)次要的,从属的;下级的 
-Dependent - 依赖的，从属的 
-Inferior - 较低级的，次要的
+        Dependent - 依赖的，从属的 
+        Inferior - 较低级的，次要的
 seminar	/'seminɑ:/	n.(大学的)研究班,研讨会
 superfluous	/sju'pə:fluəs/	a.多余的，过剩的，
-Superficial - 表面的，肤浅的 
-Excessive - 过多的 
-Unnecessary - 不必要的 
-Redundant - 多余的 
-Extraneous - 无关的，外来的
+        Superficial - 表面的，肤浅的 
+        Excessive - 过多的 
+        Unnecessary - 不必要的 
+        Redundant - 多余的 
+        Extraneous - 无关的，外来的
 speculate	/'spekjuleit/	vi.思索；推测vt.投机；思索，推测  
             hypothesize 
             presume 推测
@@ -569,11 +570,11 @@ tariff	/'tærif/	n.关税,税率;(旅馆,饭店等)价目表,收费表
             Charge - 收费 
             Customs - 海关（与关税相关的）
 tenant	/'tenənt/	n.承租人;房客;佃户 vt.租借，承租 
-Lessee - 承租人 
-Renter - 租客 
-Occupant - 居住者 
-Leaseholder - 租赁人 
-Resident - 居民，居住者
+            Lessee - 承租人 
+            Renter - 租客 
+            Occupant - 居住者 
+            Leaseholder - 租赁人 
+            Resident - 居民，居住者
 textile	/'tekstail/	n.纺织品 a.纺织的 
             Fabric - 面料，织物 
             Material - 材料 
@@ -581,7 +582,8 @@ textile	/'tekstail/	n.纺织品 a.纺织的
             Woven - 编织的 
             Fiber - 纤维
 threshold	/'θreʃhəuld/	n.门槛;入门,开端
-thrift	/θrift/	a.节约，节俭   refrain 不做某事
+thrift	/θrift/	a.节约，节俭   
+        refrain 不做某事
 trivial	/'triviəl/	a.琐碎的;无足轻重的
 trolley	/'trɔli/	n.手推车;(英)无轨电车,(美)有轨电车
 turbulent	/'tə:bjulənt/	a.狂暴的,无秩序的
@@ -597,7 +599,8 @@ wicked	/'wikid/	a.坏的;邪恶的;不道德的;恶劣的;淘气的
         wit 
         vicious
 wheat	/hwi:t/	n.小麦
-waist	/weist/	n.腰,腰部 wrist  手腕
+waist	/weist/	n.腰,腰部 
+        wrist  手腕
 withhold	/'wið'həuld/	vt.使停止;拒给;保留;抑制 vi.忍住  
                             repression 压抑  suppress oppress repress
                             at one’s wit’s end 无法可想, 智穷计尽 (=not knowing what to do or to say, 
@@ -621,6 +624,46 @@ strong-willed  意志坚定
 
 
 
+1. Kick the bucket
+   实际含义: 去世
+   例句: The old man finally kicked the bucket last night.
+   （那位老人昨晚终于去世了。）
+2. Hit the books
+   实际含义: 用功读书
+   例句: I have an exam tomorrow, so I need to hit the books tonight.
+   （我明天有考试，所以今晚得好好学习。）
+3. Break the ice
+   实际含义: 破冰（打破沉默或僵局）
+   例句: The host told a joke to break the ice at the party.
+   （主持人在派对上讲了个笑话来活跃气氛。）
+4. Spill the beans
+   实际含义: 泄露秘密
+   例句: Don't spill the beans about the surprise party!
+   （不要泄露关于惊喜派对的秘密！）
+5. Bite the bullet
+   实际含义: 硬着头皮去做某事，忍受痛苦
+   例句: He had to bite the bullet and take the difficult job.
+   （他不得不硬着头皮接下那份棘手的工作。）
+6. Under the weather
+   实际含义: 身体不舒服
+   例句: I'm feeling a bit under the weather today.
+   （我今天有点不舒服。）
+7. Let the cat out of the bag
+   实际含义: 泄露秘密
+   例句: Who let the cat out of the bag about our plans?
+   （是谁泄露了我们计划的秘密？）
+8. Burn the midnight oil
+   实际含义: 开夜车，熬夜工作或学习
+   例句: She burned the midnight oil to finish her report.
+   （她熬夜赶完了报告。）
+9. Pull someone’s leg
+   实际含义: 开玩笑
+   例句: Are you pulling my leg, or is this for real?
+   （你是在开玩笑，还是认真的？）
+10. Piece of cake
+    实际含义: 小菜一碟，很容易的事
+    例句: That exam was a piece of cake!
+    （那场考试简直太简单了！）
 
 
 
