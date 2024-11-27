@@ -5709,7 +5709,6 @@ frontier	/'frʌntjə/	n.国境,边境;尖端,新领域
 fume	/fju:m/	n.(浓烈或难闻的）烟，气，汽
 furious	/'fju:riəs/	a.狂怒的,狂暴的,猛烈的
 furnace	/'fə:nis/	n.炉子,熔炉
-furnace	/'fə:nis/	n.炉子,熔炉
 furnish	/'fə:niʃ/	v.供应,提供;装备,布置
 fuse	/fju:z/	n.保险丝,导火线,引信 v.熔化,熔合
 fuss	/fʌs/	n./v.忙乱,大惊小怪
