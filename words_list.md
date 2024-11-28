@@ -5359,7 +5359,6 @@ zone	/zəun/	n.地区,区域 v.分区,划分地带
 zoo	/zu:/	n.动物园
 zoom	/zu:m/	vi.(飞机)陡升 n.陡升；嗡嗡声
 about	/ə'baut/	ad.在周围；大约 prep.关于；在周围 a.准备
-about	/ə'baut/	ad.在周围；大约 prep.关于；在周围 a.准备
 
 
 

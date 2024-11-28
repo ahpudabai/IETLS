@@ -116,6 +116,7 @@ cordial	/'kɔ:djəl/	a.诚恳的,亲切的,热诚的
         Friendly  
         cardinal - 首要的基本的
         amiable	/'eimjəbl/	a.和蔼可亲的，友善的，亲切的
+        gracious	/'greiʃəs/	a.亲切的,客气的;宽厚的,仁慈的
 corridor/'kɒrɪdɔ:(r)/	n.走廊,通路  aisle  走廊
 corrode	/kə'rəud/	v.(受)腐蚀,侵蚀
 corrupt	/kə'rʌpt/	v.贿赂,收买 a.腐败的,贪污的
@@ -671,6 +672,24 @@ gut	/gʌt/	n.[pl.]胆量；内脏a.本能的vt.取出内脏
 endeavor	/in'devə/	v./n.(endeavour)努力,尽力,力图
 endorse	vt. 背书,签署(姓名);赞同
 grave	a. 严重的;严肃的,庄重的;n. 墓
+
+trivial	/'triviəl/	a.琐碎的;无足轻重的
+evaporate	/i'væpəreit/	v.蒸发,挥发;沉淀;发射;消失
+compliment	n. 敬意,赞扬;问候;vt. 恭维;称赞
+be present   专注当下
+inquiry      探寻,探究,询问
+profound	a. 深的,极深的;渊博的;深奥的
+intelligent	/in'telidʒent/	a.聪明的,明智的,理智的
+diligent	/'dilidʒənt/	a.勤奋的,用功的
+dilute	/dai'lju:t/	vt.稀释，冲淡 a.稀释的，冲淡的
+name	/neɪm/	n.名字(称/声/义) vt.给…取名；列举；提名
+insight	/'insait/	n.洞察力,见识
+institute	/'institjut/	n.学会,研究所;学院 v.设立,设置,制定
+put-down   奚落的话
+upmarket   高端的
+thick 粗的厚重， thrust 刺戳
+utter	/'ʌtə/	v.说,发出(声音) a.彻底的,完全的
+skeptic  critic 
 
 1. Kick the bucket
    实际含义: 去世
